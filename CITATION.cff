@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite the associated manuscript SEGAN-D-26-02403. The authors must replace the collective project entry with their approved author list and add a DOI only when issued."
+title: "FCUC-SODE-ML-LaPalma: frozen-coefficient frequency-constrained unit commitment"
+type: software
+authors:
+  - name: "SEGAN-D-26-02403 research software contributors"
+version: "1.0.0-deployment"
+date-released: 2026-10-14
+abstract: "La Palma frozen-coefficient ML-FCUC deployment, numerical inputs, documented research source and executable verification notebooks. Native GAMS/CPLEX execution is not claimed for the packaging environment."
+keywords:
+  - unit commitment
+  - frequency security
+  - machine learning
+  - La Palma
+  - GAMS
+  - reproducibility

@@ -1,0 +1,26 @@
+[
+  {
+    "notebook": "00_Quick_Start.ipynb",
+    "execution": "PASS",
+    "code_cells": 4,
+    "seconds": 1.981
+  },
+  {
+    "notebook": "01_Frozen_Cuts_and_Export.ipynb",
+    "execution": "PASS",
+    "code_cells": 6,
+    "seconds": 2.498
+  },
+  {
+    "notebook": "02_SODE_Equation_Checks.ipynb",
+    "execution": "PASS",
+    "code_cells": 4,
+    "seconds": 2.439
+  },
+  {
+    "notebook": "03_Read_and_Audit_Native_Results.ipynb",
+    "execution": "PASS",
+    "code_cells": 3,
+    "seconds": 1.838
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "source_comparisons": 33,
+  "primary_numerical_includes": 18,
+  "units": 11,
+  "hourly_input_points": 672,
+  "folders_prepared": 336,
+  "native_gams_execution": "NOT RUN"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "actual_big_m_values": 132,
+  "big_m_max_abs_error": 0,
+  "coefficient_export_byte_match": true,
+  "toy_affine_probability_error": 8.825162822745369e-13,
+  "toy_group_folds": 3,
+  "original_fitted_pipeline_replay": "NOT RUN"
+}

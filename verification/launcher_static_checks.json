@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "original_daily_calls": 336,
+  "unique_keys": 336,
+  "selected_week_calls": 7,
+  "selected_week_policy_body_matches": true,
+  "directory_preparation_paths": 336,
+  "all_day_predecessors_correct": true,
+  "new_start_native_compilation": "NOT RUN"
+}

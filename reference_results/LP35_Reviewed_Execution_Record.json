@@ -1,0 +1,3081 @@
+{
+  "all_coefficient_blocks_checked_against_snapshot": true,
+  "archive_sha256": "aaf08a0c8a1bcb7ad60f94ac8a8061d5adc4d8564d359dbed52c86b200617327",
+  "audit_scope": "All 336 numbered compiled main bodies matched the frozen source after macro expansion with executed search gap 0.005 and polish cap 300 seconds. All coefficient blocks and workbook operational audits passed.",
+  "audit_version": "LP35_REVIEWED_NATIVE_SETTINGS_V2_20260924",
+  "campaign": "LP35_6259c70d0303",
+  "criterion_hz": 46.5,
+  "cut_sha256": "00b3a917599f39a97ce1a2238ff24ba608863c174d958c25dbc78bc156454418",
+  "days": [
+    {
+      "acceptance_sha256": "e1ad175c09433f35768bcac40e124a75c7c53475b744eba679ea639db13b7a43",
+      "book_name": "Results_LR_C1_winter_d1.xlsx",
+      "book_sha256": "5a1cff9cc66536ed6d060f11a50a0fdb09582cfdc18bcc213a9e8671eade2f8a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1b00ef1e610228382ce7aff421124d3f2476f65a3f3bb10bcceada13b69ef424",
+      "relative_day": "LR_C1/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c66104830e69b086559a47733031f77f6e489e7fde0d135da5ede4ce305cf141",
+      "book_name": "Results_LR_C1_winter_d2.xlsx",
+      "book_sha256": "7f1e03ddf6c50139a42db1e30ed04962d2e126a1fd0d65c21e18389753b588d2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "31b8f2a666abf2d520d899184eaadaedc91dc580e02f9f258de03e71409afb4d",
+      "relative_day": "LR_C1/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "224ac6d772898fba51cc59b593a0390fa071562929e40a840c75f6c8e7ea2b58",
+      "book_name": "Results_LR_C1_winter_d3.xlsx",
+      "book_sha256": "f165f8152847857598953404cba3fc0f06cfd4c4ec70888476ff1c4d0a8abfeb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ae1a11fa8cf5de073b91f4894b51d1b43c49e0ed0a8f70ee6a0b00e95741fcb6",
+      "relative_day": "LR_C1/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "18f44726a583990444bd84c685ed0e8865c7ac0701d32606cbb49f465c1e9422",
+      "book_name": "Results_LR_C1_winter_d4.xlsx",
+      "book_sha256": "60a295a25dead328bf6702a6093981cd4b75132857327723f250a912eb0ef3a5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0c3acc134bb0b0fc51b4223f97c68607fe0d873bae665635ef236c491080a921",
+      "relative_day": "LR_C1/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d9f4fd21ecef3304583960539f9aa4679cda22781aea777fbb7de821f229173d",
+      "book_name": "Results_LR_C1_winter_d5.xlsx",
+      "book_sha256": "1e962fc75387b9f31556fae6f710e1c1a7adf12cea75765ffe972556dc4df081",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6d08b3a71a01118f0e2dd7c3b76332154fe9d5c8a0f1eb9524cee0a4455c1705",
+      "relative_day": "LR_C1/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f79303a1c0bbff0a543e349266c5beb3ca0226584dea795cb8c17db12a720553",
+      "book_name": "Results_LR_C1_winter_d6.xlsx",
+      "book_sha256": "5a2497f2eb9caafa389be972bb65fb00ba418a5680ae44fcc1294b89c3a57973",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d01efa2193b3a9dc58b957b6c75050307a18771a785ccf6a823476ca1f274e62",
+      "relative_day": "LR_C1/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "86aff212f6573d8f095df483c7ba0ff9b46c9027e3274ffb0e2bb39da9589295",
+      "book_name": "Results_LR_C1_winter_d7.xlsx",
+      "book_sha256": "4378fee06ae17cce63e08a66c1535b88593bb76b875747aa31eedb3b12393c52",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "11df388da2540957f1b0340c41d176b14e37440e9b8288bb33e0f4a51efe2dff",
+      "relative_day": "LR_C1/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3613c829b6d443885bb48be88262872f8025fc9fbe760d8741dc58b620afd856",
+      "book_name": "Results_LR_C1_spring_d1.xlsx",
+      "book_sha256": "6d04e6a1065f540bcefe65625af3d3b1cdbbddfe676feb3acb34b45d52a011da",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a6264d0c80bac348ef1e515eaca65c21d48ce23e208c0e0510bf49fd8af26d9c",
+      "relative_day": "LR_C1/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "156145b423b83068d6fdedabe384deba4dd98639a8e1de8c258ca53b0da7f230",
+      "book_name": "Results_LR_C1_spring_d2.xlsx",
+      "book_sha256": "25cfef842eb543499acbb3ad082b2b4faa1e3e83b54048b21ba0d43a77a1e8bc",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "54949ba93ce9f06f8658bff1f76d7f6fb2f083bea73dc71b2c4c43dc51641a51",
+      "relative_day": "LR_C1/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "13419e241a5e655a2adb4f06c09bdf8e5cfba04a044f509556a808b68dd7fc1d",
+      "book_name": "Results_LR_C1_spring_d3.xlsx",
+      "book_sha256": "32ec1e2eb394fb4851429c70f57f015b4376976f86cf7d35d0d1975c914c849e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b57b096c828865a19e395d0058c7df7944cf1da2d4c9022d642a849c742ab583",
+      "relative_day": "LR_C1/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "692a7b966c42d827658c3f72d0a2b3aa6253518db25bf3963ab24bab60d81bb9",
+      "book_name": "Results_LR_C1_spring_d4.xlsx",
+      "book_sha256": "2f0c8fffa4b70f592b53a8cc4de792c913cc024e662c69e755fd6ed3e96659e5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "07952d76631a97315477d759e1310a7e33ff61af9713a78f93379e2e144bc03c",
+      "relative_day": "LR_C1/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2574a81adaa11f9ed57a7c34651bc6b370cf326f9c06a22d9f4dae259dba308e",
+      "book_name": "Results_LR_C1_spring_d5.xlsx",
+      "book_sha256": "8c98d047441ff1f2ac2bf499f15b2d03879a56498c58fa0835af27af7d71bfc7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "adcce9cea1089ceab82f3ac7a70ba9a44063b92205ac2fb218e2f678a7753a58",
+      "relative_day": "LR_C1/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ac30e9b4b254a062fedef6c751ffc351aef1bcd8408855040bed657b43aaa498",
+      "book_name": "Results_LR_C1_spring_d6.xlsx",
+      "book_sha256": "ed4a02133f646265da7b5fa3097a2cfaf2418b60f557c9052495434b438bca71",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d1776c9b58f86d2b598ff7bd2aedc4dd29d41b96271551cd3808130acf4697cb",
+      "relative_day": "LR_C1/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2ee002c45bc53873970f62646f0e966f6879893ad2016fb138b62dba67185963",
+      "book_name": "Results_LR_C1_spring_d7.xlsx",
+      "book_sha256": "744463da1761eb2f6be859d7929daec1b3d44586539d9996fe18ad4ff2c0db80",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "45d88bb6e2a5482307b7d8f242e9fed40bed12059990c23a7d4f5e7278d4a28b",
+      "relative_day": "LR_C1/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "40362dd73a84197bed2ce1bc5f0cfa16be9a68fa66c3bbbc1990cc0be7a8b6d7",
+      "book_name": "Results_LR_C1_summer_d1.xlsx",
+      "book_sha256": "f2e27c6d1c69501a3534f1acb688c741d2956351f792963b532ab94f20922d25",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ce7c3dd10659822b450247310194aef653dea6a78729e36aa0592aca325c2a80",
+      "relative_day": "LR_C1/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3be0bbaeef9afe6281a1cfb91479ef6bf8719d9295fbc506d1b2ca95b3b96247",
+      "book_name": "Results_LR_C1_summer_d2.xlsx",
+      "book_sha256": "d571d12e04814fd539c92b8e7d6ec762f8af344d20a14d64622ca354e8491560",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "37e289b93c8d6bcd051a552b312f7440d2a63ccce41078331b5ad31e58c05eb1",
+      "relative_day": "LR_C1/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "de45410b4eb92695c50ac2d3f1f13a4c1fecff0e09b7e70be83c34f7453e85a1",
+      "book_name": "Results_LR_C1_summer_d3.xlsx",
+      "book_sha256": "8c9e9d62ebe430421db678e0de0c454508fb3500efac195647e28a7626d44f84",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "158efee522faf83b5a656ef9ac2f77b5a37ccc3c554f86b9698390c1d92700e4",
+      "relative_day": "LR_C1/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "faaa123cc583e8e1df2fea9ba0b19c999a98e574e2539cf43e23fa09268848a2",
+      "book_name": "Results_LR_C1_summer_d4.xlsx",
+      "book_sha256": "28f9abad978c694e553591ea0a4b72fcb1a66fde2c15a50d13b36546901be64e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2f1fa54349c63e9bb69bdbf4a1da29e079d0b51f6e7b53208137d1dc452a7616",
+      "relative_day": "LR_C1/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c4b5a1346342640cb729a55c090ed7daaebac3c49c551968bff73cb56683547d",
+      "book_name": "Results_LR_C1_summer_d5.xlsx",
+      "book_sha256": "b98b392eef99d4b1d00c0a83d876bdfb97ba487a3fba7e6020173731fff39bf8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "032445a34dc46cccc323db900216d67489c8119e04070147f4afe03b4cfbcd5a",
+      "relative_day": "LR_C1/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7dfd50ebcdfbbcfff26e19f3020dea24a77967b9d8b2f7583ca90251eb5b96ec",
+      "book_name": "Results_LR_C1_summer_d6.xlsx",
+      "book_sha256": "201451b12cf517f9e27251021f139d4ab4cbde4d57650e9df05bc25642e70548",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2600e28ee5705a4f9f1660333bf5e740703184231534764094bf328103dee528",
+      "relative_day": "LR_C1/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f4758a5e6f8f5f742e9b583463d7b89d4db1b5163b1a53b6a6114dc48ea311a5",
+      "book_name": "Results_LR_C1_summer_d7.xlsx",
+      "book_sha256": "3e135ecd6bce585395144f283d1466a7ff7f670b23545abada388e4cc6bad79b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6ab110d0a0f1f84d27d362e6829a446e8d8f8cb57a4b24f187b819e5f73a9d08",
+      "relative_day": "LR_C1/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4e65732ba44df9cf0fd4c1471f0ba859a516cfb9eafb0c6e54c9c2309e514e1b",
+      "book_name": "Results_LR_C1_autumn_d1.xlsx",
+      "book_sha256": "1f7aa6445187fcd6fc96914f5fb2d034d27eaa5acf36a58580d3172ed07b7941",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4d9c95918f92e3e8d75bd51d0b4ed5797b5182add53dbaa58fd6f0bc66f839b6",
+      "relative_day": "LR_C1/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "34cf1461f6e454d89ff28675b6b8f809178e07664945668191c1313310a79761",
+      "book_name": "Results_LR_C1_autumn_d2.xlsx",
+      "book_sha256": "dced2ae4f77a574c69c17953a3ca9cedc3e3a263d26ea5b533c6b232fad0869e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6d578772ed5d48fa35d956ace27d3f296b33c12d901e014a923404be76b70175",
+      "relative_day": "LR_C1/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1f4ec30e8f575babe6083ee7f64c1c5f117b0738f26b3fa0f7876689f454d1c3",
+      "book_name": "Results_LR_C1_autumn_d3.xlsx",
+      "book_sha256": "b013e8199cba5b33d6c9e177f09529cf5da39901acc78b479f2914b685ea75ae",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "10cc9e59c7c634eeaddc15302b29af524e395b8fccfe8affc6300ab748281713",
+      "relative_day": "LR_C1/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c6b350ddd608a2910390de6997a9307d1eb147c3ba61c2d2eb6f094a66dc4342",
+      "book_name": "Results_LR_C1_autumn_d4.xlsx",
+      "book_sha256": "7d251b52d7b1e51a0e79a9fb4137473be76c1ea927e02d877001e5719ae9a32d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a4e5305dd74887c6eecfd5b05a6960250351be7f176cf1c781d97f948f214826",
+      "relative_day": "LR_C1/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2844c91c880c89044c582a8df2e3ca9b5494d5a05bc8f3584b41b963597a7d83",
+      "book_name": "Results_LR_C1_autumn_d5.xlsx",
+      "book_sha256": "311443a38125b906b6f91cbed3ab6fb7ca59eefd37fa606761e9f1b8bacb24e1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d1d51528d1facca097a7b5cd35df39cb0352e4eb33b8cfcfa89166033b177d90",
+      "relative_day": "LR_C1/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2cef621d9fa2bc8efbe6c6c3a9e744c64273e1683750a7ccbcf2904d1ff14c5d",
+      "book_name": "Results_LR_C1_autumn_d6.xlsx",
+      "book_sha256": "4c56980420d5077a1b614f034fe3953d86b98b5a32bab1ba6b3f921b3e687b4f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "96c51e2ff5372f5d55d935a2d8198b8d919f34c9c1afc114076414332cd61645",
+      "relative_day": "LR_C1/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "fac4004cf995c2bc1f7842c74f0e4fd579214e04e6e469241e0a762f26bd21b0",
+      "book_name": "Results_LR_C1_autumn_d7.xlsx",
+      "book_sha256": "9e87b308099a6435340bad0db0100388896dddbbe909e6757073ef8726a7d162",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0496de0bfdfc737e0f46ff56e4e40501f097469173872cc42f7e76bfb7846aae",
+      "relative_day": "LR_C1/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7fe35ccc86899a08e409a9bab4ae248fb1c6540a959a0ae4e0844e5777bd63aa",
+      "book_name": "Results_LR_C1e6_winter_d1.xlsx",
+      "book_sha256": "18576e554aa99bd4fd8e229e90d18ccb590dc4aa49b242daaa6e1d1a3a0fb157",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5e9d746de8c2b690aad768cbcefc35939f7bace52305d09487cfb6b731a1470d",
+      "relative_day": "LR_C1e6/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "30c6992693b14915ec2c0b8eb5a3ddb4d4b8bff766f0f71714a38f2e4548755b",
+      "book_name": "Results_LR_C1e6_winter_d2.xlsx",
+      "book_sha256": "9a7c26e7354912b2377448939535afb11cad29931d92bcf93776863088a674a0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c4f026864b0225e4677a0c62ef32651e4eec7af133ebe0127eb21c37e0f3b888",
+      "relative_day": "LR_C1e6/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "25b235f0e2526b9952090946ca138df7baebaf945a51a9ce36d0d2203f1a4485",
+      "book_name": "Results_LR_C1e6_winter_d3.xlsx",
+      "book_sha256": "c6c0ca134d19082591ee455ab929e21a9e1333ed6d6e57655c3cb6178468c9ac",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "93332833571cc5322e1903e6a73a2b066e1b2ba8d9ca3a9f384741de4609e85f",
+      "relative_day": "LR_C1e6/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2cead2231d61dfedc478f24dfc4d0340c4fb5ea5c62d45b6fa1bb747050155ec",
+      "book_name": "Results_LR_C1e6_winter_d4.xlsx",
+      "book_sha256": "17bee9e602186c04467446b4e1767b86c3c38e687db3c27f6e11b2ede5977200",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7ecbd72a06b2e2927502507a85909573cc8a0860169dab5553c46ba5633a7a50",
+      "relative_day": "LR_C1e6/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "aa938bf2fd0e6dd70f10176274b8e3570c5934060737eebb5eaf696395ece70d",
+      "book_name": "Results_LR_C1e6_winter_d5.xlsx",
+      "book_sha256": "7837dd213ccadcd48b41459c6e6e863fe44149a5f0a68f3bbaa5ad4b9df91091",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ce99e4aceec47f643767bada71be0a80797d842e34067217c9b60c8a3b8e720d",
+      "relative_day": "LR_C1e6/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "397ec5ca1f076e3e0fe456f1d497bb380fd065cea677f05c6a9853e1eec75d8c",
+      "book_name": "Results_LR_C1e6_winter_d6.xlsx",
+      "book_sha256": "847cf5cf0277855965ee4a36e7929071c111ff5f7c42731ad40fa0c8f287b30d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "042844073048d48fa395f3fa54b506e84dcbbf8123427f079cd4a68a6daa0317",
+      "relative_day": "LR_C1e6/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "517c5f9e201f27aba46f59e3d5c5ba810142961978c387e50cdd352e81834b20",
+      "book_name": "Results_LR_C1e6_winter_d7.xlsx",
+      "book_sha256": "fa342a16da6d36e49a0a62bb59ec6b7fc3ec1221b489b49bf6e51863230b1a4b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "43a2fdd3096524c12add4deccd0ef1a29fdb8f3b2c0a7e13958c4da471ebc06a",
+      "relative_day": "LR_C1e6/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1510154793c849b1de87ef04d55c2b86436e36bf5d8cf3bf0e848664ce065446",
+      "book_name": "Results_LR_C1e6_spring_d1.xlsx",
+      "book_sha256": "dc8094b1753112d3ba5469ffe93eda8eefd03c2dbf5939a36b8c9ddc440c7095",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "87c5c11c241cee828f05cb8953b1f62e075c5b1c5cfd5868513d8b9f12ee5f62",
+      "relative_day": "LR_C1e6/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "25e146bf002357a339d771e2b462f18c85e92382fe3f57eee48861aab64d5bed",
+      "book_name": "Results_LR_C1e6_spring_d2.xlsx",
+      "book_sha256": "cbd840b154bf4d2282fd262041f25cfe337647da7403dd3734820dd196022126",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9184ec05f76fbc426070052286e182325c541fe922e4ff7eb9b7519557172aa6",
+      "relative_day": "LR_C1e6/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4b3a3eb35bbf20d3ecd3da92b95cbf0cd504f50a16eb3dab6adc76de2209d02b",
+      "book_name": "Results_LR_C1e6_spring_d3.xlsx",
+      "book_sha256": "a9b151653fe0c4e6fea0bd7b29cf11b858e639102251292df5e48326bd0e0f4c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8fd11a6580579a309562fc2f3482ff04aa0aca31d9e186a5c4dc094dd9d650e8",
+      "relative_day": "LR_C1e6/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5bd295349f3c185f139ec6387b849d7d71f8d2d13d89f1cf4b78bfbae0d1d042",
+      "book_name": "Results_LR_C1e6_spring_d4.xlsx",
+      "book_sha256": "e8a35eeed5a364f8b3cdbc837784ad1aa2dceb81b3cc17c87744167dd9f94b0c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c0ee1694975438682307d8e039796f46c64313e1c5ebc5a21c70e333381e33c8",
+      "relative_day": "LR_C1e6/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "16d05854952fe2c474f5c10df3eeaf7db31206c7a6405526900a7f5a61636d2c",
+      "book_name": "Results_LR_C1e6_spring_d5.xlsx",
+      "book_sha256": "39def075d75900007830b2a322fd62d5ef5c64bb2000576be97ebe72e3a2f9c6",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "09f8144fc36a25f861c2dd495325df5e571477e2089adeb8d6b39c787e2300fa",
+      "relative_day": "LR_C1e6/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5378f54b9e98f1b4e47cc475306bf25b9b03480e95e45890e9a6cae2b139b48d",
+      "book_name": "Results_LR_C1e6_spring_d6.xlsx",
+      "book_sha256": "66c5f05361aab691803ae3d9e2a820e275faf8bf1c270388e55f1e345eba4ee0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "fc1d887c8739d65de5048e31bda8d0f6f13d3a42b0eac86c607637031b7991b3",
+      "relative_day": "LR_C1e6/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e374cd6017d87ec3a5b35d810ec1f1410f927b8dc8dc50a48235516687aeea0e",
+      "book_name": "Results_LR_C1e6_spring_d7.xlsx",
+      "book_sha256": "3d3db4c7ccff6ad17d8426307957c5141ef3289683b745da6531e1be29fa4f46",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "968d703d157fd4e7d505f7f827a14b71d504ac05428b36192c0fac08cde3f49a",
+      "relative_day": "LR_C1e6/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a0beb9ffb2c3bb25c758ad1600933b4d926b85eed59e0212816e845e5bd734df",
+      "book_name": "Results_LR_C1e6_summer_d1.xlsx",
+      "book_sha256": "538d12403629f1584a1b25e48cfce88110cbf484b3513b984ae66dba2f7e93f2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ec17bc833396212a4ceea5b7db5cf4759e218346920fb38e9edfb0fb6baaa085",
+      "relative_day": "LR_C1e6/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b236f7fee2d7d9610225bf89694c6519c1c7a09c0d2e990fd357d7baf0f02b87",
+      "book_name": "Results_LR_C1e6_summer_d2.xlsx",
+      "book_sha256": "63f49ac8dfa2adc3f70d6aa24690d2e46c6c70928687c9bb8adf0d1741827f0a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f9f412def5b5d5a206007093e7c5b89095b8e2ff812a89702246d591005ca457",
+      "relative_day": "LR_C1e6/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e9b08b8cdb6d00bcdf4cc3036449ab7bc5877e99ea930f7ba9352acd9174aa81",
+      "book_name": "Results_LR_C1e6_summer_d3.xlsx",
+      "book_sha256": "3072004c3fcab667051b39fa4a97dc817adf25be827e9a579991a831a9afbbec",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "fdf84264594200244cc0c8de80d1ce8b32072a3eae4f3d6ff7f56c854cf4a90b",
+      "relative_day": "LR_C1e6/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "37c2d538f47345d79d3851b963d3a5373ba0d231471d981f673af23f499e45d8",
+      "book_name": "Results_LR_C1e6_summer_d4.xlsx",
+      "book_sha256": "64e74d74370dfd7494f81252399fdc4b6022de2a895002b6108f8b4c93126b1f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f879cd3fe850aa0e171143b2aa0ca64e24e427a8a590acb34a134e3de1b1e78c",
+      "relative_day": "LR_C1e6/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "23b5c6d811bb5cc29574568216dd4ec6afcdb2df437663a1353176d3c79b9945",
+      "book_name": "Results_LR_C1e6_summer_d5.xlsx",
+      "book_sha256": "dd28d4f32eeb217e38aa24294a1701f6ceade01d040dd3db82e50bc10fba9294",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "164ee0378a102d11ab736bcfc506ba4888fa0ae3fc4517aff815e70053d66db2",
+      "relative_day": "LR_C1e6/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "cca05d665072a4927ee6eec2f40e18c68c2a7668c0d0d4c269c3d7b0694ea1ec",
+      "book_name": "Results_LR_C1e6_summer_d6.xlsx",
+      "book_sha256": "8cec3798bd19850e0b1983881dee37ba35380b44e1a97e73207f766d86df24f2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3e41216cf7be015a1075a4dfe3cbebb0a67cf8214d10120e7d827b835bf49b9d",
+      "relative_day": "LR_C1e6/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "430d5ab4033f3b048c1c5117ce427e2b2ee90a5219cb57c448f010a28b4ef7ac",
+      "book_name": "Results_LR_C1e6_summer_d7.xlsx",
+      "book_sha256": "f9a541657b9ea6cabfee7ea02c986677d04ddbd3326204e9e928bdb5a092d852",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0c2e663e46c6f1bdd9eecf83f825358e02a4c4466810bc3405d8f490bcb6f3dc",
+      "relative_day": "LR_C1e6/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8b45902447f4df9bc76f1b2f34b7d003b370fe5f74346e47b2a17cb7a0e8e884",
+      "book_name": "Results_LR_C1e6_autumn_d1.xlsx",
+      "book_sha256": "63b84586e5e5ed6a55410acd3115ceffaa7629f787e4743aad5661dcf3ae14d6",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f3b5b072068cd616bca681fcea088e6c666ce7e4715c0a2d2922eb0c59aaee62",
+      "relative_day": "LR_C1e6/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4ccb5515776ebe320b13dc5fba14cc98bb60d084f2049b18d58a756de454572f",
+      "book_name": "Results_LR_C1e6_autumn_d2.xlsx",
+      "book_sha256": "71863470d8bdcb255d06391c8f8130b4b136069aacd53b249ca7441e4f37d4c8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "aa9d1426f9d193c12277375d85d4ec555144228a008f20aada9fff1bf8eb4d2f",
+      "relative_day": "LR_C1e6/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c0afbfbb440c2434edeaccbd43df11bd829e75f1b01597bbbdcd3afe25babd1f",
+      "book_name": "Results_LR_C1e6_autumn_d3.xlsx",
+      "book_sha256": "6a914b6416239b81f56d574771b2af913cf3658f1b5f1b2dc3795c85ccff3f2b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "857dd0f46ebf2328093b9b0707636d305959fb709ea14f77847f4de5da766453",
+      "relative_day": "LR_C1e6/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "53442cf8af88dab466e3e6f49f0f7c3859ecf47f93eb7ddeb985219ab4067f2f",
+      "book_name": "Results_LR_C1e6_autumn_d4.xlsx",
+      "book_sha256": "822a27f11f2b44e46f2fdcc0559d35cb581e4c67ddd1e836faaf7b26e7e110b6",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "64af6073d9206d44a71950fbc8861278a9cfbf4a5d435d53f727cdfe2b8546fb",
+      "relative_day": "LR_C1e6/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0f4af8ced85bca34b85426c1f8d6431f710e956d022fbb96349af2ddd779461f",
+      "book_name": "Results_LR_C1e6_autumn_d5.xlsx",
+      "book_sha256": "0e04055fe3ec6373452ea4173ff1412200b92ed37493eb1a5b4bf792fe250651",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e8ab1d5726a19b394c0779277eb8f6c7ea44c1506ac10a6a63c5f466619e1443",
+      "relative_day": "LR_C1e6/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0b5d8a21ff870dfa4dee6605fe3ee8eb6dcec250990a6d229d747fdd9e85a629",
+      "book_name": "Results_LR_C1e6_autumn_d6.xlsx",
+      "book_sha256": "e3dfc2915af616dbfead5d3f32bd981941dd04e3892999eb72d078b4846e4390",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ca809835fb239758137d084eb2459185689cac055e8e97b0918584c6f3b28ec2",
+      "relative_day": "LR_C1e6/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a38997c784d1e45d3a681de20227dff983c5e529b8c849391a4075602b0b0f77",
+      "book_name": "Results_LR_C1e6_autumn_d7.xlsx",
+      "book_sha256": "0b120ad594031489078eea7195fa0ec9824e5e4fe73e8a159c3d2fa1b29c0548",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "70c74603eefb1f80ec0e0df689dc46cd521c2ac5b41fe73ee5ceea5f4d789638",
+      "relative_day": "LR_C1e6/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d179ea014d4dea0a83a7696f68f2fb6dd19c5b5de23238ebc3f97738a4d35c7b",
+      "book_name": "Results_SVM_C01_winter_d1.xlsx",
+      "book_sha256": "b95b8cb5680213662f45938f3981ff14857be3b2987f2f45fc1680ddac4fd3a5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "64c15d94d0c6d978e63c381ce4913488e8065b5f9d2859d4a40303a0e443402a",
+      "relative_day": "SVM_C01/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ae72fba8f0920f45f64d6e753efcde3f20e0fe76be168c000df1a196f94abb87",
+      "book_name": "Results_SVM_C01_winter_d2.xlsx",
+      "book_sha256": "f2a8ea1717372f8043ad68fa4649286740c7f40d8de4c7509922063e98279856",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "be1ece218747e2d465fc82b8a242f744c3b3cb80dce68b405abe410eef35f9c0",
+      "relative_day": "SVM_C01/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "667ea81cc9cec34592772614a5893895d06286292e89dea56abf6fcf4dcbfe8c",
+      "book_name": "Results_SVM_C01_winter_d3.xlsx",
+      "book_sha256": "bc430be8733fb01dc3dc09fdbf94606b03498092613ca8f97fb8d8c5a6e10ed1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "54ef7e87ba60fe6e646e835fcf9c3ffd3e20b45ae537fb4b8b56cbcd24e9eea5",
+      "relative_day": "SVM_C01/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5b801f89a1c2302ef7452e871631d7debe7b034b2382720d687e65b8f926492b",
+      "book_name": "Results_SVM_C01_winter_d4.xlsx",
+      "book_sha256": "89e2a359582fc40f67d466721bdbad649abb254569eb6d1589d433deac1c9586",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "59c4602623d3110698efda798cf7bbfc534306b35d12f4d62962adcd31d6c4b5",
+      "relative_day": "SVM_C01/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "edecd26a9998e6f9fadea5cb6b4c2ec5583ebf0d9761d6c5affa5ee776b42619",
+      "book_name": "Results_SVM_C01_winter_d5.xlsx",
+      "book_sha256": "6c79d638ef71cece3e616cb0680d5639d783a79dc8b7fbaedad4a09160fb5ac8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d56542bd7f24d34ba704c5f41defaa666687385979c295406c12ee8c14db1fde",
+      "relative_day": "SVM_C01/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a46c62f2641e8d9dd4901b16294b279b3cd2afc0f4ef6b0b4e991ea0a7f878e2",
+      "book_name": "Results_SVM_C01_winter_d6.xlsx",
+      "book_sha256": "1d36793573e5501f4685e3330854b9137e18191cf5a707a96ea86baedb370f5f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "624ab850c7d1e9ad8bf07cc57491c67b8aeb6d635ddc497e4653ed7928ba5284",
+      "relative_day": "SVM_C01/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d16aa72d0d5ffebba83e7c25e67dfc0d191203089c812c63ae3c43929a5779a3",
+      "book_name": "Results_SVM_C01_winter_d7.xlsx",
+      "book_sha256": "61be2313dc3e22437597b1573ff2c970833ae5554ea3230f422c3d21b8f26506",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7fc89a249dea3c6220bce4088a27ecabbe5cc750ec32759b3887479b694026bc",
+      "relative_day": "SVM_C01/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b1eef67b2b030f0fee7cfff4d6454d117f8ed84a18a786670dd3b76cea39ee5f",
+      "book_name": "Results_SVM_C01_spring_d1.xlsx",
+      "book_sha256": "be6aba5916cdb70175fd648b5fd0fab2f7229cf9569fae4acfbb105796dbcfa5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "72d87ace5e12d03269bd820e34180804a5474081c9a9a2e75f5bc8877cd3f8b7",
+      "relative_day": "SVM_C01/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9427790868cbdebea74c9e99c8811e69ce8425c422d08abb80854adced3eb145",
+      "book_name": "Results_SVM_C01_spring_d2.xlsx",
+      "book_sha256": "08fdcac738382c28e43fc45473694bc9d1020f840545596812f748583d6bf070",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9442a4f08dc2043ba25a401274de8fb664573d8ad30e48d8d31adef985f8f694",
+      "relative_day": "SVM_C01/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "19a72975c9bcdfc2c9ab554258a5ad05f32569ee30206920454d3e47eeb9f583",
+      "book_name": "Results_SVM_C01_spring_d3.xlsx",
+      "book_sha256": "ac6c1938da017646530e05f0b3020c945ac223612be4e2b533c5b70cba9726e7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "211d589f5f565a7b703771c5bf988ff2571b08db6afdebe44f3af972751809e3",
+      "relative_day": "SVM_C01/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "070803de94b4a1fbdb70dd67b80c8a2c32ee50e74ea2a1b5b6c8cf02bd23303e",
+      "book_name": "Results_SVM_C01_spring_d4.xlsx",
+      "book_sha256": "a8c2c215a22b3b00e3302d3338b9263108bd92a6cb2f8a2b47704b2e2e4c0bfb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d36b332e85778bbe33180dd4df990d2b65ec4ef6da72113a7834e03e51926569",
+      "relative_day": "SVM_C01/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "786fa7c0da6c9d34ffc81ea3798d7d3c3f918de8fb455756d28b3bcc2043ebad",
+      "book_name": "Results_SVM_C01_spring_d5.xlsx",
+      "book_sha256": "02fd11e0ba0e3d9c82c39dc53dca513d1d6db44674c9bea3d8643da914a43338",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "76dee76c4786f5e244b3c456b2fc1df036bae42013707395ebe24572828e3e52",
+      "relative_day": "SVM_C01/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "20cd94a643d5fab335c1c9f11f1e83ce6eb169b8679589e65f654d20f9e5dbba",
+      "book_name": "Results_SVM_C01_spring_d6.xlsx",
+      "book_sha256": "dc127e18ba9449e5c346d394711e838c1b713d0d3d7c143d90d957cdceab3334",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7655fa3acdcefb3f39777d443b03fdf3e00799f9cd5d584722dbf36da764aba2",
+      "relative_day": "SVM_C01/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4f17f06967c6411058ac4eb6910dc1f942247bb81133e46a114527592e5b0620",
+      "book_name": "Results_SVM_C01_spring_d7.xlsx",
+      "book_sha256": "7c009a55ec2307718c0dcf8fce641921006b29bb7a4bc40629b8340818296003",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c6953c9ed000940f1189e4f93d0c6f60c6e75d4de97b19b409cfc3cce99801b8",
+      "relative_day": "SVM_C01/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9036d488009860e8662a66b2cfbafa77bbb957628ae6affaa624653fb24d4da7",
+      "book_name": "Results_SVM_C01_summer_d1.xlsx",
+      "book_sha256": "95d19045ec88d7fa87b92f9eaa0192774e5de7aa964648dfc222846d31429f3b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a2e3a2854d08eab9b51ce0475d4dbd22b0142e0f94fd09c0a562e412e0403117",
+      "relative_day": "SVM_C01/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "992586cb11e950bbd10511cba8f958c56559964cedd328cf454628a85b71367b",
+      "book_name": "Results_SVM_C01_summer_d2.xlsx",
+      "book_sha256": "d7754b2c5c03212f95af9475867c2c70222229132d5602d0c747f096f6117081",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a111fbe11adc9870a70ea601c0d8fcdf0bc2aa03dd77f523778460660e7c24de",
+      "relative_day": "SVM_C01/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d92b0f0c89cc1693218c8a58bd214652e5f578680a4fe6d45a3cc4b6bea484cf",
+      "book_name": "Results_SVM_C01_summer_d3.xlsx",
+      "book_sha256": "ba9b3899eacb3361d1c56f977ec74b811463e957bbb2e4a5d7fbba5f186004e4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b3717806524baf79755f95ffe090ec444f603fd11e10810042132ac6abccabba",
+      "relative_day": "SVM_C01/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8772d8b43a21fb906b5d912180149ee20b5acd63171891fb7f6ee5306dc0e805",
+      "book_name": "Results_SVM_C01_summer_d4.xlsx",
+      "book_sha256": "ab6724fbb43d0f3133cd3bdda8948b19415ca387afe9a78c79b83da7885209cc",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d657921a89697f270713c268d08eab6565ac2919284ddab870198190e1c38c77",
+      "relative_day": "SVM_C01/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9c2e7f60c8560e0e44f708c401a5a492ea0f7d1de31fd1f1e3567e1419ad4ebb",
+      "book_name": "Results_SVM_C01_summer_d5.xlsx",
+      "book_sha256": "29cff396d5cdcafe8a1ff95ab7684f921dde6979c82a7d9d8fae0fef911202d9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ce4e298a24f37ceedb601c9f34a2bdce12b26422281fc27c3eac2097fff03d3f",
+      "relative_day": "SVM_C01/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "efca0f96910f9cf3a8206add22867e33bfa70e35040b48d26653a2c13eca65ca",
+      "book_name": "Results_SVM_C01_summer_d6.xlsx",
+      "book_sha256": "4800ed9781019f4b419442371f5af1c6c2e5b6d7dd4f685f989185fee0251666",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f53052c274450edd3ba1a07f6ca00697b9ad499f17051d25e764f3d876626d37",
+      "relative_day": "SVM_C01/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f7df45bf2c0d92ae9e73f442b602dca74f071f913f75994e016eb00f8a779b23",
+      "book_name": "Results_SVM_C01_summer_d7.xlsx",
+      "book_sha256": "0047f983c8a6e5717226193252314c7a77000021be980d46b118229794331479",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3a4f9f68eaa1f57957ba8f98e36f65ce8d4cba4676b26dc3aa8923fcbe1a5753",
+      "relative_day": "SVM_C01/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "26d6822c352a38cc80044a5dd4851f5e9ba981c3ed3ba62bb96c98ad64138859",
+      "book_name": "Results_SVM_C01_autumn_d1.xlsx",
+      "book_sha256": "cef4a3f9829982bf15857be810797d81d3780a3e82494603923ff51c3f730d33",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6a1a2ca23c1f6c9474d065ed5fa3e0502f2af082ed0a2d3c1e2f9fe6888fa816",
+      "relative_day": "SVM_C01/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "560a4088ef093d323ce8ad9998922daca200d51d7e0e7c63389741a3e572ed7d",
+      "book_name": "Results_SVM_C01_autumn_d2.xlsx",
+      "book_sha256": "be65c60493ef876ff37c6a5d5946802c7429ee38b25528cb476f049b7144e54a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ffcb29b2e38720948c011c5b860a440a5dcaccfcfb1bb1db8e3d7c0192c680a8",
+      "relative_day": "SVM_C01/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3bea93ed6cd6a5692003ec86d1ed1c54bd95dd6231fc7bf8b7a79fb6a2eee56f",
+      "book_name": "Results_SVM_C01_autumn_d3.xlsx",
+      "book_sha256": "0550af0407f4066a904d98fbce51d8fdb359f7bb99e36c4413500c2832861da2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5ee83473a55727fef9d8b69a39f1d8cace65cac4f76843dc0ad2fb0ff7a76427",
+      "relative_day": "SVM_C01/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7674dfc8b88ed7374c45eda0a398e6c6dd7bd25b53d919ed61479b347aa34267",
+      "book_name": "Results_SVM_C01_autumn_d4.xlsx",
+      "book_sha256": "9cd8570b640c2e39d52573c9d8ee3a8063e4cc70fa039b58ac693b03154d2160",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f84b671719deca69ba0a1f49ed109c51cdf615c5b801e5e85553e1941b3c62b0",
+      "relative_day": "SVM_C01/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "02182a3a5d3aea5fee0bbbe392bfcf40e5b4d889b8b59a2c5e67700f9a5dbed7",
+      "book_name": "Results_SVM_C01_autumn_d5.xlsx",
+      "book_sha256": "5aff6ced40255ff1927c5f3618719306accb3c46248d2c5d0714d7bb14b16937",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "135403e125761491f3bdb945f234e8dbca97d8eb4db0d2050416465a444d04c0",
+      "relative_day": "SVM_C01/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4d5c22deda81763aa089e271d003988c6cfa16f2e0dd757b9b39eca9ee9048cc",
+      "book_name": "Results_SVM_C01_autumn_d6.xlsx",
+      "book_sha256": "bd9c6c9eaef57d56ef3beaabdca1bf60527fbd3695a215a632601ba2cf891e31",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "35d61764c65f2724c7647ec88028c2190820e84586a3195baa0472142a0b547a",
+      "relative_day": "SVM_C01/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "fb1a3f6181fe74be578f2dabb6d8f0db7230a87338b54fab92b1edc886812bba",
+      "book_name": "Results_SVM_C01_autumn_d7.xlsx",
+      "book_sha256": "bb31382381edae73f3f2e4ff29ad62533fea96b4e0d67023305bbf4b1cd68594",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "980067799a90f7f2b8c99df527d4d6db0cb3392a3e3f6c6d2d5ccd9f78fdeb2c",
+      "relative_day": "SVM_C01/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4c72a79256b3f402836bd9f4651aff2f266df5f022f36758c6b600a067fb2614",
+      "book_name": "Results_SVM_C1_winter_d1.xlsx",
+      "book_sha256": "a38663efc5c6984c6bfeabdb7386aa5d55aac9ef8dc6d58f4d55ccc8e4bddaac",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e5cf47381ae0a1774a37ebf9a7a04afefb242b0afa485e4d5a2f0af1147df0cb",
+      "relative_day": "SVM_C1/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "222e56b1551df42cabcad4135acb9f4274aa8246e97a2cd2227744e96d05a8c5",
+      "book_name": "Results_SVM_C1_winter_d2.xlsx",
+      "book_sha256": "bb410506112fa88ec8ca1206a24724627875e2025b745829d59e6676bbe57fe7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "922a126299ebadce7fd0c15cb57124d98c4978af3175099cc6a608e49f7c28f1",
+      "relative_day": "SVM_C1/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7f2d04099f57b2aa2f5638a5ba8355c8f22381ec9f916a23f42ff37bd1546879",
+      "book_name": "Results_SVM_C1_winter_d3.xlsx",
+      "book_sha256": "4057450ec2f56169f8c3ea6e8cbfd05892d904a69dcdee117b4a5d62572fa820",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0e30bb4eb321abde20a1fba4a06ca3a3a23a7a7390e1154c52672a6469802a4a",
+      "relative_day": "SVM_C1/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "43d86f8d02c031a8a23432ccd90e7c6d2e270055c9a6ca70a03e3a42c7be7080",
+      "book_name": "Results_SVM_C1_winter_d4.xlsx",
+      "book_sha256": "1a24046e25df8c8909216df265dd9da33d99ed41d85e661226a60ee118e2ec57",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6326793d58817d1ff58947a62838270818f220276eeec6a32b362b0911d93c84",
+      "relative_day": "SVM_C1/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6b951bf03769b512cd02918248527387113276b3d2ba0c3dfc4f387c06af5dea",
+      "book_name": "Results_SVM_C1_winter_d5.xlsx",
+      "book_sha256": "1d20a6dbf03e2f8eca9e6492c23b8e3d3f690a4ca49e65b4e5db6d51b92b113d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c05706d860e27c47937b96fcc170cb70f6814d6b3db6ca10ad508ca24477f957",
+      "relative_day": "SVM_C1/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "469495a745d4b74d907a7b838dda3ed6830272bedc52726bb920cd6b5bafbc20",
+      "book_name": "Results_SVM_C1_winter_d6.xlsx",
+      "book_sha256": "b8e1092030d7a09326f905a8a9a720879750b5451c12db1892afa57558adf4dc",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ce857b84478fe20c8eaed38e92c718eb4cfb0e634ff1c731b170602d8e0211fc",
+      "relative_day": "SVM_C1/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1d97546518d5c905924f7931b277c275ac85afdc32ff3c7123b3ee2848be7e9c",
+      "book_name": "Results_SVM_C1_winter_d7.xlsx",
+      "book_sha256": "ba3d7ba2edba1414c56ea79b44df3bb2752947a87ecba1072016d5f26c10e897",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8234a035e355d6c769b85031343f90655a3653eda797704c6c876558f6203b00",
+      "relative_day": "SVM_C1/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "cd87694e213c32f0a15214624cb885d2fe0fe711532cb8e070898fcb723b63f2",
+      "book_name": "Results_SVM_C1_spring_d1.xlsx",
+      "book_sha256": "3e85621fc0208eb655d720156087ad61d0dc4ab323435e7d871f9486b59217aa",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ccb8b955c6198294f3463283a57f09cbf56c17dee02144b7129f1f40c07191b2",
+      "relative_day": "SVM_C1/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "db702c71b0ea6a4743bf186e3f83458b8fe9a2f6e2c6fc8e4c163d900d8e0149",
+      "book_name": "Results_SVM_C1_spring_d2.xlsx",
+      "book_sha256": "8fa35a167897f735fe19d8198da1fddc3da3e90af5dd5b298bcff5a35a2ab03c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "aaca82a04c1c8c7afc2cf059effb79fc02c3e582c850de8b0625c7c785bdce3d",
+      "relative_day": "SVM_C1/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "cb9a5501e66d873a2a327ea69d35b5b055d637b4c87d290af02ce28ef73fb04b",
+      "book_name": "Results_SVM_C1_spring_d3.xlsx",
+      "book_sha256": "f9ddb31c6633e90bf8b470932f5cd51094c452780332bcccb19260835417f398",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "32d2a089eca499518795c0a18046ce8635dff0d29d3c1ec9b4d9b6f557fedfcc",
+      "relative_day": "SVM_C1/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "369b9ca223ccde72ab419c44150c34832e17d22c3dd1d21c37209b8b9649cacb",
+      "book_name": "Results_SVM_C1_spring_d4.xlsx",
+      "book_sha256": "8c96e92d792d1055f75eb64da518a7b5fe65461492863fde61399dbd7b71b6b3",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "af362aaeb56251e3dd7af027d90a81486f61efaf439772fefc0f3fa81a7524c7",
+      "relative_day": "SVM_C1/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9aeb8e9e20ddff1beefb15246c04078da10898b52622fa530fc3077e31f8fc45",
+      "book_name": "Results_SVM_C1_spring_d5.xlsx",
+      "book_sha256": "98ddd6aac697fb89f4065bd1ba22fbe7ec4c38f27891cf18bcf71a33e76891fd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8a1fbcf67903307ac22190331604ff675cf3bbc9357e1b1de001003da185f80d",
+      "relative_day": "SVM_C1/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b4733ebe547d17200f87237a16e7df69313b1b85b4001c123c33710b41640129",
+      "book_name": "Results_SVM_C1_spring_d6.xlsx",
+      "book_sha256": "c64723d218b81b8aad8046c3a0c4d109843eff4bd7849a516c0d881e8f4a08b1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "587bde0d89bcd48db91c079396e51ee0343e18e984ef057dccd13eeb273e448e",
+      "relative_day": "SVM_C1/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0c9d0e423de173770d5fc735fa58b0bec966018cc8dd110b3a065af2466c9913",
+      "book_name": "Results_SVM_C1_spring_d7.xlsx",
+      "book_sha256": "7027a5d48b416cb779a56fb76a8974066cfcf82ed9051a218a875cb441ea882f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4b2a87591b7948b91e81d5a19848b210883d0d1d0284f9fa82f9d4c6a7ba4aef",
+      "relative_day": "SVM_C1/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9e37fb0ca942e9ed31431b82da6d549f8fd98389afbb42e2c5c2c3668b659344",
+      "book_name": "Results_SVM_C1_summer_d1.xlsx",
+      "book_sha256": "6db491b5bf41c00a095aabf68b327bd2775b8e43f7e88f8d9b03710120f67ca0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "142f408b7106bd6364911fd8c60dfa53d3efad8398793ab6bb466a0d0935f216",
+      "relative_day": "SVM_C1/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f9fef587904bb08fa67fc991202bcb20f4a18f063fafb42ea6c94c975bbfbcf1",
+      "book_name": "Results_SVM_C1_summer_d2.xlsx",
+      "book_sha256": "5340bf58f6f2c5a95ab8b12ea897c1a0e356d71325d365535bd4c5ff76a3e2fa",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "214f6e17f5764af446b4a372e7d1fd98b554676a9a150c9ee513eecaebd9afc3",
+      "relative_day": "SVM_C1/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "eee7510991acf735664ad73cbc496145abef3cbe8f7e70a9cd6131128b0b95bf",
+      "book_name": "Results_SVM_C1_summer_d3.xlsx",
+      "book_sha256": "ca933a03b54de6a1bf8bae0a580566714577d713da2cc1d1afbb2d6445d7ba97",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3561467e28da27b429bc6e08a6fb651f7a13fa2779cfa4e8fd14609a7fe87fdc",
+      "relative_day": "SVM_C1/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f55793c2f065d790a5629d0078efe10adc51f125f9ce4cb4231b8a57fb73a66d",
+      "book_name": "Results_SVM_C1_summer_d4.xlsx",
+      "book_sha256": "5a730f093c8a8a4472a9302e37b18cb1bc4bdab0242248e70d608cea4646b7d2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "07a9f2254b00ddfa5d32cfed50438282581035ed67777cd233862da6b786003e",
+      "relative_day": "SVM_C1/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2ad91553cf87f5033fda1b4244397053ac72d1ea39b33f475407df63c03cc1d1",
+      "book_name": "Results_SVM_C1_summer_d5.xlsx",
+      "book_sha256": "a3e91c69d462a43827719e367cc16147992b61b72990b2e621143116c174723a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3f5fde95f7ab86db17a9c9f8192aee2caece834a6bea2438739d7949f53661c3",
+      "relative_day": "SVM_C1/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "97f27361b0c91f85b5612030fa685c403b319512c6c4475766e52d5fb0abedf8",
+      "book_name": "Results_SVM_C1_summer_d6.xlsx",
+      "book_sha256": "40a8459aa19abf30545d0b043305eff9bf777115ebb9febb70c1723e78d02c87",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "826e1e6405432a552f8b9838e05d10add43c1d6555e1dcddb148818dc37f1113",
+      "relative_day": "SVM_C1/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b43655b991a2f60ea2db3a5716ad16af46cc3c6eeb26156b7d01e252d2417283",
+      "book_name": "Results_SVM_C1_summer_d7.xlsx",
+      "book_sha256": "d5bfbef4a8748f504e1ea932dfaac83dcaa63be72e5f424b5b838a360764d9ac",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1d6fc92877a0e8abd3f06d8da06152e0075d180a5faf65f9186f7a1bef2c0c52",
+      "relative_day": "SVM_C1/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a202bb55301576d2ad26d4d31492891979796674a09fd26c78418dfc5d1c36e8",
+      "book_name": "Results_SVM_C1_autumn_d1.xlsx",
+      "book_sha256": "41ee5a44fbffe013de59307fd11c02778fb7f4a20f8f21a39dc77547f9f3cbd4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "08596edcfa73d9fe9438c261373261d1464d60f745b5e2463ae2926a4662768d",
+      "relative_day": "SVM_C1/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "59de01ca60d18a5e1495ad6e4e9c3f80cb8bf87ec2c328340ea96cfaa0072e93",
+      "book_name": "Results_SVM_C1_autumn_d2.xlsx",
+      "book_sha256": "bd30c8c03f94e8aa987106055f897eb5d1eef5781d22c8e08fd09643f565e418",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "bb14e607ed51ba7a6212e75c7d2fa4de0d6dc9f183852c3ca20234d11f8d42f9",
+      "relative_day": "SVM_C1/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "792228e045a2178360df35ffca7774c136535309744431c687d873224b1c1d81",
+      "book_name": "Results_SVM_C1_autumn_d3.xlsx",
+      "book_sha256": "9b7433053ced2abc8baee9e996a29f56264057d8e434e4039c15c69c55a33893",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3cea61fc70c5bdfbe325de28fbcb9ff2146adf9ff33c9e60b28e2254270295cf",
+      "relative_day": "SVM_C1/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f4bd469785a94f73fb7e7af498fc88fa4aabd20b0bb894616de6c7391a85eb5e",
+      "book_name": "Results_SVM_C1_autumn_d4.xlsx",
+      "book_sha256": "d8eaab236dcda1fd5fbf545118d778165c0082aaa8ed16e784972609462de428",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "fb8f231c247acdd3d540c7084f96552e0264def295bf8b9c5fd49573ac605168",
+      "relative_day": "SVM_C1/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b5f80c3ecb80ad1a479bb669e74170eeb3bfa8ede9c025be96492b2afb013ea6",
+      "book_name": "Results_SVM_C1_autumn_d5.xlsx",
+      "book_sha256": "c14e9bf50b4d18b6c1a00e6bf6a3d3d06e686860bd24fcd97632b638316bbd97",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6024f371fd51cad764d1ebbf7db04dce42a3e9a9aeb3b326febebad3f3131566",
+      "relative_day": "SVM_C1/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "30504f1bc6291aca29e5876ca026b51ede99b040412d191082eb5429013239a9",
+      "book_name": "Results_SVM_C1_autumn_d6.xlsx",
+      "book_sha256": "41a5dedb84cd75453cc06ea1c8cde99d1fd7c5206f1698f7c7544367a41b438d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "68f5fbd9b30f12411f11339ced2f4b133820f42bb5d2cf5f387008e3405bbbf4",
+      "relative_day": "SVM_C1/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c5573f3fe53f9b2857aac0026f8c23ba1ec456cf22eb5481e343c8b7c4b71ec4",
+      "book_name": "Results_SVM_C1_autumn_d7.xlsx",
+      "book_sha256": "2ecfa33b320a412135eb06416b65d2804470177c15337cbd3701f92d86a73dc3",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7c81efff7fa97fcc804e9f4ab072e09b417ca2bb0c4ae7bead9130fe4756792a",
+      "relative_day": "SVM_C1/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8c8d4ff51d1459424a04e190f8b2d157113deadfd6ac8d4edd26a471279dda4b",
+      "book_name": "Results_SVM_C10_winter_d1.xlsx",
+      "book_sha256": "4026af41c5f67d7b7cb33cdc3b30e797b2a0985372bf3019b4da7d033f5d4b4e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c703002796a0d8bc140b9366d3a5974e261ceec8e831f6ab313413e9331dcfed",
+      "relative_day": "SVM_C10/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "cc8f29bc09a8845fe0b9cb5043bdeeb73611a4d80fd10caade00e936bfbcb218",
+      "book_name": "Results_SVM_C10_winter_d2.xlsx",
+      "book_sha256": "8a72dfe4d53967e1732820ac46cce3b2d46846fbe90bcad93b08fa22043f95f4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6ca1257382ce705ed7681bd28edb4bdcb2cc651d7ca3260cc73bac07e2efd4bf",
+      "relative_day": "SVM_C10/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "18bffab4cc6422bed6f0a75e806bd90d9150ba16eb43747710594e83e7a87d17",
+      "book_name": "Results_SVM_C10_winter_d3.xlsx",
+      "book_sha256": "0764ca9759d05cf01f7af45f97e96388b147832e04ae72ddf621975b67ac34ca",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "19e635c87867343739192a426b82fc9e3e1f8401f61937af8955f0cba7a99f15",
+      "relative_day": "SVM_C10/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5d292d6dc60331eee21d8b2fd945d10719b61ae706ccc13a7d071189fc3de4f2",
+      "book_name": "Results_SVM_C10_winter_d4.xlsx",
+      "book_sha256": "38de89a52d9c1c1a290e5b1e73082b87fd8e505989cc6a3f6ae695993f336d51",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "098ba8e272adc6bc3117ea0e76d004507b6652385e6d7db3bff3e6e48711512c",
+      "relative_day": "SVM_C10/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9210c414681ed1039c574c6c61cf0e7d6ce4960f80f5a8f2737b083e786d91e7",
+      "book_name": "Results_SVM_C10_winter_d5.xlsx",
+      "book_sha256": "ddab7bd518e3593bb55246c3c4c2098de74076a6a3ac47cf80deda9b3e9843e8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "eccac767bdb695d3832782e5a463d2ea94251dd2a8065a7085f4b88b2d47c71f",
+      "relative_day": "SVM_C10/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1431af7fa97fe06629c35f07fb7a70481210edcf38148fcfca76f36e5051f3ac",
+      "book_name": "Results_SVM_C10_winter_d6.xlsx",
+      "book_sha256": "991c1fd12ff74ee18fb525ed9392bb1e2c50ca11fabe95325bdae0bab8830665",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d44323b314260d86c5225c2f24347022a16d2aa62a88c32650a26b9bbc5857ed",
+      "relative_day": "SVM_C10/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ae0a7eea6ffaf9bc0c6e59b7e6f80fea5b6e5e5177fd870fec330182256bd9b3",
+      "book_name": "Results_SVM_C10_winter_d7.xlsx",
+      "book_sha256": "fa5bc4f28342ff1aad9e0946aa0d095e96c4d86c5088c1a31dc448e791be4d9c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "98bb57d9a41501f96f89f2d326947a5e05ba53884546ad74500072b6f0967154",
+      "relative_day": "SVM_C10/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5b3ee2670ab56eaf831a7e75cc54b83f1da2398c993d9f0b01fb00b9e8d90c04",
+      "book_name": "Results_SVM_C10_spring_d1.xlsx",
+      "book_sha256": "23b33999ed810269a2cf5eca20985a8886acc5909f547ad38bd3fd5b5f47179d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f608f3ebbca3dfb1e017b2e89ab08d127a39092a90f9d9d21102a693aa88129c",
+      "relative_day": "SVM_C10/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e53c93284c8552295715d2a696e1ed2289190b808ddccca10fce461225dd8f28",
+      "book_name": "Results_SVM_C10_spring_d2.xlsx",
+      "book_sha256": "9ac54c75b9d9144a4b55782b5aafc6cfb7fa816dcfd71f154a6e8ab116896fc5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "29791da0b73507e879bf6b4b8433dc1fe885812bc265a3b8d012aee7fb55b78e",
+      "relative_day": "SVM_C10/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "60ebd035681d50f9f0e6571db7788b605f1a1f8b1f1a872eeb751710a7d67bf7",
+      "book_name": "Results_SVM_C10_spring_d3.xlsx",
+      "book_sha256": "d06aceec43873f69e911444dac5580f38b210bd6a853bc2ed7f07d6c8ba0570a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "11bb31fb0103983e96348502f2174915a50431698a2c63cbd666ecdc66af0259",
+      "relative_day": "SVM_C10/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1c9be07d78a87fbf12e34a216f5135f1067a78f9d45dd4415a832644a4511ac5",
+      "book_name": "Results_SVM_C10_spring_d4.xlsx",
+      "book_sha256": "744afb7b22799ba1b4d20d806ba299b20cfa0c306df1f723d5d68cdbf5403cbb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f0a5e7ce993902bf80311c83625d629606f776dffbbae5d23ce28ab12a830b6c",
+      "relative_day": "SVM_C10/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7fbd913481212e73ed9cd75af1b889147b3b65d299dedc8101f3dfa1a84fa628",
+      "book_name": "Results_SVM_C10_spring_d5.xlsx",
+      "book_sha256": "f58462eba31d19ca33dcdf0c9e5f5a5d52bee9ad94d9a5c809050cb6f354b5bd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3a59d0c7bf30b7650bb3702d817c640edda24b0b48c97553492380b0b4487de9",
+      "relative_day": "SVM_C10/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "eeb33332542181f63e92383bc0935400c9784e654f8bebd9e77dda49e3f6af59",
+      "book_name": "Results_SVM_C10_spring_d6.xlsx",
+      "book_sha256": "6eee7652e23257aa4dc307b6c8bc35d0f524ae7a4c494daa7e38630754ca7192",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9d80a9cc11ae4f5254c367a6d47c4cfd1a00d82f0d978ca054ffc2b5fc51360f",
+      "relative_day": "SVM_C10/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "804f816935d3194c5295739cbfdae9b7f8a5b6ae6cc4c16a79968b94c2e21f21",
+      "book_name": "Results_SVM_C10_spring_d7.xlsx",
+      "book_sha256": "274c4e589f0cc439536a9813cc629c99d0c207ed4b0085c53967e53c9fe29687",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8aad3ee4166d815a71bb4e8086dc38c57b3a8da1dbfe662d0fa77628524418d1",
+      "relative_day": "SVM_C10/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1b4272b97fcca270de5c05a1e6709870b937fd9fba83480f9d2f8604142c2624",
+      "book_name": "Results_SVM_C10_summer_d1.xlsx",
+      "book_sha256": "046cce9cc5146f2de12a2ca19fbe951fadc287e86a6489ac9c8167bccf03dc53",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9c90a6d51fcc3398306e18a85ec26a67c28b1bc581f532b9886b7cebc10c6703",
+      "relative_day": "SVM_C10/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2e066bacc7a7923df4abe259f94061d969356ccab5bfff6fd2d40a18d79b2198",
+      "book_name": "Results_SVM_C10_summer_d2.xlsx",
+      "book_sha256": "8fa697e56d175ea0ff28dcae90e04add9249b86b1c3db44c22640e7df5deaba7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "cd2decdeae555f411d73ee487aea0796dfc2810a4e2eb742523b1dbf5cc5dcd1",
+      "relative_day": "SVM_C10/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "932d4e5a697f65af8f34e9f5482427d18014a30ecdfb1d893c9593f7d73f64bc",
+      "book_name": "Results_SVM_C10_summer_d3.xlsx",
+      "book_sha256": "65883b1b8374965c30f04a769fd450fa5823f923d3b4614aaa4d05c8e9e4e65d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5ad336f18217160f15632bf3473a4a80d3b98ed5ab56c4f37d7395bd3c420063",
+      "relative_day": "SVM_C10/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2bd8f496bab38f58a78c72a6e09732407ee17b9df45efff0db69575aaa8f2976",
+      "book_name": "Results_SVM_C10_summer_d4.xlsx",
+      "book_sha256": "12fc38ff5dac6596efb5b13eb2102ebfdc72418d0fd3e283276c2d54db7bf358",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2379996b63227483d95231b30eaf4db7bf92b25735ab5bfc047c4c26a5509dae",
+      "relative_day": "SVM_C10/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b7e18d0519587f090ad7fccbe60f17dd9f3f9520674a2aa3fe2cd93a5186e061",
+      "book_name": "Results_SVM_C10_summer_d5.xlsx",
+      "book_sha256": "7e6890957b17467f580a9db1b8f32cee31586b737fb57bc0adebb202fec4b303",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "145d3194cd6ef645007a904f80440890072b22a682345df2f5558daab2eb0f2e",
+      "relative_day": "SVM_C10/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "62073e963aba2efae00ebb79ba7d5a4d7ecec93142b915fc0f7a7a1573a59dd7",
+      "book_name": "Results_SVM_C10_summer_d6.xlsx",
+      "book_sha256": "063279fa388239bb1a14285bfde61df165ef60a75df08aa75edc061e93186593",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e98ed03c56cee84a93c0f94eccea716381e61805199dd2110783e2dc76310746",
+      "relative_day": "SVM_C10/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "880f2fa19f1f7ec80914fd1242c27c06e37c3e75f0f505f7d2f1204d800f51f7",
+      "book_name": "Results_SVM_C10_summer_d7.xlsx",
+      "book_sha256": "29d2f4a035c1f9fef856333625e20090236abebe2364ef4cc18b885b3da320ca",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "975f8fe4c90d0ce983a0f02c7c9a8fa29c886f5ba49fbcd1e8d022c2b4a16b99",
+      "relative_day": "SVM_C10/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "237d12158e922146b2a47378f79965380e05fb60c32303506e8bb493814b3c9c",
+      "book_name": "Results_SVM_C10_autumn_d1.xlsx",
+      "book_sha256": "488fe370231338930f534124d49ee486f9d12c523ff3138ca179d7cabfdb5f9f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "331d638c201cf7114b32642c9a0e403045c20911493f5d4ea513b2eca826c9f2",
+      "relative_day": "SVM_C10/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0684c887db450a917f8f17f626696dcd4fc0141a5454bd66572c0b489aa7a9fd",
+      "book_name": "Results_SVM_C10_autumn_d2.xlsx",
+      "book_sha256": "082820a965dc396d62ea5dfc4e5710711b554b5a0e31b44b61270c0d3b795288",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b4d44e02f37466d7b72e0816311d54505e9a0f1b0057a7153318c5910bcd777f",
+      "relative_day": "SVM_C10/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a4cc712c5a94f2089785895e264f7ee9e44d11ac2ea9f0b16429fdf465311934",
+      "book_name": "Results_SVM_C10_autumn_d3.xlsx",
+      "book_sha256": "787810123dba50a4101dec6b1c841fba0bf282849bb1efdd65c3f1d1e7049ef9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f91cc295c4e31eb8e7b90e2ea98cb82a28b60350eb847bb4adbf5cd3ed6bae24",
+      "relative_day": "SVM_C10/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "da0502f9348eb564c6ad1177491adf72bf1ec8014b82706ffd8c03133b6d1c6f",
+      "book_name": "Results_SVM_C10_autumn_d4.xlsx",
+      "book_sha256": "b92cffd43c1747a8c5bcac77b9b50ea272e87118aa38ef5ca335e9c2e90a6604",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c04e1ac3f198a239543d9e030b63f61457114650e4768dd8adb1858884e36baa",
+      "relative_day": "SVM_C10/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5254bb7f9ac45489c94b2f540d5c97b2cb38b0f79ace1e436b91e2afc63830a4",
+      "book_name": "Results_SVM_C10_autumn_d5.xlsx",
+      "book_sha256": "e87d00a181135f7df08ca57e8fcb2e1e1f73f8d176d1391020597b4f290d25d5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6a46f9bb6166cc3d325d8bf15c47705d62b5af6cf4893418e27c605af4a20cce",
+      "relative_day": "SVM_C10/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "687bc91dc5199f939776b7fc86f11338c3dba1a4420516fda6def752759e5d34",
+      "book_name": "Results_SVM_C10_autumn_d6.xlsx",
+      "book_sha256": "354499e6b9571557f8a05c428d05d7915bb37d2b50274568a44954bfee0c9a65",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6c21523610795958e647fa1e8316e34dfaf00fc9c6e0e9b68c22213b3a8b1a09",
+      "relative_day": "SVM_C10/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d003052c132c0d9876cd20729ffd4b6ab88f78db298600e170883ada39ef0b1e",
+      "book_name": "Results_SVM_C10_autumn_d7.xlsx",
+      "book_sha256": "a56fed51346fe2ba4ab8d9cf284e1275faa0206e15f6bcde1a27ce5d0e823cfe",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "38622948800e27d6f6ca9f8b1dcd543f43b6d93d7aa3f2cf0c34f74be615e2c5",
+      "relative_day": "SVM_C10/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2db18004116162afb76260b1321cc23f26ab53138414e8133044adfb69c9db98",
+      "book_name": "Results_LDA_winter_d1.xlsx",
+      "book_sha256": "7a912a3bfbcd397d85f8883f71a3afb21cc5a7c9ceb5bd97016e93ffa3fccbde",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f65f2eb49230054fcb936788498f75329c7187344820445764e06b4ef9a5e4da",
+      "relative_day": "LDA/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f203dbc84123e10387c87957edf6ad6775a5fc082e5c931011186a3afcec0512",
+      "book_name": "Results_LDA_winter_d2.xlsx",
+      "book_sha256": "0358b12d53537f00457964727af63209dfb5020d977a12805cc21bfe7065577a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3df6c769ee365d8458574dad86c6167afd77d7c9f4d02d53e5a86c9b12118be0",
+      "relative_day": "LDA/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "30847f8c56579761593d1f12b57b908f777361994848a68dc7dae49a516aaae1",
+      "book_name": "Results_LDA_winter_d3.xlsx",
+      "book_sha256": "05a6ed259c621ca6b821d9c537a650fe976aa4c21230e3761a52966189be57ed",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6d950b19d2914d8670d7e45eca2e1e0c1de9e9dc6e146b8837122b931847f2cc",
+      "relative_day": "LDA/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "10e16ad7d5e89da11fde3595e2af632976c2cf206657dc2761fadc56e914ada6",
+      "book_name": "Results_LDA_winter_d4.xlsx",
+      "book_sha256": "2bb11aa7c01eac055a4253e87983388bc9a7a7000db415f7aa165f69466806de",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "88f20113eb5f8590c03142e10f577c7a9680ed5605ef3f0ad1b025cc48864f95",
+      "relative_day": "LDA/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8075dd6c79080b6be78f3bb75f44b4ffae282ed48ba1be21b749734d3aa6a724",
+      "book_name": "Results_LDA_winter_d5.xlsx",
+      "book_sha256": "70405bff4340693a7e84321eb6210d0753e924e9a3e297084eaa9dad9f77c723",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9334d3a036faabbaff816e6a23d85ff3e1c7c725b81fa65fbfc7e9958639d5c0",
+      "relative_day": "LDA/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "05242d7fdfa5ce977f2c005a90a80ebdec0567c9e72a70662aa589523cdfe086",
+      "book_name": "Results_LDA_winter_d6.xlsx",
+      "book_sha256": "02e24725afb6519d274ebd14144cac7e1618811dad76afed5132dc4d52dfea05",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9cab3b96f764718c3a14545fd80e0bd084074dd35790c380edd664a6d738307f",
+      "relative_day": "LDA/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "88c9333793bb98a5e5737e07c6f23d6b3d758d6526f03d71b9af0d08cd2ba111",
+      "book_name": "Results_LDA_winter_d7.xlsx",
+      "book_sha256": "7da490e83b426497fc9a9b3af78dc68f281e0c20a96b9582d43dfe47ea5b5720",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3295906898501b9054699e569e468d29a4525cff2db91d72b7ce4fab85376b89",
+      "relative_day": "LDA/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f33635446b762cb757278872d286a65e14d56dacdcca4ae131b845a5d782f644",
+      "book_name": "Results_LDA_spring_d1.xlsx",
+      "book_sha256": "eaf02b518aac5a50d4925bfda08a7ec5c8c43752227a481b3f82c1250a0b5caf",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4606e544def87301d67e1b5a09648d3e6bce8d799f6d60f6a3a957486211bd0a",
+      "relative_day": "LDA/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "989193a30bf506ae1f3859c3e5336471ee79427e296bc9b8449eb9bb64133053",
+      "book_name": "Results_LDA_spring_d2.xlsx",
+      "book_sha256": "5fe5b64738523e7db4bb524e49d3ff0f8ca14529c7c37234b421c844720e19d7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "349e0dfbf7d6297798223e37b7d721b03322a819cfdd01d27268b8873a99ea8e",
+      "relative_day": "LDA/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "91573cd6d2c2a68b704ed99c7f0ff294a8f4853c6a8b195029c6647f3a3c3cf9",
+      "book_name": "Results_LDA_spring_d3.xlsx",
+      "book_sha256": "88181d711a130d4a7c349ab8f25f335a281578bf95e6d4c5c4281ff2d0960048",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "edb2559c0c0cecf4a33d7a4a67ca025ce4b62adaec2810b6a85a9bdc18ae0a4e",
+      "relative_day": "LDA/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6e9db0ae050ef00d278176935e0591c0d78d2a8dfe3861d5dd7721089996fa93",
+      "book_name": "Results_LDA_spring_d4.xlsx",
+      "book_sha256": "66f40e0abd5a101e70175c94c2e73dfa4f247e2948613b57ba017935a694893c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ac2e527e7ef1aab3fdd870a08553fee0d605d9e67438f2fca3482dd7047d820e",
+      "relative_day": "LDA/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "342784e7892572477e48fea96ae422e34b1cd470b43e5e51febd7d09f670a64d",
+      "book_name": "Results_LDA_spring_d5.xlsx",
+      "book_sha256": "3211a8ccecf2eb4be7cd5e39b393f16b7aa3846d863e0eb631551a8f3f688e73",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "86e3620874f2dad63a06be3a753fa88823de228a8c4dac7123584ddfcb1ab476",
+      "relative_day": "LDA/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "cffa6ee8da640b8a816986d509bb25f163b12b87c7ee1040c08ebc101e40fe65",
+      "book_name": "Results_LDA_spring_d6.xlsx",
+      "book_sha256": "bd48b52fd9403989338c89aa396049dd01ab767f46290ae625e6c4e7c760af2a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9874ae0816d69bcfe54fd41557b351a18288247fc7a7d3d7c3b3c0fc925802df",
+      "relative_day": "LDA/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0c2d10c2edebdc88beea607ea9b5f173701890f2ca6ec2e36446e4b6ea5eadc4",
+      "book_name": "Results_LDA_spring_d7.xlsx",
+      "book_sha256": "b072c25134ff6793bca4361325d7f82ac09c57a8d5f8e074d9bd658432d65afe",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4997235d983f4b4028b9cb8d57fdd3ae638e7658ba49703f26605645a42ec079",
+      "relative_day": "LDA/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4c5387f36bf9ae148c356ac91e5618f5709807755a760fd3d357bda39d25d9a3",
+      "book_name": "Results_LDA_summer_d1.xlsx",
+      "book_sha256": "6ee28c52a8e6f1e877009ee688a1acd928d401f5d3d38795067f784e70e9f789",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "30a9499487400973a6141a3f7646015588ce5211b3a6d92ba48d754534ef7b9a",
+      "relative_day": "LDA/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f0a189ac6016876a369d6459d8fee77a44230380c0e2ed028b6cdde446fed65b",
+      "book_name": "Results_LDA_summer_d2.xlsx",
+      "book_sha256": "81774c3118044d09ddd29479a554293a62803a28fee16e8ba28737e4c0478126",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1594641b5ea7fd2d052d9323aaa8c9c99419de4fd200e088424fde5923bf9981",
+      "relative_day": "LDA/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "941b94de4b04b766e5c3adbd15dc0706e6dfb0c855f87f447e159abcce864f6e",
+      "book_name": "Results_LDA_summer_d3.xlsx",
+      "book_sha256": "c8617c5458e41bf22147f0260b2947a7108daa9a0b09a535782a6c4d5cc8470d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "224772e8bc5e03f1225bfe67aec81bd9e063cdf3c35aafbf7578f684ddfeb53b",
+      "relative_day": "LDA/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "65f736e97e75a96c918171a3e954f7ef085425b2283796c46b36e95cb1e765f2",
+      "book_name": "Results_LDA_summer_d4.xlsx",
+      "book_sha256": "25fdf49f27e1db0906c07a5acd4fc4ee7d820afd9dbf8e481e647cd9ab435b84",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "501387aa4037d9664d2cb873c3984cb07fd12bb2146d638bb41d1fd641bfe778",
+      "relative_day": "LDA/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e955e1643f03ed845e41fac18e2699582c1c49dd9ee1387430c6974063d1681c",
+      "book_name": "Results_LDA_summer_d5.xlsx",
+      "book_sha256": "e0c1f0e1867eeb21756ac930654cf2b873f116489ede7d44f674d7fd41420534",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "12935db126556c631efd166da5c8bb6353a58053030ca8912ab04b85fea4b3b1",
+      "relative_day": "LDA/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "51a8c7fd52b284b751f5ec672c626238362de3fcaded9af83215c749d4b7cbe9",
+      "book_name": "Results_LDA_summer_d6.xlsx",
+      "book_sha256": "cb0849da0b4096dc14d19d72ccbbed05bda372427e7d3785f284b1c334c0ffc1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c2c385873e12666496dc567eb4b5b9838e671845853570180866740863674641",
+      "relative_day": "LDA/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a9833dd0123b01765d860998110709eb67bd5cda222eb8dacc7b073dc7293791",
+      "book_name": "Results_LDA_summer_d7.xlsx",
+      "book_sha256": "0de21faa5a9ec2c4cd97bb2cca3f294d5a4b962a0b5e148d0f3cd6c2a4e82f11",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5e21b0242986024ce3ba582dc5c4f17bdf994f1dd695794e6bddaf4a30ce26fb",
+      "relative_day": "LDA/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "fda0abb468ac61b36aab9165cb9cb89942b890ceca5ed492a9745a84a2038b97",
+      "book_name": "Results_LDA_autumn_d1.xlsx",
+      "book_sha256": "d596b46e2e9b8141e657bd094193bc0988bb7964fe9191c9f9af819acef0c943",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "67cef98477c6531f845dc602dd9feb86439a90673bbd681bd8d51bbe64732f0e",
+      "relative_day": "LDA/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4245cf0a9702230c9a984f241d5f210d1c369277e6053d49feaeebce94e40a8a",
+      "book_name": "Results_LDA_autumn_d2.xlsx",
+      "book_sha256": "07ed8f675a2049f497ecb3d33438b2d3dece211ce0340f8e653446b278bd0212",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c6edd8dc0ef17b5803b3d9444ccc5656825772e64a316d3589b50b33763313a0",
+      "relative_day": "LDA/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "753828bf7ab5b6545c6b048865748d9e0805dea4c08b8677713be29b6f72c65b",
+      "book_name": "Results_LDA_autumn_d3.xlsx",
+      "book_sha256": "24b0d4f12032efdd848a2e43bf505b88f7f7d13e81bc0be78f0ef77342c5ddee",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "afc80982b9ae6fcfb0fe9538e32416c6a0c09d5ac2a7048f9e285d628466a0c8",
+      "relative_day": "LDA/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ea9b6eb7d1068bb2a4c555ab8e10f35b7ea6d022615fc2556303d64e1f76f121",
+      "book_name": "Results_LDA_autumn_d4.xlsx",
+      "book_sha256": "7386c849b06c6fefc2b51a09f149a391391ed8da73021987cd1ba2b7d880d9c7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2f470ed271702e792fd3ec6d76dd30f92a6320ad60178564de97b7fe5e9b1bb1",
+      "relative_day": "LDA/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0acbd0d0cd80dbe28771de33e542477024baaa2813a2b0d5c5766b9e3bf08fde",
+      "book_name": "Results_LDA_autumn_d5.xlsx",
+      "book_sha256": "688956f210d9b9f0128b260b6b75bd563aa80b690bff58497afe80685efaee09",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4df92d2aaccb61a144eeb79c40be9581d9d985180271b20644441789bb760249",
+      "relative_day": "LDA/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "dc94d2d4e25a80b7574f78c00378f23f7fbaab6d12b186b13440abdac051c277",
+      "book_name": "Results_LDA_autumn_d6.xlsx",
+      "book_sha256": "c4ad750f93b90242a378d73d591d2a5bbe203a13da41694afc968d6b872ed413",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5542e3e2d455fe198fb0e775ae67fb52dd8bad7be473950a238425068e7b06b4",
+      "relative_day": "LDA/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b90f3ef09e9cd32e3de43352935969243c800a2e85976c63437cf9002a38490a",
+      "book_name": "Results_LDA_autumn_d7.xlsx",
+      "book_sha256": "7ad482f865ffceb2d1ccc27112cca16b96c6402cd43c350b41f4910ebd4c6ad5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7785fa97628d27b081ea5a6d2ff3ca6e17caebc9ec40be04030893277d1657ff",
+      "relative_day": "LDA/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b74574ca9d36b8a3aa4948b01987a9593564236d576ab9d1124144f1e94e7864",
+      "book_name": "Results_SGD_Log_winter_d1.xlsx",
+      "book_sha256": "224d0d10e1e518e63d49eba0d14a621d40c715f04f077e838691678f17c46f1b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5a757c9d23a2f989db60925c53cc14c3335faec6259e9eec9599d3b8ce4ef1da",
+      "relative_day": "SGD_Log/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "24f4e6ffee8f2284d03fd9040c822806390d51ab70445a609f3471a7a38faf71",
+      "book_name": "Results_SGD_Log_winter_d2.xlsx",
+      "book_sha256": "dadb68049e6081e7adae9882baffc71801ffa76491f4599748beff9017a1060e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9a4d0dd4d897348cbecad11cbb67f74bee70b9aabb6a84ec1a6c61ce4653a0fa",
+      "relative_day": "SGD_Log/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6a5e31ae3214e1465560cb7bc2bc8b1589cf3b8016bd77115a34b700b097afd0",
+      "book_name": "Results_SGD_Log_winter_d3.xlsx",
+      "book_sha256": "9ca7fb87beae8eea891cb63c0f03a2f434a106a5901b0bf87e34b05abfec73ad",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e8af36d4b970d28c7dc325a61f91eefd46c861759dee696f88041616f9fe9450",
+      "relative_day": "SGD_Log/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "98cc8aaf657d8b6767393211811c4b148d23a17f6755d7c53227bc4c9eb636bd",
+      "book_name": "Results_SGD_Log_winter_d4.xlsx",
+      "book_sha256": "263e073cb3b25d1f64d7861d68dee8734836219bd351ec2830b59c9f49d86ea5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "eb417738d58e31aa028793624b95cae4400de3d9a031e143d1f1f96fc7b3d52a",
+      "relative_day": "SGD_Log/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6e2288d3b4831aae518dd06bb3f4a7392a5a38c53d413950dad817484c76f40e",
+      "book_name": "Results_SGD_Log_winter_d5.xlsx",
+      "book_sha256": "c4d331574a25657b41c42b0e04736ea6eccdf5936d39b368dc43da649be12573",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7db4fc66068c8ff09d7babbaf12164a5fec198d57347cadae37d8fcbe0a6ec25",
+      "relative_day": "SGD_Log/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b05d574abb389f432d10d04be0ce81ca35c6352bfbd7f0f1492ce5af9eb236cf",
+      "book_name": "Results_SGD_Log_winter_d6.xlsx",
+      "book_sha256": "58da927786e298578115fcb7c64ccfa2f067a2c9464a7b9c934cb9e94b408ce5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8cfdf12020d8f3f9da6a7f6e072115e2f22901c8792e4c46c8b0a9e371907ce4",
+      "relative_day": "SGD_Log/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "19dd6e67a1d7d93e2b9cffc9d81cab459fa8453f44294ad50f540917c1740bc7",
+      "book_name": "Results_SGD_Log_winter_d7.xlsx",
+      "book_sha256": "a06d1cd6f92e6eb98eb257ad1279a930932816bf30dc6ee61cc5e7e69134bf58",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7375835254264b78c270ac3abeb59197f3f91d90b20e227d5e8676b196ea2e31",
+      "relative_day": "SGD_Log/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e333c0e5d634b778009b61b6c7b8642bc566fbcb2ec40daed2697d92487aa1e1",
+      "book_name": "Results_SGD_Log_spring_d1.xlsx",
+      "book_sha256": "f5e989209e71880282d2679c157b605292e79e7f2fefb95eaf410aba70325e6b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ad8805e5679283eb5a5bae3689e54c4b85cf9c7c13b77410915e488ecb07e220",
+      "relative_day": "SGD_Log/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d1c4b00c7c12a7b53f5964299e58a76ea92f2a453fa41853c25636a6c1f5f4c8",
+      "book_name": "Results_SGD_Log_spring_d2.xlsx",
+      "book_sha256": "824fb66b0fa11f9bd9de4dbb291d7986c212cd3c944fb12426661cad31bec57f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2fc0eacbdb1febcd72757c45beb531c3bdea79598c0ca4eba66e0a0bd7684230",
+      "relative_day": "SGD_Log/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "56145dba343d43b1900fcd7fb751ee8f768acc7bc86b690b581bbbbc54645293",
+      "book_name": "Results_SGD_Log_spring_d3.xlsx",
+      "book_sha256": "40915e487c305970a449ad4d7015f72fdc9c61bc551c2cb0bc0d95f7aae6d536",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c07e41b02e7f91077c10450715a7aacf30a70f0aaf08e26ff16be6f4dc6deaf1",
+      "relative_day": "SGD_Log/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f3c96b77200f8bbb35a694640a311749a2b15088bd20fef3f9feb6322a63bdf8",
+      "book_name": "Results_SGD_Log_spring_d4.xlsx",
+      "book_sha256": "1639fe15c92e4fa5d0dec775cbff4bec1191a96059cf06a8551995d0de540f08",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "22cdbc1deb1f28103fc5c6d7944250ae8613be9ebdb3aa50f391c790ed27abe9",
+      "relative_day": "SGD_Log/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "63ef38e25690d8f36fe842cc036c571eb27a9e3fcee0f63400dd836afb1ec88a",
+      "book_name": "Results_SGD_Log_spring_d5.xlsx",
+      "book_sha256": "7076332b282bb909c0e58966a471647ae773e1cd545dde4ba9a20e3fad187355",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d25c95dbbe57d74b5a04cce9392234e3d739459a39eabeda5b570e351057d807",
+      "relative_day": "SGD_Log/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6a1563975262841cd65a5e8d9ff48d49e237944c569195b02006bc60e8864255",
+      "book_name": "Results_SGD_Log_spring_d6.xlsx",
+      "book_sha256": "46aa64eb726b3a6d59f526ae88be2c08dee0cbe43dae2c25501c1999444ab406",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7228aeff78d79aa26aec51ed09acdc274ee8a14bffb1c1d52c411689a0e41c8a",
+      "relative_day": "SGD_Log/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7fecdea527dfd868b83121c4d90d0bb22b51cb7ee10f104b19bc3afb86384aee",
+      "book_name": "Results_SGD_Log_spring_d7.xlsx",
+      "book_sha256": "b63644f281ba1613cec31faf6c42da1456cf362e201e898149db092565e9904b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a6cb2931be1f424c3da36ed1114803b75f143382de9645a24a3683cdadc0c50c",
+      "relative_day": "SGD_Log/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e92dbf8b1401f6eb18337f73eda696d4fe1bc83d7c927efc846259f5b1025c3f",
+      "book_name": "Results_SGD_Log_summer_d1.xlsx",
+      "book_sha256": "7dbae9da7e76e645a6750ebc9bdd23a389a31c0b2d478763d3f9f54efd009e8f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c72b5f88e035f7d8ca2a1d2fe60475dcc02aeda67fc570de2e2ab4100227a53b",
+      "relative_day": "SGD_Log/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a6810d6164f6f8c2598ba6432cd830e61ad0e5284cb071ff5c5a9f7e4d5c8677",
+      "book_name": "Results_SGD_Log_summer_d2.xlsx",
+      "book_sha256": "2be35a698ab3bafd809668462f3b5d74ee2e4191e749f387a8a9891a0c09c311",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ba9003afb4f169be1da198fb0af451578d22a7d57c722e392430769e6d229941",
+      "relative_day": "SGD_Log/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3a65dbbd48e3586bc0bf178705e7496849d699c42b17c055aac089b52f4273b9",
+      "book_name": "Results_SGD_Log_summer_d3.xlsx",
+      "book_sha256": "75d1aaa199ed4eaeb9339b4bc3740ca867b2052902fcc36203ea3e659c8fd128",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3e1272145642802ca5623d4545ca5fdc8a883c0f623ff20e1227219d1237c416",
+      "relative_day": "SGD_Log/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "50e46959e9ac864f5d98a1865f3e3057200d1223677c155c8f828e33b0b418f8",
+      "book_name": "Results_SGD_Log_summer_d4.xlsx",
+      "book_sha256": "2520fc8cf6a6a01f586f2c45a69ef94dacbfe544a7086ea823bb623055f1e171",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8ae78b3518db1ecf670942b27ca8a09ed6dbc7ea102f3301868097b656af5507",
+      "relative_day": "SGD_Log/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9734a5aa1c5e3d0a671805e285da76976a6bc86a272518dc484e45f970ff82b7",
+      "book_name": "Results_SGD_Log_summer_d5.xlsx",
+      "book_sha256": "d4b29cbd204116cee2e50d3138df1749af5e2bc44930ee6b38bda5809908df2f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "fa62fe57757cd3d07aa9c6a985ee3abcaeafaa1248a0c1b6dd055c18e00a9241",
+      "relative_day": "SGD_Log/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d3e6063e9d10c9328d0731e518b0416f6498de9e63f0aafe5ffd42d3aab6e7b0",
+      "book_name": "Results_SGD_Log_summer_d6.xlsx",
+      "book_sha256": "a2294c74ed076fc50d00b91bfdf9222c53cb8c30d80a89a5af2164d891ecf641",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "89fca334aed8e341ef80e84bc8aa2fa7d5c1687b1e8397892911ab305eed2bc7",
+      "relative_day": "SGD_Log/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "370d53522210213ae8bfe25c25fa3f63757479a06736d1bf7e2c96bdc63fc6c7",
+      "book_name": "Results_SGD_Log_summer_d7.xlsx",
+      "book_sha256": "7cb3208d7510f7f6433c039e59bc0f096e6e621803ec220ccce166f260ccfefe",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3683a086c9594259fe013816f49d725e2035b3f61e9b595e2862c85cbce0809e",
+      "relative_day": "SGD_Log/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3e2b0737d246ef38171c64cf53db1024c57b8477658ab45504a3cfc8022927ff",
+      "book_name": "Results_SGD_Log_autumn_d1.xlsx",
+      "book_sha256": "33bec9d9099639f078309f8127cbf2b1fdc6e47a89b0601086b7e2566277a41f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d2943c562f6e497cd708ecfd87572afd54417320b847e2631c3e59fd5a04ebf8",
+      "relative_day": "SGD_Log/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f996bc0685e84c3344df4c7a5e1e736a718d42ae440a92b5f65bc42146cd17c0",
+      "book_name": "Results_SGD_Log_autumn_d2.xlsx",
+      "book_sha256": "b4eb737dd94829ae31b83f16d8993afc978967de709345b019e7bc6e65306677",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f5ccd0258923511d1e8c6daa20d6b7dbc480d1a71a8ec9c8f149f4e8e3ad55dd",
+      "relative_day": "SGD_Log/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "87aac8105ff26016315247502beca2c86cd86aea2fb1904a632f6d9928bb3286",
+      "book_name": "Results_SGD_Log_autumn_d3.xlsx",
+      "book_sha256": "8f4a76eafb1566ff672026376960417515fb6a09d7f1e63ae42859b0da72db4e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a5964acdcc6b6b037737ead443a709466885641cce2f7be965cc6641fe32f99d",
+      "relative_day": "SGD_Log/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ad341ee4f8e31d4190e649ecc457657d073e6bb46e6ac4272b5a43c7a3ffb025",
+      "book_name": "Results_SGD_Log_autumn_d4.xlsx",
+      "book_sha256": "01343225bb043477bd27bab57148f53ff144f5635b49e3e5639ab1e0202d08e9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "46c7548a0220c238e66bfac6c3fcabbd4e381b044ca15d1beb29525dac006d1d",
+      "relative_day": "SGD_Log/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e3233fe30352e6bbf4814e559e7179747ecb213164678be41c6a2e4684acbf86",
+      "book_name": "Results_SGD_Log_autumn_d5.xlsx",
+      "book_sha256": "e9a6db8f48f1bca72b2386b63470243639edca07baffe62767df89282a672911",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8cf8fc9351e4da5e87eaa216ad165d9df5588d14d36fd595e1692c68ee9ec898",
+      "relative_day": "SGD_Log/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7c7a5a13012c32701622b755165174d287f534e0fbb0beea1662547ab1ce650b",
+      "book_name": "Results_SGD_Log_autumn_d6.xlsx",
+      "book_sha256": "07c30acf35f57a1336a7383eeae0967e97ab5a4f56578c65d7f49e40c6816794",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e898d280d48652581e481da08a6da9f4f1599f494901c230d9323d1eff40eb52",
+      "relative_day": "SGD_Log/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f7e5e19f6b3f8cffb9f0ff6d7124c402815e245dac67d8276418c2cf27fc3681",
+      "book_name": "Results_SGD_Log_autumn_d7.xlsx",
+      "book_sha256": "5f72c736fa3e12b461a489810b16499aa5856d75ea68b5bebc86d5da8d122728",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6ef63037147adcfc20cfd3546b29bd554095a9c66f275606b94bab5918ce785c",
+      "relative_day": "SGD_Log/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a46561f970ddb1afde1b8a142224e29cd05d3d95441a8814a2f9c69181be2eb4",
+      "book_name": "Results_SGD_Hinge_winter_d1.xlsx",
+      "book_sha256": "ef280ff7b24ee34d68a91a17015067362a7491108cd90835d26a72b5d992a147",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f45051bcd163e4b293d44a56d24f2ed67b5059262635a16f918cf4bffa655569",
+      "relative_day": "SGD_Hinge/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e15d4e909532d9342d9de772297386c2745f1f96fe582fe025453016cb7a381a",
+      "book_name": "Results_SGD_Hinge_winter_d2.xlsx",
+      "book_sha256": "9c30b3b730f3276e90c2dd54bf7c38dae7359ae1bfd48790b37e1f40e1226814",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "950dd8b498c460aeef241371fc1d951ad24e00010a7919deb059607449642f0f",
+      "relative_day": "SGD_Hinge/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0d9616499688dcc91e944a44eaa32daa77fcf60de832b14c65e257e87344e665",
+      "book_name": "Results_SGD_Hinge_winter_d3.xlsx",
+      "book_sha256": "bbfe994fda4a3169319ce5bc8ca3b113076aa0111f7d541b27e81352b55c0982",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "24ef69e6b001e1fbca936cc35f3694f4db973c1bd2d4ca5b5dd2a63019047261",
+      "relative_day": "SGD_Hinge/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e7bf89e6bd30b1f9b213f51ce83ec80473a46ae760244d549b507a50c7e50982",
+      "book_name": "Results_SGD_Hinge_winter_d4.xlsx",
+      "book_sha256": "549ff04e755c2504ca1a31931ff61208c3ced4b903b31465e520fb8e26bd789a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "36bb937ba9eb025625366ad0ccc58f1d8e101b3bd3738c0e6c47daeb632157d5",
+      "relative_day": "SGD_Hinge/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0e7419c5618d728d2664f9a8d24843f0bf9fde2eae354d074b0fa944ca502438",
+      "book_name": "Results_SGD_Hinge_winter_d5.xlsx",
+      "book_sha256": "97fa1429f5b445d9888e8991509e685ef236f3aadd41cab7709d6f7f499e4a2c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "81746ca5ee84ae9ce507f9cc066d29fafc79e942bd638e4748cc90e8ccdd319f",
+      "relative_day": "SGD_Hinge/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ddc888a0b20e4ccd201ba582a59349aeb6ca0c4744d4ded9bbdd819718919458",
+      "book_name": "Results_SGD_Hinge_winter_d6.xlsx",
+      "book_sha256": "a19891dd9277ebbf055e9af818c3fdf973270ce499efb9f8c1fb48e6bb0de624",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8d9106415901360b7960c9bf5cf81aa5629ac566c2ed091f938abae872b5e7e2",
+      "relative_day": "SGD_Hinge/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "666a8b4668bc87241e177c3c0d1becac437561a68324fddffbe4c857fbd98c9e",
+      "book_name": "Results_SGD_Hinge_winter_d7.xlsx",
+      "book_sha256": "5eb201eba7c647a28031249fc4d2008da7921227a5c292f682b4836ab8eff18b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9b85d883b000b9fe42cbda9a8474c721b261f0af37bf1a4994756ffd9b0798bf",
+      "relative_day": "SGD_Hinge/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "efd30816d0f728b0dddcd33db7b6c61e4914a361fbaab090eea7b3e44195f72d",
+      "book_name": "Results_SGD_Hinge_spring_d1.xlsx",
+      "book_sha256": "d058c7e5d642d430242d170e6b27620f6dd88b58be56b80db8ee7da9434b6994",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0d562884f97cc57b14f560fa054a7f5c7fdcbbea2887b0d238582355144876f5",
+      "relative_day": "SGD_Hinge/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4f79316c3ad5b0c75a94532c336244875513051990075d03f6ccd2ab3b34273e",
+      "book_name": "Results_SGD_Hinge_spring_d2.xlsx",
+      "book_sha256": "c1b92cd865f7ef90ad6374291b9fa9d14d34acbb6e974af10a385e872fdc66ac",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8873628426105c786bd55ee829f9fdee0f932c616791e03e202e4b40f276b866",
+      "relative_day": "SGD_Hinge/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ffa7e828d4a8e8f7e355067ad40ef5d8f8a30fb026b059669c07244ea23854c0",
+      "book_name": "Results_SGD_Hinge_spring_d3.xlsx",
+      "book_sha256": "442eb175ace944cdd6c5712120a8272b22cc056ea6a1c0780ae140bd5baeb80d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "98c07193389edd2874d3ee7314f10cda8c6d900409e47d8fc9cb65850c082f20",
+      "relative_day": "SGD_Hinge/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5aabf095e3a2d306054af6bbc92ac7b0b69d336837119a498b0c5faa8924f70f",
+      "book_name": "Results_SGD_Hinge_spring_d4.xlsx",
+      "book_sha256": "2c3f99529dbf053de4c0c6b605ebe4aedaa357911ef6a010f24169812ef8c1ce",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "eae9406bdc2ab0194c87de86dc39a45ca68a55c38699447cef53389dbfaee8b5",
+      "relative_day": "SGD_Hinge/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "dfe509705ca3978d0743d5c4cf85d190b00da3fdb36d327794d1f184f4f4f8ac",
+      "book_name": "Results_SGD_Hinge_spring_d5.xlsx",
+      "book_sha256": "1b1e5171222e19caa5e9bb794c2d22b2b69c936a8e12f72f73738e74d3bf0575",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "eaf395ade8eb18ee11df882eae3da7d05b1f1df8a98ec92cd74506f8d2588ba7",
+      "relative_day": "SGD_Hinge/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0add274db37d90c746a043552365ce7a2bfa61b6cbc2f75d1c29e1a8fd5f26d6",
+      "book_name": "Results_SGD_Hinge_spring_d6.xlsx",
+      "book_sha256": "438be6a3033332b4338a28f928d0356e0fd6524d905fab8958ce2be5827e6590",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "299823140910301358aea3452f95056451edd26758c98e729a97cab7f067c878",
+      "relative_day": "SGD_Hinge/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6ce6d9f0aeae3cb4b5a4a4e07d93527c19b8f3f7e87ca79793ae47a65383e243",
+      "book_name": "Results_SGD_Hinge_spring_d7.xlsx",
+      "book_sha256": "0724e9153378e4aa575930652dbe314a9ba454652f96226d727a67b99159289c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "13b0af2bdab7a1128c9551d4daf0a9b5883bcf7a7550497adddfb395f8d6baa3",
+      "relative_day": "SGD_Hinge/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e28f10bdf9b27e914bd036151ea067398988aa0ce017334ce7841d31fac9d421",
+      "book_name": "Results_SGD_Hinge_summer_d1.xlsx",
+      "book_sha256": "b0cc0c7061c672c84f2487848b37b6f3b50c6c87550fb96265fca4d564c4a478",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "440ffedd7fa5d0de1c5d24be9b76a1d2e0f25d9570bc276c978ce938a5c647e4",
+      "relative_day": "SGD_Hinge/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "49378be4077fe498ac85549e2248632bf8d7e8294c74a16a8c31fc59f6c88012",
+      "book_name": "Results_SGD_Hinge_summer_d2.xlsx",
+      "book_sha256": "7fb97ac9fc0664e8e1039f44b820630815b5e419eba6be297182d46232a89265",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a3a195613fc23e6209a1d76306366a77a50759cf385497706f4edf3eb7696492",
+      "relative_day": "SGD_Hinge/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "eced5f2c9eec4b43c9cf009c78806f4bc71a948917cd5312ebd61556ace27200",
+      "book_name": "Results_SGD_Hinge_summer_d3.xlsx",
+      "book_sha256": "6f14142c117c4f977a16ba999e2477a7a058b3a1456d974ec7a461e09dc2a396",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f50255ae85813dc3b5cfcd0212b7358658bc13312d62234f1c57c3b4a4a447e8",
+      "relative_day": "SGD_Hinge/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f4f9d6fa812bb561328dc55a600d98c66c807a61b29e5126d56ce8631ec13718",
+      "book_name": "Results_SGD_Hinge_summer_d4.xlsx",
+      "book_sha256": "0097d501524ba3fbe5c90ea4bfa0bb89f29501cca174c816cc0c027a1b3c98ca",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d1ecb41a65b52603a3ed48186f9167aea0bb525ecc1db8b492d2a073a625a27a",
+      "relative_day": "SGD_Hinge/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b87e6b12266400b51da04ff7ff40423e2bf697abd42bd40d77b2c4de83b7bd48",
+      "book_name": "Results_SGD_Hinge_summer_d5.xlsx",
+      "book_sha256": "246c6b06222d491a243549dcd9e7eb6de5ffdc75e7bdf6503493737dc27bd2a9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "74f0747ffe1e1f44fa3250ad2064a34ba4dc0152fbc3eb42a036457e18daa635",
+      "relative_day": "SGD_Hinge/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "99f18aa3a89408717a91a037ea2addf2bf03adb3319ccff0d96ce03d8e5981d5",
+      "book_name": "Results_SGD_Hinge_summer_d6.xlsx",
+      "book_sha256": "ebfdb2844c5726eb1fdcec110ca40816c804599efcba129f59b2647ff9bb452d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "31b3b78cb82a82b39d6fbe5e7096ad4d194443be33d9cc84039126b5a0677ab9",
+      "relative_day": "SGD_Hinge/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "06844eeeb60ca17d3e80d13f9567fdf0c99766716f077d926b755cd5a778106f",
+      "book_name": "Results_SGD_Hinge_summer_d7.xlsx",
+      "book_sha256": "d7932c473711255bac7d1d35a4d755e1131f0393a7a85e7f2557c5526e060e90",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5ce7912b4f3e074b2065f2aa63b8ade33b69a3bae161ae7fb525bba8902a1048",
+      "relative_day": "SGD_Hinge/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "de09522632b45df27c3b751ffa3e98b47c0a484f63a68ae0be105415db6fda83",
+      "book_name": "Results_SGD_Hinge_autumn_d1.xlsx",
+      "book_sha256": "5d7d00a5333044d5eb4896d01219176fe7dc0c526692bc1a2b6f3ac6a07b96d5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "211334f71551b44347ab6e25ac3e4f871dac6757c2bf7c7bf4e310683f69f168",
+      "relative_day": "SGD_Hinge/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "514bae94f1c163db51c19ac79140bc7dc94b662ce96f13825984e3df4c874503",
+      "book_name": "Results_SGD_Hinge_autumn_d2.xlsx",
+      "book_sha256": "c4dba62a56063b4a55836c543f836318bbed9ae71ec05aeb157bdb9609268666",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9527b45fd2fe23e873ad047c42047e66c266b69ce2098d42230554f45ce74646",
+      "relative_day": "SGD_Hinge/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8ba75631c0884ad6ad35a9154ca491307bacaace66869d4bf964503de384ae2b",
+      "book_name": "Results_SGD_Hinge_autumn_d3.xlsx",
+      "book_sha256": "82792ba285b286acdf7f9fcf100632dc95cb7102ab34b7791b2825afb843c36b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "09efe37eed0b17670acceba49a87f2dd52ca36ef9a868797b3edb8eeb1848aff",
+      "relative_day": "SGD_Hinge/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4dc1e427f9111621269c1f9bf4c44fb25a68227bcd106a0cf09b91c22c9a9863",
+      "book_name": "Results_SGD_Hinge_autumn_d4.xlsx",
+      "book_sha256": "2b11ab820a8f500bfb46f7da9a6e84c823192ca49be894f6133e2cd2282b8389",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6ae83458157970f5b9f21c84ea52d6fe6745b3b3542a7eb5f61b6a0ba6bf6f74",
+      "relative_day": "SGD_Hinge/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ef94dff3db95e6c8a36355a9364716b06adb6fb7db88d61ac5cfb2c37ff57814",
+      "book_name": "Results_SGD_Hinge_autumn_d5.xlsx",
+      "book_sha256": "df91a08044190f4bece07a421d7321008ed077ff121bd7633b0164d30e65afe3",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "919eb77e084139c1a268395406eae9c532773f85d58bcee56abd3e26ab584840",
+      "relative_day": "SGD_Hinge/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "0579f85b8cd425d0037a6ed3178d9e27d8ff067105d5eef00c0858af13d81514",
+      "book_name": "Results_SGD_Hinge_autumn_d6.xlsx",
+      "book_sha256": "43a08c75efe68a8bf0b4b933ddf73ce966ce068873b877550a44d844336162d8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "521cb6806bf4a55239214614eef149a46e91b30aa5a56be4c110723bb411614f",
+      "relative_day": "SGD_Hinge/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2702792507159b48fff6dccf21aa19fecf523bb40f4616457335c6631cba93a7",
+      "book_name": "Results_SGD_Hinge_autumn_d7.xlsx",
+      "book_sha256": "0ea5aa410b0a50d251c13897dccfd1858be1df94cf015917b3dfa0d2be580ae8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1e9fc67ffd48a8b53f42c63a68c20b909410c0cc6b32288fc3859ef719141dd0",
+      "relative_day": "SGD_Hinge/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8aba48e3b0f4b3ba83f113d2cba85254045d0eea3687e133ace191bc66be7280",
+      "book_name": "Results_PA_winter_d1.xlsx",
+      "book_sha256": "633966c1708c837600f8371cd87b340b0c9df98bff0d7fe982988a48832664b2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b6552f07b57482863ba803a31eecee3cf5058c56f0f2d4404b16a134eff34d4e",
+      "relative_day": "PA/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f8c6c74c461c5e99253d4b977630d8646b0e3a975280b7ef8dc205dae0ac5547",
+      "book_name": "Results_PA_winter_d2.xlsx",
+      "book_sha256": "b4a7d856bc4dfa1425c56703fffc0c567154cd990b53953c60732d934afa2d8a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ba381677019b7d026fcd543b162a9be4e62c7f227b2d85e9cce24e29e29a1211",
+      "relative_day": "PA/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "502909f28efed2d40fdad7f8d3ab601424db8c2877e18a317d08874facdf7723",
+      "book_name": "Results_PA_winter_d3.xlsx",
+      "book_sha256": "72ce634353b29e4d235527b94b9b7c671cb65413fb7808c27dc5d5c2e62f1c01",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c390bf92d72a3b50545ee76c05078e37e430ea9c9f801e7a3ef7288033091d04",
+      "relative_day": "PA/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "2894cd623b071417d4b0b1476eed3fb37db33781dd940fc74a87fe93b9cdbaa6",
+      "book_name": "Results_PA_winter_d4.xlsx",
+      "book_sha256": "1f7471982a76818222ca39566eca5ed79308ffaa8a3f94501905705588e811f8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0b027f07070ccd2ede16a9ff95b052d26e628095f349a4096d88ac94dd547679",
+      "relative_day": "PA/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "6db6e556ced2ab2f76579a0d21882932af1708cdc17eebe4f6106c6e7cce5dd5",
+      "book_name": "Results_PA_winter_d5.xlsx",
+      "book_sha256": "89a63ccb4effd013fa15712be1a1cdbfb309448d871cbb0320f581d8ccf9beeb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7681c1c0e822433de2f6188c3d584032411f9d7e9728a6e9ab945e8f560ee462",
+      "relative_day": "PA/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4d77964c2146e1d195a6c278a3482ecfb8b7f89aac1da6bd0d915c22bd0615a9",
+      "book_name": "Results_PA_winter_d6.xlsx",
+      "book_sha256": "318ac7595399440b4afc1204b515e70d99190b1ee98088ea704b5beb336f985a",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "041a2e6ecdbc18536c22cefdcbde4f28e328811805b0cc67c2b0f9b852cbacac",
+      "relative_day": "PA/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8007abf75535d8fa6d74c00bd3f7b82625306232eca77fbe260d4168ae4be5e2",
+      "book_name": "Results_PA_winter_d7.xlsx",
+      "book_sha256": "63fd89fe780ad74924876a386b62e53d57ee54d08b85d926d0aab29ae6b37546",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1936c96188cfb0bed4ed604146c9b70f6130b97a4537a7a6a975951562d73df3",
+      "relative_day": "PA/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1114e3c5751797d4c90c1c0135baceba19a47da24fd1fe5037d58d4736cbb33a",
+      "book_name": "Results_PA_spring_d1.xlsx",
+      "book_sha256": "5c93eae801e549510ba25c142e8bca57ed96b75107ee2175fce63549b711bba4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4637b3ffee317b22fbc48674daf2b47273ed98bcce2ba50d4e6496381834fcdf",
+      "relative_day": "PA/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5d2a7ca0eb87ce2a955616b7b9e97d9b9ed7a470749da75c2898edcfdca28993",
+      "book_name": "Results_PA_spring_d2.xlsx",
+      "book_sha256": "a8dd72eb0fdd5a4a433f6f725356f2126f080d4fad2fff6b2a774d6a14919ff9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6195c386d40775180842f8a3fc569c47d82cd1169f1fdd7725b29ce2776d2be5",
+      "relative_day": "PA/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d2d7c24b896fd9235a8ee3ed2d526b5b667e89a99defae205ae2ef4f783e1340",
+      "book_name": "Results_PA_spring_d3.xlsx",
+      "book_sha256": "c5094e91d619e9f508f0156e4d56f65537a7e2b1321dfd1f937fb97705ea2b94",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9b4a07832562a3928862268e9cebc903ee2936bb21fff48e1cb794dd7194dfd9",
+      "relative_day": "PA/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c363334957b82707bd170a6cc9bce640773bb30ce9b7d52f9a99eb57e81bb85f",
+      "book_name": "Results_PA_spring_d4.xlsx",
+      "book_sha256": "2da92d4f8ab48dbc363b77db14795e529e8ffbfda8ca4e1364911d4d950b47ff",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "94e5083ecce299d8807f71157782114c6d84d5e11b5f00c7975e69838e2fc13c",
+      "relative_day": "PA/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1bb7f0e4831463880ff47000a8cb0779224d533379459b2e450a395e6509fde2",
+      "book_name": "Results_PA_spring_d5.xlsx",
+      "book_sha256": "bcf8b8704c2d8a8b24187aa3101f4e2c6fae0d50e7c1573ba2b6ccd714fb9079",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "fe50a459a3a58b83d458576011481d5bb19dff7fe031dd20e05b0a4e13eaab5d",
+      "relative_day": "PA/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "19e5f1878bb82f32685a520b98a7240bfea25b56177179c45afd3c6792184b61",
+      "book_name": "Results_PA_spring_d6.xlsx",
+      "book_sha256": "0308b3d6a238061fdab05c770aa0a3323408bd39489bd0ca694ceeaf2ac31976",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "15222fa505289e7a41f56161ef5bfa2e866a4461c04211ae1f505c1dff079a92",
+      "relative_day": "PA/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a5936a6be1f0ef2b8294903b1ac36495d29795473f3d866b80b40756960f45fe",
+      "book_name": "Results_PA_spring_d7.xlsx",
+      "book_sha256": "1eb8f808cef8234f712ea9e3f4d514a71aacad0d4742c0467c6b9b34e063a63e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c85201bd48a21ecfb987e61b7bc2111804e58e8548ffd21bce00c7443f47cb0e",
+      "relative_day": "PA/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "17023bf7e716c7f59c26db78f3d35e15b6c4de519f6f2f64b6cd4eae61214aa3",
+      "book_name": "Results_PA_summer_d1.xlsx",
+      "book_sha256": "e822a2d711413f70c4caed66edde399fffec694fd62148c685c771b70f54f344",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "36ede799d412a8afc967bb4e5f19d92cb0537cc0989c0fa13c1b37f65ed7d21f",
+      "relative_day": "PA/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5650f11e831e23aa82f8192db92f48b37888aba844a0a30fa57b53022f10c56a",
+      "book_name": "Results_PA_summer_d2.xlsx",
+      "book_sha256": "6a50b44c82c1af0a8ef4db3c8f34b890bb7daf0132ca15780aab4e9baf25a095",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "49238e90c24cf409154b36928dc8849c9727c2a0ab16176abcebad47ccaa15ef",
+      "relative_day": "PA/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "992de686beb1a2a5f0e6645f736127aea8b0d9d7b597562edf966d9bc5c87a99",
+      "book_name": "Results_PA_summer_d3.xlsx",
+      "book_sha256": "21ec37614b3d7f6c52a8b4f4c245f877126dfdc75e7ecbb79d27b7eb96da54df",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d10f450b5ec293af3865dfce515b90a7996f74e9b3089d124ca3ce82f42d5243",
+      "relative_day": "PA/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e4859ba8b5a9748e2419e57e3f79941ba04b337956b91adb53cff6c1cff657c6",
+      "book_name": "Results_PA_summer_d4.xlsx",
+      "book_sha256": "6c7483f2e189590482e3cce9078752fca2fd3106ce926bb4c928ff04fe41662c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "281d1261dcbf72cced5e00cc3a85f6033fa2d9e1a6d61a5070c241485aa17999",
+      "relative_day": "PA/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3e834c5efbbcc8bdecc3f5b82a1f1259113ad3429e6226cee5fc9fc60b049ca2",
+      "book_name": "Results_PA_summer_d5.xlsx",
+      "book_sha256": "ecd9fdcaabe0ae52c873043ea50335ac50b20d0dc83a466cb1a48c420cead87f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d084ba1f4728e9f535657bbc8dcc178620ac94f3eabf5f75535c9744ed2b78a8",
+      "relative_day": "PA/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5dac302db015b21029de166258e464d0dbe5cf1f1023eaeaa825a402dbf49f0a",
+      "book_name": "Results_PA_summer_d6.xlsx",
+      "book_sha256": "f4e4dae688876e3ef7c89f3f700007fc940234d871f28bdf097d182499e7f30b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "46a8dee4233d63b4a8d35052ac5d746c06183ec1a6d3a76fd3181305c947c286",
+      "relative_day": "PA/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3c11cad24e5244af75fb36ea9e3bee80cbaa6e42d19b6cf0bb5567b7199a04e3",
+      "book_name": "Results_PA_summer_d7.xlsx",
+      "book_sha256": "99770bc11f5ad6d75452e48d46dbe20c2e97f029e859ec0f0b22c3adf31a3933",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5bf89d4519f3988320c1b9eae76350dd03137eed59bca17d3a47297d5c81b8f4",
+      "relative_day": "PA/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "20f87ac1614adf536ff43ba50b3d3e2df2c7ade77e6bff54f37e60d3a3709f38",
+      "book_name": "Results_PA_autumn_d1.xlsx",
+      "book_sha256": "e8bf41489b4b0133527bbd5be2806cb19c693f947f26a858092983e5a268cf39",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2a3e539347ed570a6dbcedc8324cff6cec26e86db107544cbd9c7712e61de2a9",
+      "relative_day": "PA/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3f0509784b8ee38306d1c1bf864684a81a7fbaac69cb0d560c5cbd88f003ca3d",
+      "book_name": "Results_PA_autumn_d2.xlsx",
+      "book_sha256": "c06b1f1e30383c82fcc91b11fddc8355fd274c84259fdfd859f11ac19e43085d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "32f8aa6e5073a78e596b2b3691a76445ef4856c4632a262764f37942d28d7810",
+      "relative_day": "PA/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "18681eba9adec172b54d9540bcf716211329e5666349d1ddeb82cbc1ad3ba252",
+      "book_name": "Results_PA_autumn_d3.xlsx",
+      "book_sha256": "00a4eac835198f68eca41ea22ef138f49aae9bb073ad1c5078e0e40fca536502",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8d852ecfdfc8ba2fb91e3d7305827872ffc75660578fc08d90c83fd905e28a15",
+      "relative_day": "PA/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8383242368438412432bbb3565a257c4668f0fd6b126dd77ae80b8c8a08afcd7",
+      "book_name": "Results_PA_autumn_d4.xlsx",
+      "book_sha256": "0a46041ab127c8ca52768f3b2d33255296d13ea9e323958307ccf7b3c1287721",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c8902ce188c8c2d3f1b0cb934ca0b1553320262521f937e99b6f2f932adaad29",
+      "relative_day": "PA/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "597ed50481f68881de69e036c380800c541bd5d2e072cfd00155304b2a18af1f",
+      "book_name": "Results_PA_autumn_d5.xlsx",
+      "book_sha256": "5647cf58cedd6d9a5b19d2145a44f12bfee096a4c458559149a57f8592697b36",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2964578f577d8fe9b12ab3af39ab4b978f1f73b3acb25f03117f3c9a0e957b17",
+      "relative_day": "PA/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "512b5c644fa87d417b82d18c60975301aca45842c12ada567b126e58d8518dc2",
+      "book_name": "Results_PA_autumn_d6.xlsx",
+      "book_sha256": "0194737a5905458926103b9e151556f08fd1b9061aceb1e39eebbd05fe858cc4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "62966392b8b670f584e92ef6c9b5a926b7cd1076cef5504f46c7b78554943b4f",
+      "relative_day": "PA/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "556322055e861480b8004100cdc5aa396a4563a8ef2aaea7198478bba357c277",
+      "book_name": "Results_PA_autumn_d7.xlsx",
+      "book_sha256": "966ee0b4797cd099e0533c3ed7d660ef34ba1d6338d73273e4c6e1f76a4a0452",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d52984a07cad9e545179460ede41956c60fb32c166a6c18552395c19c3d5c943",
+      "relative_day": "PA/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ac6944a607f7ad80056be1e338c7c8da847a80ceebe53cd8c294050073fcb99a",
+      "book_name": "Results_REF050_winter_d1.xlsx",
+      "book_sha256": "19d6b1986e46a0bdec887b0f6fd1ba3d7616121d2dbf25f53c0f22b8422f939b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "dfd34785de6aed87b5688e387907666e2aa4a435142b8093d1c07b8750975e1c",
+      "relative_day": "REF050/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "16c7faa77ba406d134134c40a53f0139f1160f1c38372e9ae8c02368ef5ac3c9",
+      "book_name": "Results_REF050_winter_d2.xlsx",
+      "book_sha256": "a7682f710db0a86696dcaff9f1d21787fb77d951754bc0716fc2960904b7be46",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "a9623ffbc29c9337f6160ea518177839ecaffdebb37042e2124a94462e85ec0b",
+      "relative_day": "REF050/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7536ee22f29729080a5051718448fb22dc825dc9f5c9c5f96e9c6a9eb5ec2c10",
+      "book_name": "Results_REF050_winter_d3.xlsx",
+      "book_sha256": "cf22a3d1d557dacf5a4cdc93f8399770b01f07c1c6f3c8b429533fbb7f3dc28d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "38b016361168600880a8afea33ace14df9f4f52af10799f68e7892a6973da49e",
+      "relative_day": "REF050/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b7990141189d90262d82a0a219054173c119b292d60812490c0bc0ea6b1b45fa",
+      "book_name": "Results_REF050_winter_d4.xlsx",
+      "book_sha256": "c5a2350e3d5187f77797ab95f75de92464e4ede09d37440da1817ee7424a8524",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e1bd09639791521466a4365d55ed91e73527155108ec0a4dfa741de8c73e10cd",
+      "relative_day": "REF050/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "07e3ea312e6f825dce56bcd5de7e6daac7d0ddcd833fe136041859b6436116de",
+      "book_name": "Results_REF050_winter_d5.xlsx",
+      "book_sha256": "0bd9f65d59ceed6f9a23991ba2c63854138f4ee6e302220808c5e98e726fc378",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "64f722d460010b2205095fe51301628326a8c08ca8411d2b5f6a7883530b6e4d",
+      "relative_day": "REF050/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7bf27a8f01d4c2aa6ec91021bff5fc352127d237ddde16307d24df24aba795e9",
+      "book_name": "Results_REF050_winter_d6.xlsx",
+      "book_sha256": "5377a1b0d1f640cc4705a872ad2e052d62f402f1936f95c96866615c2ebbd0a0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "67a13e03db09f5942140dd38648a10bee1b805cefdd73e5a9c168444a46db9d4",
+      "relative_day": "REF050/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "fb9afcf7b639396a3c0f1ad36b80748b8e7a281349155c952d6b999f905881c8",
+      "book_name": "Results_REF050_winter_d7.xlsx",
+      "book_sha256": "4ea53bf3cc4b2442c6da06add9dae0ac0ee5612ce4e0ff0bd910f5645be36076",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4195ce82a7007e6958ba9dbd13b0b8fe63fddbe6286bed02af2e5dc716b0ab95",
+      "relative_day": "REF050/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "48701c35cc5180a273872e6d5cc7a5c9ed21ce048813299e1a272ca2a1b24fd6",
+      "book_name": "Results_REF050_spring_d1.xlsx",
+      "book_sha256": "bba7a7237277aaf9cad7d9081b0d6eaa2a25819c3971abb3ed845777fcd78661",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2a16bfecfd150f71dccce1f51c2f7c338d3970fd542480d82ea759830835d474",
+      "relative_day": "REF050/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7858ce23b75903554fcd6c5214a2008bb195f083aae8fd00ffd4dac3f7165cd0",
+      "book_name": "Results_REF050_spring_d2.xlsx",
+      "book_sha256": "ca4fe44670cf9c6508f9ad1f3f9d7ea61324dad06e7c6d7cd862cf3c72f8afc7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "36fb3fd911e59d8ac1ad833008d0bc7d194ef35d24543f304d8d2b3995e1a8fa",
+      "relative_day": "REF050/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "60bb8be1c80491bbeabbca36b28ea3f1e3df79a4ad7c9ce17d348a536a100671",
+      "book_name": "Results_REF050_spring_d3.xlsx",
+      "book_sha256": "af0281aabcda73dbefa6f96f8ad479da104e891386c47da1b412d48edef9090c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2e8ab5e3ba78be13c09c0553e9e7d20f732bfad4c7735b932de56b8090dc55c0",
+      "relative_day": "REF050/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1887e530f8e02622438a134f31c96e6db9c46b5e5327c145df6f05267c955c23",
+      "book_name": "Results_REF050_spring_d4.xlsx",
+      "book_sha256": "dde4b67fab39f4c798e67bc4f48b50931d86a3aef848c18221f7107770d6a65d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7bc985a7733eb1b76efb0e4b26716a331522e772634a6252d018a99535d571c4",
+      "relative_day": "REF050/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9c0f2c2df0e5487579a73aef89ff0a194eb1bac413f2b4e502be3ed78028bdb5",
+      "book_name": "Results_REF050_spring_d5.xlsx",
+      "book_sha256": "82715aa406153812a48a8c0849ad1fa822f28ea42aea1c2466486f9aa206fa6b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "20a243f164bc0ae92b3238106205201139442ebb0b2603e39e183775862ec127",
+      "relative_day": "REF050/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c7c915d21956e5a5d64672b9dfd3fc084b1fcd996f6a195ecba702a7588dade2",
+      "book_name": "Results_REF050_spring_d6.xlsx",
+      "book_sha256": "be4b3b2be079c242a676c0d71060af91fc278bf4c491d01a85027cd05fddb3fd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e984c1ae141298ce17d36a42141d7f6a9079d0287dd496d3ce096164ad4ac796",
+      "relative_day": "REF050/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "10b285d73fa033e3acf0a270e2c7c3cef55bd5c559bb2b969874f4a9d8fa0043",
+      "book_name": "Results_REF050_spring_d7.xlsx",
+      "book_sha256": "36c7ad7b639c6e6f247cc383bd9b563ed7d8226ca8ea91e01722298cbf95bffb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "02b1264de490a5bf232e4d3b0eed1f73d8ce134ef0264131a0695db442453df0",
+      "relative_day": "REF050/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7d505685ab6da3b5a010fff2a3309787eabfe92c5728bccda04150acb7ed7a6a",
+      "book_name": "Results_REF050_summer_d1.xlsx",
+      "book_sha256": "6e9a717ceb37dbfee20316dae150ae691e5370996cd3970600e4d455b887811f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8cc94c22a381971069925485112cacf4760b1b19ef2d3a66c0ce466d71dbac7c",
+      "relative_day": "REF050/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9273abcfd2ee3eca7439ff606c83705ccb6830143e133908818afe5358524231",
+      "book_name": "Results_REF050_summer_d2.xlsx",
+      "book_sha256": "1ed01bfb514d2ee835544098933e83c59cb24a58f38fc84794209e24ed63f8c4",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4031f40462b2e3f5e563d63cb1481319954bbdc78a459801fcdea3e5ae9cf530",
+      "relative_day": "REF050/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b54bca7701f28c0ca66343509adca797d0035b25ea1a9b072d4464a77f8b631c",
+      "book_name": "Results_REF050_summer_d3.xlsx",
+      "book_sha256": "6004ff44417d5eebd6d426540d893fb879303d811791fc32606b9540d264afbb",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e2f5da0a9ca4e3476dc4769c75f5af51c46ceef7c3dd01fbe13a2b2735d44f0a",
+      "relative_day": "REF050/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b99e3299c81b2244fa50117b903cd4ad56ae6d7af0472e580e0504b1efe06d5f",
+      "book_name": "Results_REF050_summer_d4.xlsx",
+      "book_sha256": "9944e1fe2f2d92e85cf5fea277cbfe54f63d77b0aa041ba671c919375fdf1d9d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2961e73929d8b73dfdd1e1b7f70aa8c1cf2f6b148fa08861c96090a2291560f4",
+      "relative_day": "REF050/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "71375cf946c7ba1afaeef49934b2fbc496382e4743af8912cb2ad8e4ed0b23dd",
+      "book_name": "Results_REF050_summer_d5.xlsx",
+      "book_sha256": "7236cc4277c39b9ae2c6f3cc5475b30cb4e2e6ed3d87e1d861a02eb4a1a9bd3d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e42429efad0f7250b8ade5527167791e5176c221219874bab4c6f867fa5e8011",
+      "relative_day": "REF050/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3b764e92394075f07180e94d281f29efad49d7cf7cce624ed26c2b498a16bc70",
+      "book_name": "Results_REF050_summer_d6.xlsx",
+      "book_sha256": "2a48b7fce3ef93a142b9251215bedbc2bb0e885672d94e30ca2adc4cc86aec79",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "5a0de440e608721a6f6bdf0cf88d042d5f5cda934a0689604d1b9dc1bb1b46bb",
+      "relative_day": "REF050/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "47e20480bc2323a8a8b5c4b60b98cf0ef9970e0be8f3c8d0ceb81e5060b7f036",
+      "book_name": "Results_REF050_summer_d7.xlsx",
+      "book_sha256": "c6743e7101b774970635a3d9be2cc0308573e119bd5a6027dd493304d5534f40",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6aa4b9de2208429ade9276cc1d7cee762f9fdda521885a38fbcc8a2b39bebc45",
+      "relative_day": "REF050/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9e40ff2f77a02e4985b27b9e2d59015e28a427fef6c600adaf5c7133d781ae28",
+      "book_name": "Results_REF050_autumn_d1.xlsx",
+      "book_sha256": "eb8cf58dce688d2f85dc76d6254eb73e2e610b36a86ab4254d49c9bd776b5c1b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "9118ef778d4161d63263df5d44fccf651e424fb47b038d76174956e10ceb792d",
+      "relative_day": "REF050/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "bd83c7b66ccde1c44ceb3d2ce57173e93f1d713b1cb050d66b36774e3675e770",
+      "book_name": "Results_REF050_autumn_d2.xlsx",
+      "book_sha256": "a76590aa494ed55b0d4717676446fc77f19a48e0c2c1e821d2cb873052031ec2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "68c7a4a13435ea77b5a7a3077e1dfa47b4272f756e4ac5e859672e039d90f832",
+      "relative_day": "REF050/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1f760e93b8a7f4cb413c93e52babab3f4d1b701d0dc2ff3c17f9561ae7bec540",
+      "book_name": "Results_REF050_autumn_d3.xlsx",
+      "book_sha256": "d9b8b9b530ecbe7f9fe5c1c0f52dd5701b1d9992f9f54dd24a2d336aa81c44b7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2b173978249cabcab2155871e12bbbe505bd7662f5d9e27e3e649727d1530dbf",
+      "relative_day": "REF050/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "97aefb7a3f480fd2342c6d08fe9163e5681f60b32786bdd41c29b76b581a273f",
+      "book_name": "Results_REF050_autumn_d4.xlsx",
+      "book_sha256": "e08c6882c2cd9784ec07fe02b5bc0e3eb3c07a3566624eb1692f27b5cd13ff3f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "813ec846b1cedf26b6273cef68f5a80d3a3efb27e08f8642d1fd655ef44aa3a8",
+      "relative_day": "REF050/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5ec05da40bfc7826f2bf153a1ced37832741040ca270ce7274ad776d50ea9ea7",
+      "book_name": "Results_REF050_autumn_d5.xlsx",
+      "book_sha256": "fff29fdda46c483190bd3542e116ed1636905c459f3d423e63df0e082d3226cf",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "bc53a8877d0a8923ef721ee8f256ba0b75c921c123128966a830b3891df52208",
+      "relative_day": "REF050/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "e9f4ce34a518160a83056f7d7695c58c70b35f291464dedf4a10f4cadabe285e",
+      "book_name": "Results_REF050_autumn_d6.xlsx",
+      "book_sha256": "469001d1bb6a0c39b99edd05e241e62cbc89585bf48104f73f817cc20da66b08",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "53f86baad78b3ce3daeea8b7a6e674eddc2f349e648edcf69934cc2e81b3e622",
+      "relative_day": "REF050/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b3708a4dbbc3209e18c2ea5aae7549620eca985f6ae1119f391f8ed0b55bd76b",
+      "book_name": "Results_REF050_autumn_d7.xlsx",
+      "book_sha256": "fa87ff46d38e5fdf0537ea10cdf0ccb9776f1e29954083de747bdff0731af322",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "17ffc835c1ad9e4ff75a20208a03e17e9f760e9226f1e7a73b0c97fa2aed40ee",
+      "relative_day": "REF050/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "bc2248332e928e749cfa9dbacd32c58b7537c686d373386b78d509852729e32c",
+      "book_name": "Results_REF090_winter_d1.xlsx",
+      "book_sha256": "c5c4891fc985179d83d4a08681fc16efac90750a02caf895f938bde3e2b5814f",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "2928b9570c96d10e401144cdc630c2ff2c6d894ecd48cbccd7618258e9390288",
+      "relative_day": "REF090/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a8f9e3453b7f75736b6bec4e8928adb9b132ecd3d8c2fe8fd566a0ac922f3fb1",
+      "book_name": "Results_REF090_winter_d2.xlsx",
+      "book_sha256": "7c5a85a5b743781f69f1a6f510d57c1d2fd7cfd99efa502390308ef3ce05f8a0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "50cb1957b9734633ba2c88377ec74f42209d62bfccb226a4ac389725b92325ec",
+      "relative_day": "REF090/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "3ee4f2b66ef6c805f3a5da88ac245c0c8ebc96e12f545460e74be64a8fd26ab4",
+      "book_name": "Results_REF090_winter_d3.xlsx",
+      "book_sha256": "2109bc0bdc8309f1a10754eafe384d042c36beb8bf094d347c40824798372dc0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "cdb7ca7f2d461e36373d8455238165fee4a5ab649fa814c09086abfbc2752df4",
+      "relative_day": "REF090/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "57c783622bb44a7ec84dfb1eec9471d2f5be1b06f91456a7c85caa4f3c46feaf",
+      "book_name": "Results_REF090_winter_d4.xlsx",
+      "book_sha256": "53f1d28c3212272e12d43a0e43148c198aad071535ccac3515b417d22fd94377",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ddae9c6c64d362f222464da31683bf08a5799564283dec48f6f18f78b96493c8",
+      "relative_day": "REF090/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f2bdfcf720bf8c5f08b7de53c3a30bf5ff9ca2a09835ca0cf85fa90507e3766b",
+      "book_name": "Results_REF090_winter_d5.xlsx",
+      "book_sha256": "3eec63d7f08d71d143b153763cb1b5248d3a233020b9e0618043b21144aba2fc",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ea52751ba4a0121cd500017a21cec28c78f47d6a634dab85e614874246bf04bc",
+      "relative_day": "REF090/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9decdb9f696b08568f38cc96fc5ddccb907b428f9771b5cb9a24fb40927a4d8c",
+      "book_name": "Results_REF090_winter_d6.xlsx",
+      "book_sha256": "3016ce5ea2bc7be10112c93fe40813cb60b4cbfb8af726029aa0cba4ba867a13",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4319c25f7eb7b6a66a661fd7e116fd28bfeff7dd9c55c3e4047cee3ccb928ec4",
+      "relative_day": "REF090/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5657aff75d4af6186dd8394bb22fe78d9deaefe583425641a94dfeeddbc5ae52",
+      "book_name": "Results_REF090_winter_d7.xlsx",
+      "book_sha256": "38c75d047fc3e8ed1c11c93b305ed4bf796de8c29de66929d5a3d7b6898977a9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7ca71fa0fa97d2b6055bca4fdd0a107a617dd192415cba1378386eb7dc406a36",
+      "relative_day": "REF090/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "80c56902a2b55fc5e6fa8291ba9b0ab595fa3326681a5825eeb0a5c5b4385679",
+      "book_name": "Results_REF090_spring_d1.xlsx",
+      "book_sha256": "4873779cf24512b7984d08a4616a4b2c6ce7e6db93c5540139afa8cc9d1ecd16",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "89c7313e5b785615ef753e90b90a61c9cffe6f8f40e47ece37deafe2365624ae",
+      "relative_day": "REF090/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f042582e4dfa62a0f65b70459c86a15c1850abf7114d673634d49014f5f334ff",
+      "book_name": "Results_REF090_spring_d2.xlsx",
+      "book_sha256": "bd78e1c6dbacd378c0b62be17a8e8019d910ea9e60f008a3408ee0109c5d964d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "028c1653915ad911e7b9de364dc858506fd04da45b253daae77c339bcac3873f",
+      "relative_day": "REF090/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "623f54faab1bc6467f9ab83bc87bc54475d06500f8c20ae8c4c77b1cb90e25ff",
+      "book_name": "Results_REF090_spring_d3.xlsx",
+      "book_sha256": "021b552421319fe5bb61b1c4d1593ac61049fd2a18e2598d667155fe358f4295",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c24e5f28eda40b3f14fdb5d8570959a72f0bf7b0242f2c6a2a1bab3350647577",
+      "relative_day": "REF090/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4c688c9e95616fb01a2ba5bd0d897b3e5fcf4285c5132997f5ac17c5799d9496",
+      "book_name": "Results_REF090_spring_d4.xlsx",
+      "book_sha256": "abf341264ee873bc1e1df4b2fe7e865132dd01c4340ddde8f23239e9a199e226",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "975630857fcff161e018426e62aa45b3729d434f4aa77c8183506ce2c25b1998",
+      "relative_day": "REF090/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c30c8a7c89753c9d7024543989dbaadf332872281e287eb82fec52627cf24c77",
+      "book_name": "Results_REF090_spring_d5.xlsx",
+      "book_sha256": "2da808f797502d83816250c9c3eadec7167d2dee36a36fdac6f6c4ff8b4707a0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d947d660521a01834f2c1a93a8cc5cf1d7ddf438225020496be4be4b367f9a28",
+      "relative_day": "REF090/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "807b3eeabb5b3a1106b3b5524fab29721ec826e496ebbc9b6946a1741310abb2",
+      "book_name": "Results_REF090_spring_d6.xlsx",
+      "book_sha256": "f929e0947e611756f21b2b2990dfdeae6c2270d268bdc8d7de4d3bd4c71e2c6b",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0c32038651a2d32a4bb55e357695b17bc20594474953645516a6d84ab5f329bd",
+      "relative_day": "REF090/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "756952a116efe107fc8e40503c876beb9d05356a0791f0522e4135da83273954",
+      "book_name": "Results_REF090_spring_d7.xlsx",
+      "book_sha256": "c180381a65d47f63fdd83432356e136b3e33321f71718bbca4bb8c426f9c34bd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7bacd1fb9d24f89ca74c769da5cffc418a62e5dc5dc9ebfb5fb20f6f1e7f4489",
+      "relative_day": "REF090/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "db434f330c1681f70eebf7a14ac3701c89e20032dac3fc40274423f9fa33b3da",
+      "book_name": "Results_REF090_summer_d1.xlsx",
+      "book_sha256": "c582689a118cd5fc50eaaa91f20c63569a9a747858a9f842e660895f84257039",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d112e1daad744b355952e7fc6e79af14f57a1358cdc82ca954cf657f0f794314",
+      "relative_day": "REF090/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c3de93ecf09a74d8c6d3cce369c1fd79f2f4a4d607b62c49a35c67134496d591",
+      "book_name": "Results_REF090_summer_d2.xlsx",
+      "book_sha256": "52f2a21c7d6d9022d1949bba9b17710b1c97728d5ce061bb84135cfe72521017",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1fe274929a5497b3679d8b9e45927f170ee34a05d17ecd918a5aa99757d80aaa",
+      "relative_day": "REF090/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "1d05e06b64614ecd5cbfb0c3b48b1b05495211faf9366e6cd4c59026c2ed8251",
+      "book_name": "Results_REF090_summer_d3.xlsx",
+      "book_sha256": "55210f586255d4ad601d88d2923eab52e4484871898c4c51e869ccad42aa26da",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4c270add22094b0161d5644f5e3bfba7363e23642c9b55fb173331e0d14e4e25",
+      "relative_day": "REF090/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a5ca156f613ad8a8b16b375c71d6bc0b339310444c52465d832bc1292bc8f342",
+      "book_name": "Results_REF090_summer_d4.xlsx",
+      "book_sha256": "e8659b26f9d0919e3f96753e28acd9c476c395ac7be4aec8796a474bf5b29181",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b1226a6c910e901f43f701c0720e5b745b06c6c2de8770db2d00fd102839f8de",
+      "relative_day": "REF090/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d4cc34c62e049d5e8c78fd322d7e39d3d98e960ac856b8cb149f7294b4e19575",
+      "book_name": "Results_REF090_summer_d5.xlsx",
+      "book_sha256": "8aadd14a4b491828f40c14123079c1cf4fa43cd30d095ecd82e249c933534dce",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ec25016952fe49345a6b308eccb895e473babcc5448fd44bb89f76b935a7d9b5",
+      "relative_day": "REF090/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c6b81cff6baecc824a16ec9fab8b2278a703a9dc9a25d11e720cac55a9d9b1a8",
+      "book_name": "Results_REF090_summer_d6.xlsx",
+      "book_sha256": "27e20c2c7275c0f17fd73174f4252fae0abc46ad55783175510c38c3b5b3e8a1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "616a89aacbe3a7111322dfe60402731e2ab0430ef9b10a4ef7f4d3f37136f113",
+      "relative_day": "REF090/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d7da2a165b441b318a36dd26beb0a506a8619d036704af5e1d5d459b290af6fe",
+      "book_name": "Results_REF090_summer_d7.xlsx",
+      "book_sha256": "c72f78e01b0cfa51fdb8c0f7a001ed97f7ffeb578bd08eccdbf5dfc0eed92958",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1d52e06782f385946536d11a56f7d687b5180594406813a8cc541f2dd768b468",
+      "relative_day": "REF090/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a56b7641a70777eb02d41541a1f641c6eec4a3059d1f6eee480a864b14d5bd98",
+      "book_name": "Results_REF090_autumn_d1.xlsx",
+      "book_sha256": "2ef81e9c93be7f0693f68dd5965f77381d1368a915e6d34b5f91e8d2e8573dc3",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e27cda2339bf1519c738f88dcbac88df5267c58ea88dbd7f9f2a1eee9d3827c1",
+      "relative_day": "REF090/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4258a21d9160b59d60cd9f86ab8cfe6c1022d4b8cd6ca1197dfd0c9cc3dd434c",
+      "book_name": "Results_REF090_autumn_d2.xlsx",
+      "book_sha256": "d4b5ddcc2411603e8bfb64031911b27ab99b45bebb77bb8981c768a73d9002c7",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "6ec8a73fc634f7292b491349c2da73aed867aab69f5ad1125842d72a70bd88da",
+      "relative_day": "REF090/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7e533aec04b22e7504bb680bbd012067ffa57fdaf4c2ea7dbab478df297100d9",
+      "book_name": "Results_REF090_autumn_d3.xlsx",
+      "book_sha256": "9e202dafd35249d1cc2a47d6f6b7f8a80c88e4702600e031ad049772c57be777",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "278a4bda85ea7e4e4f5c7da0f5b880e9234ffdeba6ba0d9ad0ce2cc4f0a11861",
+      "relative_day": "REF090/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "4ec7ce9d5fa6034d10ff7ea2f9953c8d6048439293b705283fbab8cc8d25d7b2",
+      "book_name": "Results_REF090_autumn_d4.xlsx",
+      "book_sha256": "49e92f6ace41523339004e714ed393cfa293f64cfd26ccc51ec0a9f638bca7d8",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "711747c14a7fb76202da1f300b223e29bd75c88375b74e5adbcddeeb030040c1",
+      "relative_day": "REF090/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ce04261622f49dd89d70311a798b692e64d7d68500de77308a0ef5edb919867f",
+      "book_name": "Results_REF090_autumn_d5.xlsx",
+      "book_sha256": "742af6f502d8b21195880203207b67d8019a7119a01eb340b7946058eaad0b5d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "0770b2533d459f156864c6b4c5aecbe19ade09381d9873d50f4aada7bf9061df",
+      "relative_day": "REF090/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ebe3ef1a06ff24b8bef0b4c4c4c43fa3f572c5305422db58c87af629727e9010",
+      "book_name": "Results_REF090_autumn_d6.xlsx",
+      "book_sha256": "2bac1941cb5a2ee791e4d0ad285439b37e0a36fdf33f2d463a65cd09bc81de08",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "c952874cd0a86fbbf91a44a4ceed10d360cf8e1008c00e66027bfb0b83c2c821",
+      "relative_day": "REF090/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "a987d39e95011bc452348e00ca5cf22fbcfbffc8212a1ebe4b285d927c4d66ad",
+      "book_name": "Results_REF090_autumn_d7.xlsx",
+      "book_sha256": "25b367e15696f2c621453bb9aa27ab2388d9e4d0c15388e217644fa6687d362d",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "3b9e6997a2804d037745f7b9930e077ad362c7db5b7e514c889ddcd6abecc600",
+      "relative_day": "REF090/autumn/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "c692e4f7f8d9dffdc71e2f1e9a6bd9f57c030cf327452fbae40922ac1fc65ba6",
+      "book_name": "Results_REF095_winter_d1.xlsx",
+      "book_sha256": "e100dca39277d83f8a04cbfa24145a5eeb9c4a9eedb9ea27cf3055f0b6df6efd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b71ad0a1edb4681c08fc7ed913abb62672cd889b7919970479bc26aed7911c19",
+      "relative_day": "REF095/winter/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b97161d75038c7af17cdc6a71ebf123abcd25247d88db2f015f89b3c3c2c8f5d",
+      "book_name": "Results_REF095_winter_d2.xlsx",
+      "book_sha256": "92c4bb73f7dff92a5bb249c44a284b14f9102a7bb4649e9b2505bbeacf7bbddc",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d0d40ec20f3349062335e135f1d276103685fe9cba873c0a245e1fb37082eeee",
+      "relative_day": "REF095/winter/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "5545a908861e8750599e76262e92dd207a95aef0e8234300efee9fe9fdec121b",
+      "book_name": "Results_REF095_winter_d3.xlsx",
+      "book_sha256": "e84314412ee8a063941580b39f7d422854bb3c41a31942f07ab7556deab0ff4e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "04e8d589333047a159ce4d6e5b93305259e4a76eda29a7f965fb7957fe108849",
+      "relative_day": "REF095/winter/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "826e4c640778b98ba57f3ff1c6f87095ac278f79fa2d0921e5555cca771621e1",
+      "book_name": "Results_REF095_winter_d4.xlsx",
+      "book_sha256": "a420847d676d0d002c162dd2cff61fcbda8cef2b6abc7d4c7f54caeece4df4ff",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "010245b1dceb8b9ea218f06a658047dbd5ebbdcadd8c9762a1d891bc0e5456a5",
+      "relative_day": "REF095/winter/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "20a26b93a6fc5ec353a1ea296a435448471ccf2282d2dc616a4afdf443497d44",
+      "book_name": "Results_REF095_winter_d5.xlsx",
+      "book_sha256": "a7e42ca5999c3a79e89d1fbb484023faa5aea229c1e9e5556a2787fb2a8f5ee1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "4f658ca54a8080449dd0d02613016d83dd1cae8173338009d5facf71012f9cfe",
+      "relative_day": "REF095/winter/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "9870e67a42fbd739426dd3e0859022e5476cb90ad75f3eddeb3c2a5cf4fa8ce3",
+      "book_name": "Results_REF095_winter_d6.xlsx",
+      "book_sha256": "81385393ee5d2856356db174b29ed515a8cc950b70cebb395014088905fb9eee",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "bd8dcb3356bc73eca118e227433870c783ed1b46729df11d5568d008f7eb229c",
+      "relative_day": "REF095/winter/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7ff0d0212155d985cd0dc7ea0a951639eddf8d0891ede8592623cdbf3a53d95d",
+      "book_name": "Results_REF095_winter_d7.xlsx",
+      "book_sha256": "214225db9dee2ef94ec65118d2cafa6cbc21efd34b28553927d43213bde33c91",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b08498e44163e5ca5eebb89d89452bc52c203070e6d03f422278b0a2d63bd946",
+      "relative_day": "REF095/winter/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "58318af8b5214fe19ce0ffa3ec45b2147f12ff18f2ab6fe419685499f6e844d2",
+      "book_name": "Results_REF095_spring_d1.xlsx",
+      "book_sha256": "a6e4b0d3eb1eaae529078a132aebcf347dc0616afb3477b71dd7a6f329077f28",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b1862b1034d93d6fe47466cc76bb8d3febf3c38b64983e10714c59834682c449",
+      "relative_day": "REF095/spring/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "7479d22dbbac151afe31b5b2230075f0ac7e4d537e59dfd3586ad234b58e9744",
+      "book_name": "Results_REF095_spring_d2.xlsx",
+      "book_sha256": "a5e720a5f84b462b8f0c304b99156e6e14f938e37622d4534d4b30212fd381f0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "ca1da354a2570b8c86307149f1a3346e156680ec57626fdc03e6d7951f3c4448",
+      "relative_day": "REF095/spring/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8f794c3899df6dd48f1b50ee2dd398b0da611d6e1a6991c30f594bb1f4d11e40",
+      "book_name": "Results_REF095_spring_d3.xlsx",
+      "book_sha256": "6f03865366a9d71bb9c2d2a8aae7075dcf8c85647517d0035d026908429c98a1",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "f953aeed6bc2941227f496f914a489411bd8d18f7468cb078fbd5950ace93951",
+      "relative_day": "REF095/spring/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8cc01578c4e9bbcf0ec25fc79e2da09137479b15bec22b0ebcf14ad0d4394f74",
+      "book_name": "Results_REF095_spring_d4.xlsx",
+      "book_sha256": "fe4a6bd09e6ee1e076a91f02fd8dd743cb9eb7565bf6aeb1ca5740a2968f4820",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "473b433d4cc3d38b7102d32687fee5841f4160c1953cdd4ec5051e2213e5f610",
+      "relative_day": "REF095/spring/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d3214e0f5a9f37ecec6129ab475692a59343c703de88e0273ad9e8026534832d",
+      "book_name": "Results_REF095_spring_d5.xlsx",
+      "book_sha256": "8ef9d1089072c32bb84f6879e9d1af4c92bfe86bb594e1c5c728d2f82b52f413",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d6065117facbf88dc85b345fa87d877856c9169520e7dc0b62e9b6fc90c308ce",
+      "relative_day": "REF095/spring/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "b28330843ea90cf12d5284dce6b5dccd44289b6c853d1e6df01c7d0bc2cba475",
+      "book_name": "Results_REF095_spring_d6.xlsx",
+      "book_sha256": "ef716c751519487d28243ca8975303106eaacf1374988bcd857435807d127a43",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7b0f4cc912d383e5b2f01fb9cc07faa73bbfa6a00b1663e7fb73986b73cea68e",
+      "relative_day": "REF095/spring/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "48344c0b2e20339acd6fdccec20b6493d1f26e9ac85b6c95ecf33af71e0ffb6a",
+      "book_name": "Results_REF095_spring_d7.xlsx",
+      "book_sha256": "60987ddfcbd29318eb683a48f40fefcad8fca06f3e85a1e50c1a33bd69396463",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "30ebb41efce4cfd6fae0ed62102dbf728556fe214511afe1bd04454d253ddb6e",
+      "relative_day": "REF095/spring/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "bf65084e2e41834fa3772bb6bc9dc530b473d3595c08b0b3eaa8e193149d1b72",
+      "book_name": "Results_REF095_summer_d1.xlsx",
+      "book_sha256": "dec389e36dfb4a4159d98dcd36abe70d8518930ff89ce1ee0433a66eb64d6dc5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b58c9bf71f022eb6f4b4c1849a67b307fd3e4a374a74cbfaca42916a6526717a",
+      "relative_day": "REF095/summer/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "d4bcd2c9710ba6d644aed109c20cadc725314301b6f9db6572d9b8236afe3633",
+      "book_name": "Results_REF095_summer_d2.xlsx",
+      "book_sha256": "0605cbf2f5bdc648476a9cdb7f0a908d52aa09ac7b63b12f242815805ccc1bbd",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "e3b86b4de108c3b91e2d46f734388cb74ab1d0cf8c16bcd9f1cd4302bd658136",
+      "relative_day": "REF095/summer/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "076c80bb8a32774d2ed9d97009beaf1e594ab0383daae42912ebf875034e7d8b",
+      "book_name": "Results_REF095_summer_d3.xlsx",
+      "book_sha256": "cd1e3917a87e2c8451a5b30c9495ccf437e31481d4b368fbd5829db91fe68556",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "646f984c2708c94ee667147d34acc064a09a1b1d5257b44210ab0de272f8bd2f",
+      "relative_day": "REF095/summer/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "69fde56c48c59ffe13bdd11ca45ef9102ebb770d6b17005000c9478d5e0499c1",
+      "book_name": "Results_REF095_summer_d4.xlsx",
+      "book_sha256": "39da100fcf564e8aba22aed21149d6cf3702372420eacb2438750a2d21e4f8ca",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "03cd17f07ffe0f49766584eb3a08d9f0fde7ac2b5123fcc8ff788062687a2a83",
+      "relative_day": "REF095/summer/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "578ddf608cca8ca8a297539e23eaf16c2bb5374a50f374d09bbb31e3a48e2a3a",
+      "book_name": "Results_REF095_summer_d5.xlsx",
+      "book_sha256": "ffe9a2b62e963db84c552d3ec581f70d7c363118dad0484f7a7acbe4a0bc4fc6",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7f0ec7cc6f198a102faa2c7001604c3ad474e42805549c7016e11d5f9ac70e16",
+      "relative_day": "REF095/summer/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f7ef1efede68248d0890231002042926f47c9299136c6a714620aff114713ae3",
+      "book_name": "Results_REF095_summer_d6.xlsx",
+      "book_sha256": "1e39898fa626ab7970ce3d5653342dde362e24c0a249c4735986a5dbb6372d8e",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "b08d8e5a099cf04b3c010dd10fe65aa2ee3a90b2002c9a5aaf936f89386fa04f",
+      "relative_day": "REF095/summer/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "db070a17fde4d6dd8b33130c088fa2db8d3eaffc0079608731be241dfe0f76d9",
+      "book_name": "Results_REF095_summer_d7.xlsx",
+      "book_sha256": "943eae6a068edcbe6d7b5a1195d1e22ba344279bdaba538d90ec3185ca26eaa5",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "24f983fc1771d282030cb3b030370f60ad599e740d55b98280244c8615fc5fed",
+      "relative_day": "REF095/summer/d7",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "23fab0523708c12a9b4e4bc4b3191ad9454fd218a8dc0f6b65899b3aa631f287",
+      "book_name": "Results_REF095_autumn_d1.xlsx",
+      "book_sha256": "58e0c2e49074d557b268b0f4546d1e5839b3d804cc272eaf2a4e67e63b527bd9",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "7a84f17a4c332b854501717dd4fdfa04387010b27d50c9641da5756531dd05ec",
+      "relative_day": "REF095/autumn/d1",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "13e4f8554bf7b14ca850ab41dd04ec23cdc72c25bb514262d36ed7199ad4143e",
+      "book_name": "Results_REF095_autumn_d2.xlsx",
+      "book_sha256": "77a5fabdd5811565afe30deae7f88d4d88ae04958b9328f67a89fcdc1c383970",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "d452113a4acfc3ef860e6ec490dc8d4a9ea0bb54a8d2fba2619379e2496ac85f",
+      "relative_day": "REF095/autumn/d2",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "edaf90f4eddc677f8eadc1d52ed87abd20281e45640b921b9062039eaa2fc136",
+      "book_name": "Results_REF095_autumn_d3.xlsx",
+      "book_sha256": "c43499f62fd4f904908ca51d0c08154199e43802eac09a7650aa65c565b2f015",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "758dbbcb7e912c666822dbf72024ee6e76891fa7dab400d7fa6a31d6d18d67fb",
+      "relative_day": "REF095/autumn/d3",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "284855de796033b8fec30f35d002b49c3228d9a95235ece68bf94ebd9f86996b",
+      "book_name": "Results_REF095_autumn_d4.xlsx",
+      "book_sha256": "0250f2a61a748228a93da224c58006c5af34ee79f36dd1e2b435f5cd02a2b0a2",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "978f74d633c0259b625787aca46111e83f41e706853741cffb292b755574fbf6",
+      "relative_day": "REF095/autumn/d4",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "ecdef42aaf1d41e29e8df13a30f9cb22002d8796a2bdd8fbd55331cdff7f436f",
+      "book_name": "Results_REF095_autumn_d5.xlsx",
+      "book_sha256": "e6dcca8c78c62eefaba2eb3300cf1c348bcb09ab20eba7c6d23707261c6ee39c",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "8d458dd07761c244c36d92e54d16f159cdd6f762b9973593a42667690bd9b9f4",
+      "relative_day": "REF095/autumn/d5",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "f3f5bd7e1fdd882a11c3c873d72e05ae0baa56f74fb7f7deeea158bd440daeaa",
+      "book_name": "Results_REF095_autumn_d6.xlsx",
+      "book_sha256": "7ae32512c9d50a1f1d12fd0bf661bc6a77581b6e63e96968f642814e1e38c810",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "26e9759bf434b618a5b9aefb4f5651fc2cb5432b5499f3174f80faa3336e4594",
+      "relative_day": "REF095/autumn/d6",
+      "xls_return_code": "0"
+    },
+    {
+      "acceptance_sha256": "8f867395bf2027cdb2da5d57c74e37023754b506636e183fa45ba3452cd2d074",
+      "book_name": "Results_REF095_autumn_d7.xlsx",
+      "book_sha256": "dc0bb87d6f5192c96e8692223a9d9e7bc28bdb699e615715ca5f5f86202ffbf0",
+      "complete_sha256": "f5d1cd4de8661769cfe86d8dc08d7f4f70600bf84a9224bfc020ba8408a6d84f",
+      "listing_sha256": "1fa4eb81e422d9a8959ee0c4fe4fb6f35a67861611b3b1f14fb2c36d602a0309",
+      "relative_day": "REF095/autumn/d7",
+      "xls_return_code": "0"
+    }
+  ],
+  "deployment_payload_sha256": "a5108d71d8b76a276bd4842074f3a17e7eba6ac8de3aaffe234ab4c0ae9988da",
+  "executed_settings": {
+    "polish_seconds": 300,
+    "search_gap": 0.005,
+    "search_seconds": 1200
+  },
+  "expanded_main_body_checked_against_snapshot": true,
+  "jobs_sha256": "87f9f07604ca1dbd7c4e4405452427b4497a2ad8adec3a10a3553670ccba1e1c",
+  "model_id": "0899f2bc59cecb10",
+  "original_sources": {
+    "Data_LaPalma/LP_Case.json": "ba486834fd61983ebb4ead5dff4ec141864edc6dabb5b49e839fa53a0aecf08d",
+    "Data_LaPalma/Threshold35/0899f2bc59cecb10/LP35_Protocol.json": "6d113a5cd0a518e1e22bef84b5ea3c33fee41922a3c943fa5a68a433961ef99b",
+    "GAMS_LaPalma/Input_Data_LaPalma_Weekly.gms": "395ad753af33d1bb7190eb16f2cee0b73c6cf198f718b1ceddddf1b132de17f3",
+    "GAMS_LaPalma/LaPalma_FCUC_35Hz.gms": "27f70c8b1c1106fd0b8e053c33d59b93aa880f7f065894b2b4a5c81d8ab5963f",
+    "GAMS_LaPalma/Run_LaPalma_35Hz.gms": "0e222eea48e1600f72a1c7cab3ba3ae41e650395ae596592e28b62e86bafc39c",
+    "GAMS_LaPalma/cplex.opt": "1870d937c9693b90820800aa90711770a6f87332d37124d739da5cbf731121a5",
+    "GAMS_LaPalma/inc/RES_seasons.inc": "c1142e26de232b92bed7366b7a58474cb5d7c8ca8c550a974fa72835e4ff5040",
+    "GAMS_LaPalma/inc/aux10.inc": "8c22ab76fbb329684df2e5a913f9677da637af0e4e1b9d462204ae78d55678c4",
+    "GAMS_LaPalma/inc/aux11.inc": "2b465dac77dc984af5860848ae7918380df73236e8186064b2797fa5c1c316da",
+    "GAMS_LaPalma/inc/aux12.inc": "ae6808d2af5bafe2b3f9e8f613af2dca114430b56be00f1b81b29e2247dfcccd",
+    "GAMS_LaPalma/inc/aux2.inc": "d0477c9d7da842038ea171bb859e9aa2a5fa63b6159f23817efbe6fdbdf83106",
+    "GAMS_LaPalma/inc/aux3.inc": "48446fd25496b2786b2b9aec1bace18cdbd147a53be65a39d101c90e0f351080",
+    "GAMS_LaPalma/inc/aux4.inc": "ddf51508ce1b8964d0e7b32dca12c071b149151f921dec2a945e90c35796c34e",
+    "GAMS_LaPalma/inc/aux5.inc": "b9af6689d8e822ec3ef1c17929aaeb987eb4c4bc55e39e07cc181abef533be8c",
+    "GAMS_LaPalma/inc/aux6.inc": "644c802a2ab6c81c310d6d16027865a3a8754b4a70accb29c77e85318ca6624d",
+    "GAMS_LaPalma/inc/aux7.inc": "8a70cbc8a31f67a709713fa594b9f36804aa71989f4094ab8863ad7bd13e748d",
+    "GAMS_LaPalma/inc/aux8.inc": "7dd3d5dc94ae299fcad42dceb57fd7a8db481bffd81b6bf95c07ec1c6dfe0d80",
+    "GAMS_LaPalma/inc/aux9.inc": "804975af2749009c64a711eed349806dbd221f7b9754e5f93a491a2636e7d5c3",
+    "GAMS_LaPalma/inc/auxinertia.inc": "32148263f5173d0764144dd1ab7bac6dc9ff9064d40d9ad95afbaab46d9e25bb",
+    "GAMS_LaPalma/inc/auxk.inc": "0add2be3cf551b3a4c182578eb6f8e83a1a555496e9cca767f268546ff8bf339",
+    "GAMS_LaPalma/inc/auxmbase.inc": "82da066d5a484980802ed70c61860a035aca531ddc0e1bf43884b562f471c707",
+    "GAMS_LaPalma/inc/block_max.inc": "9126deaf5be2af52edd4c671c5290a64ce8b828f84782e36c09069314528feb7",
+    "GAMS_LaPalma/inc/cost_coefs.inc": "ddcd953f246875f747a1c9c498ce72054ef3dfd29ee4049c5a309476a4e13ae8",
+    "GAMS_LaPalma/inc/d_seasons.inc": "8a0da2ca24e1a44946cf534f45098734aeb2174d312e6face0812c55083365ee",
+    "GAMS_LaPalma/inc/k.inc": "d90a876ffc16a9531c37059a91dad46633885c73794d0a13b1d12007dbb4d895",
+    "GAMS_LaPalma/inc/line_map.inc": "2f620887e02c9a539205988fea6da3c1a8bba5089d3302703a1792b5a7424ed8",
+    "GAMS_LaPalma/inc/start_up_sl.inc": "b6d9f48ef3fdd0e965a873838ec9c6143fec65a510cc501169b94ccf104b85c8",
+    "GAMS_LaPalma/inc/start_up_sw.inc": "391c54b86261992e685850da469fb6fa455269eeac58dce358b40a185c610054"
+  },
+  "recorded_settings": {
+    "polish_seconds": 600,
+    "search_gap": 0.0125,
+    "search_seconds": 1200
+  },
+  "snapshot_deployment_sha256": "58b149037368b1b7d0de4202954861a114f6139c1101da101e02197dbb1a3f1f",
+  "snapshot_main_sha256": "27f70c8b1c1106fd0b8e053c33d59b93aa880f7f065894b2b4a5c81d8ab5963f"
+}

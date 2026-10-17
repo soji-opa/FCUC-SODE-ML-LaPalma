@@ -1,0 +1,106 @@
+{
+  "zip_crc": "PASS",
+  "single_root_safe_paths": "PASS",
+  "fresh_extraction_notebooks": [
+    {
+      "notebook": "00_Quick_Start.ipynb",
+      "status": "PASS",
+      "code_cells": 4,
+      "seconds": 2.375
+    },
+    {
+      "notebook": "01_Frozen_Cuts_and_Export.ipynb",
+      "status": "PASS",
+      "code_cells": 6,
+      "seconds": 2.626
+    },
+    {
+      "notebook": "02_SODE_Equation_Checks.ipynb",
+      "status": "PASS",
+      "code_cells": 4,
+      "seconds": 2.562
+    },
+    {
+      "notebook": "03_Read_and_Audit_Native_Results.ipynb",
+      "status": "PASS",
+      "code_cells": 3,
+      "seconds": 1.873
+    }
+  ],
+  "packaged_files_unchanged": true,
+  "checksums_verified": 98,
+  "local_results": {
+    "00_quick_start.json": {
+      "status": "PASS",
+      "source_comparisons": 33,
+      "primary_numerical_includes": 18,
+      "units": 11,
+      "hourly_input_points": 672,
+      "folders_prepared": 336,
+      "native_gams_execution": "NOT RUN"
+    },
+    "01_frozen_cuts.json": {
+      "status": "PASS",
+      "actual_big_m_values": 132,
+      "big_m_max_abs_error": 0,
+      "coefficient_export_byte_match": true,
+      "toy_affine_probability_error": 8.825162822745369e-13,
+      "toy_group_folds": 3,
+      "original_fitted_pipeline_replay": "NOT RUN"
+    },
+    "02_sode_equations.json": {
+      "status": "PASS",
+      "fixture_scope": "ARTIFICIAL: not original La Palma governor parameters",
+      "zero_gain_trajectory_max_error_hz": 3.204654319688416e-09,
+      "finite_gain_refinement_error_hz": 1.1043965741919237e-10,
+      "upper_cap_mw": 2.0,
+      "zero_inertia_rejected": true,
+      "original_dynamic_case_replay": "NOT RUN"
+    },
+    "03_native_reader.json": {
+      "notebook_completed": true,
+      "native_workbook_audit": "NOT RUN",
+      "native_days_audited": 0,
+      "reader_number_checks": "PASS",
+      "days": [
+        {
+          "day": 1,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 2,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 3,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 4,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 5,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 6,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        },
+        {
+          "day": 7,
+          "status": "NOT RUN",
+          "reason": "No native workbook supplied/generated."
+        }
+      ],
+      "sode_assessment": "NOT RUN"
+    }
+  },
+  "native_gams_execution": "NOT RUN"
+}

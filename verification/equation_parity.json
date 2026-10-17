@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "primary_equations": 35,
+  "original_to_curated": true,
+  "historical_core_to_primary": true,
+  "scope": "Whitespace-normalized equation definitions only; not complete computational parity."
+}

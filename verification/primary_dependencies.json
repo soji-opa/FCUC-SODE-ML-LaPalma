@@ -1,0 +1,151 @@
+{
+  "status": "PASS",
+  "direct_numerical_includes": [
+    "block_max.inc",
+    "k.inc",
+    "start_up_sw.inc",
+    "start_up_sl.inc",
+    "aux2.inc",
+    "aux3.inc",
+    "aux4.inc",
+    "aux5.inc",
+    "aux6.inc",
+    "aux7.inc",
+    "aux8.inc",
+    "aux9.inc",
+    "aux10.inc",
+    "auxinertia.inc",
+    "auxmbase.inc",
+    "auxk.inc",
+    "d_seasons.inc",
+    "RES_seasons.inc"
+  ],
+  "includes": [
+    {
+      "source": "START_LAPALMA.gms",
+      "target": "control/LP35_CreateDirectories.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "START_LAPALMA.gms",
+      "target": "LaPalma_FCUC_35Hz.gms",
+      "status": "PASS"
+    },
+    {
+      "source": "START_LAPALMA.gms",
+      "target": "control/LP35_SelectedWeek.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "START_LAPALMA.gms",
+      "target": "Run_LaPalma_35Hz.gms",
+      "status": "PASS"
+    },
+    {
+      "source": "LaPalma_FCUC_35Hz.gms",
+      "target": "Input_Data_LaPalma_Weekly.gms",
+      "status": "PASS"
+    },
+    {
+      "source": "LaPalma_FCUC_35Hz.gms",
+      "target": "inc/LP35_Calibrated.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/block_max.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/k.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/start_up_sw.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/start_up_sl.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux2.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux3.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux4.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux5.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux6.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux7.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux8.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux9.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/aux10.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/auxinertia.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/auxmbase.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/auxk.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/d_seasons.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Input_Data_LaPalma_Weekly.gms",
+      "target": "inc/RES_seasons.inc",
+      "status": "PASS"
+    },
+    {
+      "source": "Run_LaPalma_35Hz.gms",
+      "target": "inc/LP35_Jobs.inc",
+      "status": "PASS"
+    }
+  ],
+  "native_compilation": "NOT RUN"
+}

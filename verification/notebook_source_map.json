@@ -1,0 +1,120 @@
+[
+  {
+    "original": "01_LP_Run_Guide_and_Audit(1).ipynb",
+    "path": "historical_3Hz/Notebooks_LaPalma/01_LP_Run_Guide_and_Audit.ipynb",
+    "code_cells": 3,
+    "code_cell_sha256": [
+      "0ddeebcd56656f516a49641ce36082db74f61739a629f4bea5f16bc4fd1e84d3",
+      "ae166f99a62b599b10791782435245587d34b0de645c4a931f287b689275d708",
+      "5b8ae1818b453bdce12cea74e331a713ef4a89909569d6b01486827b7b6f362d"
+    ],
+    "original_sha256": "40195af1196ef562956aa990b864181027c8d23fb265109b2ea2eb64365d655d",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  },
+  {
+    "original": "01_LP35_Prepare_Labels(1).ipynb",
+    "path": "Notebooks_LaPalma/01_LP35_Prepare_Labels.ipynb",
+    "code_cells": 6,
+    "code_cell_sha256": [
+      "ffacf6ddfe3d182d2944ba4cc967941732be003e3c6f9f8ffcf22fcec1908f56",
+      "1047a890c1d0cd74dd2445ae192efeb75047999ca3b8ff49dae1126b95c12ad2",
+      "933e613fb642f314c7a11dd16bf9ffa216b3772c19b63034fdab28072837caa2",
+      "6087987ea458b350c3c7ec4ee8877753c0efa357204034d22abe72b9ab600183",
+      "821fbff566ad26bb6da7f7a1a8be7d1e32f7d549722849f8541813bcb9fb2354",
+      "da69b8ae732f192a52c2cd2a79858f844712b2ed07445d6916fcbc112510336b"
+    ],
+    "original_sha256": "8f962c4fe1e8689db651bf914a46076764444fb2079983705859f7473dec634f",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  },
+  {
+    "original": "02_LP_Dynamics_and_Labels(1).ipynb",
+    "path": "historical_3Hz/Notebooks_LaPalma/02_LP_Dynamics_and_Labels.ipynb",
+    "code_cells": 6,
+    "code_cell_sha256": [
+      "0ddeebcd56656f516a49641ce36082db74f61739a629f4bea5f16bc4fd1e84d3",
+      "fac34addc381a09abd2dce2c55409e5ed0145ed3e319569810fc4cd62896faaa",
+      "2f4af16687da2bc07ed988a53e99417b9d44967e3a786bd3d239ccf184e2ea9b",
+      "8cd2c0a1a32ca1c63f2560b9a4b9b89bd9d6d1e2cf003b41e841cd25c640a68a",
+      "6087987ea458b350c3c7ec4ee8877753c0efa357204034d22abe72b9ab600183",
+      "821fbff566ad26bb6da7f7a1a8be7d1e32f7d549722849f8541813bcb9fb2354"
+    ],
+    "original_sha256": "a99314d867211a6184df27be07b0a17ef149c9b8961019990e2d1118400fa0c0",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  },
+  {
+    "original": "02_LP35_Train_and_Export(2).ipynb",
+    "path": "Notebooks_LaPalma/02_LP35_Train_and_Export.ipynb",
+    "code_cells": 9,
+    "code_cell_sha256": [
+      "ffacf6ddfe3d182d2944ba4cc967941732be003e3c6f9f8ffcf22fcec1908f56",
+      "a8c49ff3df1dededdc152eaa7baeeefd4691db6af76397750872b18e7be9a6d2",
+      "2c6153d4ac49d17fc068294afd33d762928a7bec6849934c6faf9f5c37b38707",
+      "abb1069b9ed8210c12f1c1e6b16d2646f8fc05d16ecccfa0be241e173a8970a3",
+      "40a2668673aede8fb80a4907696b5d04e572fd3447abb768a03d78e6ac2de6ed",
+      "7cc025499b4f6e4c2b47a2c7e8842b47b695054e90e68440ce61e5353f0a4e1b",
+      "8f2c556144d3879a05f094437a53e24871229ddfb11ca292ee678a7c2b47420f",
+      "1c8707a5820c12043c71d6e6374d4545a3aae887668c57f76703400fb175071b",
+      "0ebdfa8812a299fa30c02e5a5b98ab9052d855f9944fe00742cf85819e74b167"
+    ],
+    "original_sha256": "9da29b574537dfe30689a7b18a8f2b9831c2c7e8dd5ab04c166d12d2b6021c1c",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  },
+  {
+    "original": "03_LP35_Process_and_Plot(4).ipynb",
+    "path": "Notebooks_LaPalma/03_LP35_Process_and_Plot.ipynb",
+    "code_cells": 13,
+    "code_cell_sha256": [
+      "ffacf6ddfe3d182d2944ba4cc967941732be003e3c6f9f8ffcf22fcec1908f56",
+      "eb9855a737a172560dcf0e84c5a782d4d73976978f84e8ee0d4f9ad74c71cd1e",
+      "737b8776088196d7198dbf21f4746f36d1480cdfa8043b050313d67a808a80fd",
+      "20610e2ef41879f0606296888e6c4d9993261130c3ef9dfcda8c7b7e8a2b7cc7",
+      "26ec4f39322c6ba313c51ee9ca3099282717b9dc51f5d8b9cc0d516cfc1dbfc1",
+      "80eab1b17f42d8f57ff1d7d66d6b0a97c5e7c1844d254fafef07350b5c81b7b5",
+      "be4736e4976bc561d3bb748df09768fd8fdf9ac0c4f5ad650977713cf1101cc6",
+      "6823e2e674fed990629a517a112d81179ae91e33df1daf4aa66474071579764f",
+      "5bfdfcb2d30a9d15c8dec2b45d0d311724f7382006dd6c2da6a2a06b0c63102a",
+      "97a239e08d4fb7b04c8de977816917d4157789f76fb2346d78637168ff6e7a0d",
+      "916f4bb2d90c04ed24291935cee9cd693a1c9d7bdb89951dafd2cc08492124f7",
+      "f4536085016c18a935a74d3484677f40fe42862dd95e36df6117bafda40c728b",
+      "f257ef8e69ef12285a7890dc86fd0ddbc07f25b3c42c0b453a99ac7db024adc9"
+    ],
+    "original_sha256": "5e295b28349dd18a990cda769b67b649f5efeb3e80846daabe436095777a0a70",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  },
+  {
+    "original": "04_LP_Seasonal_Weekly_Results(4).ipynb",
+    "path": "historical_3Hz/Notebooks_LaPalma/04_LP_Seasonal_Weekly_Results.ipynb",
+    "code_cells": 9,
+    "code_cell_sha256": [
+      "788ab39d3f7bdd5c812e3816b25764bb8f56ff20771f9719c0d63047192cce7d",
+      "0ddeebcd56656f516a49641ce36082db74f61739a629f4bea5f16bc4fd1e84d3",
+      "b17676c4862709fae23330e7fdde7fdf60226541b9270458ecc44c40cc20e469",
+      "789256cfc1200abcb27778a5e7d3d83d6b5a167e358c85c54f1eb5bbab85b9ca",
+      "5845b795f791989894e9eb1fdd15283b36afc3d062f1e314bc71cd62fdef189c",
+      "10a069538c96387ca6d9107edf24e8281b9b6d149f749ac065418e04849e75dd",
+      "fabccab9913b77ac47cc0a22123edc071d49e83e149222a247dba94f4b69d270",
+      "3654675d8fed625781cc54e3c8dddf18e28ac719e989d0c899b6e1d55e29b568",
+      "b7baf56d3a53ddada4b6a674ff064d01dba253ce3e780c659153bf8555d367a5"
+    ],
+    "original_sha256": "3b304cede00ec5802cb519e1e531f544434f6990f709f7460182405005c977c4",
+    "structure": "PASS",
+    "syntax": "PASS",
+    "code_preservation": "PASS",
+    "full_execution": "NOT RUN"
+  }
+]

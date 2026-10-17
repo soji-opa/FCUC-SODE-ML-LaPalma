@@ -1,0 +1,332 @@
+[
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/LP35_Calibrated.inc",
+    "original_name": "LP35_Calibrated.inc",
+    "original_sha256": "00b3a917599f39a97ce1a2238ff24ba608863c174d958c25dbc78bc156454418",
+    "curated_sha256": "00b3a917599f39a97ce1a2238ff24ba608863c174d958c25dbc78bc156454418",
+    "noncomment_sha256": "53f4a46e4007b116de71bde041149faf09053d48b428b8c3e742a4a8c41bb703",
+    "status": "PASS",
+    "change": "No byte changes."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/LP35_Jobs.inc",
+    "original_name": "LP35_Jobs.inc",
+    "original_sha256": "87f9f07604ca1dbd7c4e4405452427b4497a2ad8adec3a10a3553670ccba1e1c",
+    "curated_sha256": "87f9f07604ca1dbd7c4e4405452427b4497a2ad8adec3a10a3553670ccba1e1c",
+    "noncomment_sha256": "6ed92a3ef043822f86410487b32c91f4dfef0d4ad20231283352451be5b0d998",
+    "status": "PASS",
+    "change": "No byte changes."
+  },
+  {
+    "kind": "gams_include",
+    "path": "historical_3Hz/GAMS_LaPalma/inc/LaPalma_Calibrated.inc",
+    "original_name": "LaPalma_Calibrated.inc",
+    "original_sha256": "7ef2d52e5e78d299bfe881023c556d839e7f15fda142ef273b4b4b89d98ddef1",
+    "curated_sha256": "7ef2d52e5e78d299bfe881023c556d839e7f15fda142ef273b4b4b89d98ddef1",
+    "noncomment_sha256": "c4dc562bb18635e2ab36641001392b565e727efe150ea50ded4428a8284e398d",
+    "status": "PASS",
+    "change": "No byte changes."
+  },
+  {
+    "kind": "gams_include",
+    "path": "historical_3Hz/GAMS_LaPalma/inc/LaPalma_Jobs.inc",
+    "original_name": "LaPalma_Jobs.inc",
+    "original_sha256": "04fa9080ebc00c14df1c57ee35751a02dc7999a02f600372b98236269bcf6507",
+    "curated_sha256": "04fa9080ebc00c14df1c57ee35751a02dc7999a02f600372b98236269bcf6507",
+    "noncomment_sha256": "1ececfe4d8c08113958a3e5efc38251f81dca64af24fdfad5263fdadbd667b0c",
+    "status": "PASS",
+    "change": "No byte changes."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/RES_seasons.inc",
+    "original_name": "RES_seasons.inc",
+    "original_sha256": "c1142e26de232b92bed7366b7a58474cb5d7c8ca8c550a974fa72835e4ff5040",
+    "curated_sha256": "e3c22392c4d09f47faf19822cd04506090d094ff568ec2bcf0ad64fc362d1b5b",
+    "noncomment_sha256": "36b5058d3e4b863e2a319a78d16684da76d8e616fd55109bafeaffe6ccff5b0c",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux10.inc",
+    "original_name": "aux10.inc",
+    "original_sha256": "8c22ab76fbb329684df2e5a913f9677da637af0e4e1b9d462204ae78d55678c4",
+    "curated_sha256": "3b455a69ed8859e3789a6b846b3d4ffb7399970d968c08ab9fe4ea9f2ef051c8",
+    "noncomment_sha256": "ef294a66bb1426acaac2e8818d2effe8107beaded32298b6700119bf300e9f12",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux11.inc",
+    "original_name": "aux11.inc",
+    "original_sha256": "2b465dac77dc984af5860848ae7918380df73236e8186064b2797fa5c1c316da",
+    "curated_sha256": "940217039cb072ceacb1fbb0dbc7926b23630ce5abba2c73c793a82418cd63ae",
+    "noncomment_sha256": "21fc021caf8b9712ac24c48c25fac09362f684011e1214cc48b8e9b2838d133d",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux12.inc",
+    "original_name": "aux12.inc",
+    "original_sha256": "ae6808d2af5bafe2b3f9e8f613af2dca114430b56be00f1b81b29e2247dfcccd",
+    "curated_sha256": "8e6e09b5fa47640f95187df21782de15930487fb604f0d82f6b208f06bf3cee1",
+    "noncomment_sha256": "584bcbb03f878051118821a390d5ed50ad61f51141eeffe361dd4fa4f5357bc8",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux2.inc",
+    "original_name": "aux2.inc",
+    "original_sha256": "d0477c9d7da842038ea171bb859e9aa2a5fa63b6159f23817efbe6fdbdf83106",
+    "curated_sha256": "2d847746b7538221339fd714747f5b162edd6ea1a01c87f46f28334df17a19e6",
+    "noncomment_sha256": "9f6616b70ef1a6b3a92614e50c745b31ebbd9d2983eb00a738fbc8c8d6573543",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux3.inc",
+    "original_name": "aux3.inc",
+    "original_sha256": "48446fd25496b2786b2b9aec1bace18cdbd147a53be65a39d101c90e0f351080",
+    "curated_sha256": "118a992cd6392205fd33e39fc82e406123fd051310d5b47dc98fee8ffc2bca12",
+    "noncomment_sha256": "ef294a66bb1426acaac2e8818d2effe8107beaded32298b6700119bf300e9f12",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux4.inc",
+    "original_name": "aux4.inc",
+    "original_sha256": "ddf51508ce1b8964d0e7b32dca12c071b149151f921dec2a945e90c35796c34e",
+    "curated_sha256": "9acf78e0929f298945e9262618ef944688061cf0f22b04faa5adce4c45801b5b",
+    "noncomment_sha256": "948f25a8579773610aa04e023ae12ff5bb7e44b3b8df7820b236b02af05a4620",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux5.inc",
+    "original_name": "aux5.inc",
+    "original_sha256": "b9af6689d8e822ec3ef1c17929aaeb987eb4c4bc55e39e07cc181abef533be8c",
+    "curated_sha256": "2df05d3cc8b2e29d6831f4d316c6c34509d324c70e6d623fb4e306b6bb55463e",
+    "noncomment_sha256": "61175c869c112e8e6b3607faaf5ec14bafbd586e92e992ec1db2c0dd47772e82",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux6.inc",
+    "original_name": "aux6.inc",
+    "original_sha256": "644c802a2ab6c81c310d6d16027865a3a8754b4a70accb29c77e85318ca6624d",
+    "curated_sha256": "06b8c92b4c3f16fce5108406e8ba83c55d2bec36ee9dfc8d18663ffce39d303e",
+    "noncomment_sha256": "61175c869c112e8e6b3607faaf5ec14bafbd586e92e992ec1db2c0dd47772e82",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux7.inc",
+    "original_name": "aux7.inc",
+    "original_sha256": "8a70cbc8a31f67a709713fa594b9f36804aa71989f4094ab8863ad7bd13e748d",
+    "curated_sha256": "cd809069f3f9831e082299df8cb7702dbb19b778df485d7f01212ef95b6366a0",
+    "noncomment_sha256": "1aec23ce0838cc154c1dfc137e5610f722665897150ab701f847497f8d54dd0d",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux8.inc",
+    "original_name": "aux8.inc",
+    "original_sha256": "7dd3d5dc94ae299fcad42dceb57fd7a8db481bffd81b6bf95c07ec1c6dfe0d80",
+    "curated_sha256": "d0f8dad873bf3f19b71230f675c1b8a621b5ec5255dce06a2c9818db184ae0da",
+    "noncomment_sha256": "1aec23ce0838cc154c1dfc137e5610f722665897150ab701f847497f8d54dd0d",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/aux9.inc",
+    "original_name": "aux9.inc",
+    "original_sha256": "804975af2749009c64a711eed349806dbd221f7b9754e5f93a491a2636e7d5c3",
+    "curated_sha256": "d495cef4c9362ee2fdbc7961540418890ba63d6591c063b66093bfccd3d44707",
+    "noncomment_sha256": "c3e33d82a8e306b29b5aa2e88df03f4d5917fd5af41bcb2d5f79ea7edefe9b96",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/auxinertia.inc",
+    "original_name": "auxinertia.inc",
+    "original_sha256": "32148263f5173d0764144dd1ab7bac6dc9ff9064d40d9ad95afbaab46d9e25bb",
+    "curated_sha256": "05dbc14d0fb4d9383c7b4368ced6e4bc34f5069c88c832dc509e02df266f12e0",
+    "noncomment_sha256": "8bc52af029a8af538f4c04fc1fee786e09214c5f85b4b0945d52db4daf8be125",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/auxk.inc",
+    "original_name": "auxk.inc",
+    "original_sha256": "0add2be3cf551b3a4c182578eb6f8e83a1a555496e9cca767f268546ff8bf339",
+    "curated_sha256": "81f0754bd55da236fc0f4c37352ad2168cea073a4827c578553d16b8cb1ce885",
+    "noncomment_sha256": "3088ac35bb027f1397da6d05e61f7236b773d29791eafd5bd4cab624b1316654",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/auxmbase.inc",
+    "original_name": "auxmbase.inc",
+    "original_sha256": "82da066d5a484980802ed70c61860a035aca531ddc0e1bf43884b562f471c707",
+    "curated_sha256": "985d8189c511343715d8aea8e622a2b821e55c453312ed61790a4b5e023483ef",
+    "noncomment_sha256": "c0132b26361b21b6d67a563a587c97dba13e70ceb5d9346f16c123671c66c6f1",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/block_max.inc",
+    "original_name": "block_max.inc",
+    "original_sha256": "9126deaf5be2af52edd4c671c5290a64ce8b828f84782e36c09069314528feb7",
+    "curated_sha256": "80beda9383ca3f3f34d8089ee58207d6d4e11412961cefcb9be1f78e312e84c8",
+    "noncomment_sha256": "e43610338cd6a1b30c20bb365bfed54061d36fb3a26ebee007a1aeae73b2b3e5",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/cost_coefs.inc",
+    "original_name": "cost_coefs.inc",
+    "original_sha256": "ddcd953f246875f747a1c9c498ce72054ef3dfd29ee4049c5a309476a4e13ae8",
+    "curated_sha256": "eb9b78f93313788ba5761fcd6cbac5a083f16cf543e0880691eab3e157ba6e7d",
+    "noncomment_sha256": "a89a11e51220f300ef3fe67268d42b261f0cdbc2f6187964c892ee80ce540d08",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/d_seasons.inc",
+    "original_name": "d_seasons.inc",
+    "original_sha256": "8a0da2ca24e1a44946cf534f45098734aeb2174d312e6face0812c55083365ee",
+    "curated_sha256": "1fdcfce9174865dd5fb88527fcd9326c9afaad7bf3570746c682f50c70479b9d",
+    "noncomment_sha256": "eb5041918634711defffe427509a4698f3d8899b162d899d5d1d29e9ab4616e6",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/k.inc",
+    "original_name": "k.inc",
+    "original_sha256": "d90a876ffc16a9531c37059a91dad46633885c73794d0a13b1d12007dbb4d895",
+    "curated_sha256": "ff6299f78117901cac0bafe6385c95906f10beab0469997a63267e22d01aa772",
+    "noncomment_sha256": "eada844fe03678c0532380c1fd95dc115f105bd2f1fee67a0945da17137a9199",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/line_map.inc",
+    "original_name": "line_map.inc",
+    "original_sha256": "2f620887e02c9a539205988fea6da3c1a8bba5089d3302703a1792b5a7424ed8",
+    "curated_sha256": "49bab0886bfd12f46bf6a851fb023298660f07519f3a89f4f736388782eae29d",
+    "noncomment_sha256": "dc4a73dab0dc9d164aea1be8522d1e3b7fd6d5451bd72a44c2d24b4529cc8dfa",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/start_up_sl.inc",
+    "original_name": "start_up_sl.inc",
+    "original_sha256": "b6d9f48ef3fdd0e965a873838ec9c6143fec65a510cc501169b94ccf104b85c8",
+    "curated_sha256": "af7f83e02c402285fc07c5a6e7258cd893513fbe7f23ea4b7599bcb9a7edd472",
+    "noncomment_sha256": "0c7b309ed592572c9406ae6db73d621118e6439b4f3cb51fd525480c7c656201",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_include",
+    "path": "GAMS_LaPalma/inc/start_up_sw.inc",
+    "original_name": "start_up_sw.inc",
+    "original_sha256": "391c54b86261992e685850da469fb6fa455269eeac58dce358b40a185c610054",
+    "curated_sha256": "e98d1341314c41b998b319244cff167f62defe843651382ec582a502a7ff6635",
+    "noncomment_sha256": "9557f94f12fd14deff095cf1b98927c48003ef0e925325928eb92812311dccd7",
+    "status": "PASS",
+    "change": "Private workbook-location comment removed only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "GAMS_LaPalma/LaPalma_FCUC_35Hz.gms",
+    "original_name": "LaPalma_FCUC_35Hz(1).gms",
+    "original_sha256": "654fc6b6186c7f7a35bba5da0cfe39a7bad82f0d7f2084ecc9654e7f265fc741",
+    "curated_sha256": "4ee4b35b9faa50fdafaddf8e94654560da42fb713449ee3725e99031599a57b6",
+    "noncomment_sha256": "950368904e5f1ba22cdb8c82e7794b36df4d987c0f46f947e79070010d4ed800",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "GAMS_LaPalma/Run_LaPalma_35Hz.gms",
+    "original_name": "Run_LaPalma_35Hz(1).gms",
+    "original_sha256": "0e222eea48e1600f72a1c7cab3ba3ae41e650395ae596592e28b62e86bafc39c",
+    "curated_sha256": "a6e7198cd702168eef6e7d75d4129555b8460306038cf9fd5af71930d39dcdad",
+    "noncomment_sha256": "39820380f7e17a8686f2fefaa39132d2a087824aa2efcf19e4fac825b40fe607",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "GAMS_LaPalma/Input_Data_LaPalma_Weekly.gms",
+    "original_name": "Input_Data_LaPalma_Weekly(1).gms",
+    "original_sha256": "395ad753af33d1bb7190eb16f2cee0b73c6cf198f718b1ceddddf1b132de17f3",
+    "curated_sha256": "02e4d6060fc73fba0b5eced0a5fa8fc93e8e07d9345437d7ea7a0042d5cf9ff0",
+    "noncomment_sha256": "0f0af4a0c98a0c64ad45e872ca3e9184bd7c64eba698b0f94ca2545a42c615ff",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "historical_3Hz/GAMS_LaPalma/LaPalma_FCUC_Weekly.gms",
+    "original_name": "LaPalma_FCUC_Weekly(2).gms",
+    "original_sha256": "7eaae1f759a2fd76e2f0206696679678d5cd6c240f68e5be2bff7a56ad4dacc6",
+    "curated_sha256": "ca7e30bd18ceb5e0bf2fc03ca456162f025053cb420abdb13b99f094070da054",
+    "noncomment_sha256": "7eb3a4610a91d8fa8589c1b3eb8f518f0da8ce9ce6c70a555ca6548763fae034",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "historical_3Hz/GAMS_LaPalma/LaPalma_FCUC_Weekly_Recovery.gms",
+    "original_name": "LaPalma_FCUC_Weekly_Recovery(1).gms",
+    "original_sha256": "479da6ee64771d8dce0be9dbc4f62ab7a54f7eab20fead68f7e53e85328765e8",
+    "curated_sha256": "f61b5155aa71c1468d4aab556f7eae6c10937ad0aeed62b4cba0958637912613",
+    "noncomment_sha256": "566438c46c703eb496889c22065a919c8365ffe2feffb05fd00f1690469b4c62",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "historical_3Hz/GAMS_LaPalma/Run_LaPalma_Seasons.gms",
+    "original_name": "Run_LaPalma_Seasons(2).gms",
+    "original_sha256": "a9c447e364d245a0f6b255d14bcb5e26fe975fe03f91dc9cabaacef61c12207c",
+    "curated_sha256": "b38bae7f5aa188c551c0017f33ac2d64f76a34d2c278d912c75faa28607f4efa",
+    "noncomment_sha256": "b94acbe5a7ca581d923ae162ae15346797058958334cd9265952760df400e372",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  },
+  {
+    "kind": "gams_source",
+    "path": "historical_3Hz/GAMS_LaPalma/Run_LaPalma_Targeted_D6D7_Recovery.gms",
+    "original_name": "Run_LaPalma_Targeted_D6D7_Recovery(1).gms",
+    "original_sha256": "b9f87dea523c97ca84336f52b1bb6321624c6cec3e692cd826ea7b84865d3a26",
+    "curated_sha256": "cbd74234019e5110025696a8bde5a5b905dade99144b6b3c474475a38dd09793",
+    "noncomment_sha256": "eba84b56dd426559ddca1b95ad6601df9452c75a2f8a952d75a5b0afb271b6bb",
+    "status": "PASS",
+    "change": "Explanatory comments and whitespace only."
+  }
+]

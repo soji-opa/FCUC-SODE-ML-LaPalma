@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0-deployment",
+  "release_scope": "Frozen-coefficient ML-FCUC deployment; no training required",
+  "campaign": "LP35_6259c70d0303",
+  "model_id": "0899f2bc59cecb10",
+  "nadir_min_hz": 46.5,
+  "nadir_drop_hz": 3.5,
+  "uploaded_working_defaults": {
+    "search_seconds": 1200,
+    "search_gap": 0.005,
+    "polish_seconds": 300,
+    "polish_gap": 0.0001,
+    "threads": 4
+  },
+  "archived_manifest_plan": {
+    "search_seconds": 1200,
+    "search_gap": 0.0125,
+    "polish_seconds": 600
+  },
+  "solver_option_sha256": "1870d937c9693b90820800aa90711770a6f87332d37124d739da5cbf731121a5",
+  "native_execution": "NOT RUN",
+  "reason": "GAMS/CPLEX is not installed in the builder. cplex.opt matches the frozen hash and contains only threads 4; it introduces no gap/time override. Archived native listings were not re-inspected.",
+  "training_and_physical_replay_requires": [
+    "LP_Case.json",
+    "LP35_Protocol.json",
+    "matching parent/label/learning/cache/native archives"
+  ]
+}

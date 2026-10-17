@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "fixture_scope": "ARTIFICIAL: not original La Palma governor parameters",
+  "zero_gain_trajectory_max_error_hz": 3.204654319688416e-09,
+  "finite_gain_refinement_error_hz": 1.1043965741919237e-10,
+  "upper_cap_mw": 2.0,
+  "zero_inertia_rejected": true,
+  "original_dynamic_case_replay": "NOT RUN"
+}

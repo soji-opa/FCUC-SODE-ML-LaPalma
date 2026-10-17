@@ -1,0 +1,112 @@
+[
+  {
+    "check": "Public/original non-comment GAMS content",
+    "status": "PASS",
+    "detail": "33 comparisons: 7 GAMS components plus 26 publicly included .inc files. Only comments/whitespace change; table alignment and numerical text retained."
+  },
+  {
+    "check": "All original include hashes",
+    "status": "PASS",
+    "detail": "28/28 uploaded .inc files match frozen manifest hashes. 26 are public; two third-party-derived historical SP includes are withheld and preserved only in the private original backup."
+  },
+  {
+    "check": "Equation definitions",
+    "status": "PASS",
+    "detail": "35/35 primary definitions match the uploaded original and the historical core after whitespace normalization. This does not prove full branch/solver parity."
+  },
+  {
+    "check": "Solver source reconciliation",
+    "status": "PASS",
+    "detail": "Pre-run snapshot hash authenticated by reversing only the two working default changes. Supplied cplex.opt byte-matches its frozen digest and contains only threads 4. Complete per-run historical execution is not newly certified."
+  },
+  {
+    "check": "Frozen identities and artifacts",
+    "status": "PASS",
+    "detail": "LP35 campaign/model/46.5-Hz threshold agree. Primary calibrated include, original job roster, option file and both deployment manifests retain their supplied bytes."
+  },
+  {
+    "check": "Primary input/include closure",
+    "status": "PASS",
+    "detail": "All 18 direct numerical inputs and every primary static include target exist under the retained GAMS working-directory layout. No LP_Case.json or LP35_Protocol.json is read by the native model."
+  },
+  {
+    "check": "Launcher and chronology static checks",
+    "status": "PASS",
+    "detail": "336 unique run/season/day calls; every PREV=DAY-1; seven-day selected policy body matches original first chain after selector expansion; 336 required directories listed. Wrapper native compilation is NOT RUN."
+  },
+  {
+    "check": "Original scientific notebook source preservation",
+    "status": "PASS",
+    "detail": "Six notebooks retain all 46 original code-cell texts exactly. Added Markdown only; historical displayed outputs removed from public notebook copies. Full production drivers were NOT RUN."
+  },
+  {
+    "check": "Notebook structure and syntax",
+    "status": "PASS",
+    "detail": "All ten public notebooks validate; all code cells parse. Import declarations were separately executed and recorded in notebook_static_checks.json."
+  },
+  {
+    "check": "Four lightweight notebooks",
+    "status": "PASS",
+    "detail": "All four executed in fresh Python kernels. Native workbook audit explicitly reports NOT RUN with zero workbooks; setup execution is not a native result certificate."
+  },
+  {
+    "check": "Actual-fleet Big-M and coefficient export",
+    "status": "PASS",
+    "detail": "132/132 Big-M values recomputed from supplied fleet; max error 0; exact coefficient-export bytes. Artificial affine-probability error 8.83e-13."
+  },
+  {
+    "check": "SODE equation verification",
+    "status": "PASS",
+    "detail": "Original routines on explicitly artificial fixtures: closed-form trajectory error 3.2e-09 Hz, refinement error 1.1e-10 Hz, cap and zero-inertia tests passed. These are not La Palma production simulations."
+  },
+  {
+    "check": "JSON/YAML/CFF basic parsing",
+    "status": "PASS",
+    "detail": "Every JSON parsed; environment and citation YAML parse and required basic citation fields are present. Full CFF schema validation was not performed; approved author metadata/license remain pending."
+  },
+  {
+    "check": "Public/private separation",
+    "status": "PASS",
+    "detail": "Private workbook-location comments and notebook output paths removed. Separate original backup retains exact bytes. No standalone Raja reference package or historical SP include pair in public tree. Pattern scan is not a legal/license audit."
+  },
+  {
+    "check": "Private original-byte preservation",
+    "status": "PASS",
+    "detail": "44 uploaded source/input/configuration files compare byte-for-byte inside the separate PRIVATE ZIP (plus its README). This backup is not for public upload."
+  },
+  {
+    "check": "Native GAMS 24.9 / CPLEX solve",
+    "status": "NOT RUN",
+    "detail": "No GAMS executable/license installed. The new IDE wrapper is statically checked, not natively compiled. Supplied deployment inputs are complete for the primary native optimizer."
+  },
+  {
+    "check": "Original six production notebook drivers",
+    "status": "NOT RUN",
+    "detail": "No retraining, mass label regeneration, large original result replay or campaign solve performed. Original case/protocol and complete scientific archives are outside this download."
+  },
+  {
+    "check": "Original fitted-model transformation on production rows",
+    "status": "NOT RUN",
+    "detail": "Scaler/classifier/calibrator fitted artifacts and original feature rows not available. Only original affine routine on controlled fixtures and frozen numeric export were executed."
+  },
+  {
+    "check": "Original 336 native listing/workbook evidence re-audit",
+    "status": "NOT RUN",
+    "detail": "Prior reviewed execution record is preserved from an uploaded executed notebook; underlying 336 native files were not re-inspected."
+  },
+  {
+    "check": "Historical SP / new locational network formulation",
+    "status": "NOT APPLICABLE",
+    "detail": "Neither is part of the primary 3.5-Hz frozen-coefficient deployment. Historical SP source dependencies deliberately excluded pending third-party permission; no model borrowed from LRC_SCUC."
+  },
+  {
+    "check": "Fresh archive extraction and notebook portability",
+    "status": "PASS",
+    "detail": "Four lightweight notebooks executed from a separate extraction, without builder paths or external custom Python files. All packaged files unchanged; native workbook audit remains NOT RUN."
+  },
+  {
+    "check": "ZIP integrity and structure",
+    "status": "PASS",
+    "detail": "CRC integrity, safe paths and single top-level repository folder verified. Final package receipts and SHA256SUMS are also checked after packaging."
+  }
+]

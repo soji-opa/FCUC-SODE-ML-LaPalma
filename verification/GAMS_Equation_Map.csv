@@ -1,0 +1,106 @@
+equation,source,original_line,curated_line,meaning
+totalCost,LaPalma_FCUC_35Hz.gms,118,178,"Objective [kEUR]: no-load cost a*x, three dispatch blocks k*g_lin, category startup cost and wind curtailment. One-hour periods make MW numerically MWh. EUR output multiplies by 1000."
+statusFirst,LaPalma_FCUC_35Hz.gms,120,186,Initial transition: commitment minus incoming state equals startup minus shutdown. Initial data come from the seasonal seed or accepted previous-day GDX.
+statusLater,LaPalma_FCUC_35Hz.gms,121,191,Chronological binary transition for hours 2--24; never link one method or season to another.
+exclusiveSwitch,LaPalma_FCUC_35Hz.gms,122,196,Forbid simultaneous startup and shutdown in the same hour.
+sumBlocks,LaPalma_FCUC_35Hz.gms,124,202,Dispatch [MW] equals the sum of the three nonnegative generation-block outputs.
+minimumGeneration,LaPalma_FCUC_35Hz.gms,125,207,"When committed, dispatch is at least minimum stable output [MW]; when off, block upper bounds force zero output."
+blockLimits,LaPalma_FCUC_35Hz.gms,126,212,Each piecewise-linear cost block is bounded by its original MW capacity times commitment. No altered merit order or fitted costs are introduced.
+minimumUpTime,LaPalma_FCUC_35Hz.gms,128,218,A startup in the preceding minimum-up-time window forces commitment. Residual initial obligations are imposed separately through x.fx.
+minimumDownTime,LaPalma_FCUC_35Hz.gms,129,223,A shutdown in the preceding minimum-down-time window forces the unit off. The native indexing and initial-state treatment are retained.
+rampUpFirst,LaPalma_FCUC_35Hz.gms,131,229,First-hour increase relative to incoming dispatch is bounded by the source ramp-up amount [MW per one-hour step]. No startup ramp relaxation is added.
+rampDownFirst,LaPalma_FCUC_35Hz.gms,132,234,First-hour decrease relative to incoming dispatch is bounded by the source ramp-down amount [MW per one-hour step].
+rampUpLater,LaPalma_FCUC_35Hz.gms,133,239,Inter-hour dispatch increase cannot exceed the source ramp-up amount [MW].
+rampDownLater,LaPalma_FCUC_35Hz.gms,134,244,Inter-hour dispatch decrease cannot exceed the source ramp-down amount [MW].
+onAgeCap,LaPalma_FCUC_35Hz.gms,136,250,On-age [h] is zero when off and bounded by ageM when on. ageM covers incoming ages plus this horizon; it is not the ML outage Big-M.
+offAgeCap,LaPalma_FCUC_35Hz.gms,137,255,Off-age [h] is zero when on and bounded by ageM when off.
+onFirstLower,LaPalma_FCUC_35Hz.gms,139,261,First-hour lower bound for continued on-age. Together with its upper bound it increments the incoming on-age exactly when on.
+onFirstUpper,LaPalma_FCUC_35Hz.gms,140,266,Matching upper bound for first-hour on-age [h]; commitment activates the age recurrence.
+offFirstLower,LaPalma_FCUC_35Hz.gms,141,271,First-hour lower bound for off-age [h]; the incoming off-age is incremented only while off.
+offFirstUpper,LaPalma_FCUC_35Hz.gms,142,276,Matching first-hour upper bound for off-age [h].
+onLaterLower,LaPalma_FCUC_35Hz.gms,144,282,On-age lower recurrence within the day. Off-state cap resets the clock; the subsequent startup produces age one.
+onLaterUpper,LaPalma_FCUC_35Hz.gms,145,287,On-age upper recurrence within the day; retains the exact original Big-M expression.
+offLaterLower,LaPalma_FCUC_35Hz.gms,146,292,Off-age lower recurrence within the day; clock measures consecutive completed off hours.
+offLaterUpper,LaPalma_FCUC_35Hz.gms,147,297,Off-age upper recurrence within the day; this history selects the next startup-cost category.
+startCategorySum,LaPalma_FCUC_35Hz.gms,149,303,"Exactly one startup category is active on startup, and no category is active otherwise."
+startFirstLower,LaPalma_FCUC_35Hz.gms,150,308,Incoming off-age must lie above the selected first-hour startup-category threshold [h].
+startFirstUpper,LaPalma_FCUC_35Hz.gms,151,313,Incoming off-age cannot exceed the selected category upper threshold; final category uses ageM.
+startLaterLower,LaPalma_FCUC_35Hz.gms,152,318,"Before a later startup, preceding-hour off-age must reach the chosen category lower bound [h]."
+startLaterUpper,LaPalma_FCUC_35Hz.gms,153,323,"Before a later startup, preceding-hour off-age cannot exceed the chosen category upper bound [h]."
+powerBalance,LaPalma_FCUC_35Hz.gms,155,329,Aggregate energy balance [MW]: thermal dispatch plus available wind minus curtailment equals demand. No transmission network or load-shedding variable is present.
+Hdef,LaPalma_FCUC_35Hz.gms,157,335,Post-outage kinetic-energy aggregate Hafter [MW s] excludes candidate i: sum H_j [s] * S_j [MW] * commitment. This is not an inertia constant in seconds.
+Gdef,LaPalma_FCUC_35Hz.gms,159,341,Post-outage aggregate governor gain Gafter [MW/Hz] excludes candidate i and divides source kg*mbase by nominal 50 Hz.
+Rdef,LaPalma_FCUC_35Hz.gms,161,347,"Post-outage headroom Rafter [MW] is the sum of surviving committed maximum output minus dispatch. The lost unit contributes neither inertia, gain nor reserve."
+rocof,LaPalma_FCUC_35Hz.gms,163,353,"For reserve/ML modes, initial RoCoF limit 2.5 Hz/s: 2*E*2.5/50 >= lost dispatch. The failed online unit loses its actual dispatch, not a fixed assumed MW."
+qss,LaPalma_FCUC_35Hz.gms,165,359,"Reserve sufficiency screen [MW]: surviving headroom >= lost dispatch. Despite its name, this is not a damped steady-state-frequency equation."
+mlSecurity,LaPalma_FCUC_35Hz.gms,167,365,Affine calibrated safety margin >= 0 for each online contingency. Big-M relaxes only an offline candidate. Coefficients encode threshold 46.5 Hz and remain frozen.
+totalCost,LaPalma_FCUC_Weekly.gms,115,178,"Objective [kEUR]: no-load cost a*x, three dispatch blocks k*g_lin, category startup cost and wind curtailment. One-hour periods make MW numerically MWh. EUR output multiplies by 1000."
+statusFirst,LaPalma_FCUC_Weekly.gms,117,186,Initial transition: commitment minus incoming state equals startup minus shutdown. Initial data come from the seasonal seed or accepted previous-day GDX.
+statusLater,LaPalma_FCUC_Weekly.gms,118,191,Chronological binary transition for hours 2--24; never link one method or season to another.
+exclusiveSwitch,LaPalma_FCUC_Weekly.gms,119,196,Forbid simultaneous startup and shutdown in the same hour.
+sumBlocks,LaPalma_FCUC_Weekly.gms,121,202,Dispatch [MW] equals the sum of the three nonnegative generation-block outputs.
+minimumGeneration,LaPalma_FCUC_Weekly.gms,122,207,"When committed, dispatch is at least minimum stable output [MW]; when off, block upper bounds force zero output."
+blockLimits,LaPalma_FCUC_Weekly.gms,123,212,Each piecewise-linear cost block is bounded by its original MW capacity times commitment. No altered merit order or fitted costs are introduced.
+minimumUpTime,LaPalma_FCUC_Weekly.gms,125,218,A startup in the preceding minimum-up-time window forces commitment. Residual initial obligations are imposed separately through x.fx.
+minimumDownTime,LaPalma_FCUC_Weekly.gms,126,223,A shutdown in the preceding minimum-down-time window forces the unit off. The native indexing and initial-state treatment are retained.
+rampUpFirst,LaPalma_FCUC_Weekly.gms,128,229,First-hour increase relative to incoming dispatch is bounded by the source ramp-up amount [MW per one-hour step]. No startup ramp relaxation is added.
+rampDownFirst,LaPalma_FCUC_Weekly.gms,129,234,First-hour decrease relative to incoming dispatch is bounded by the source ramp-down amount [MW per one-hour step].
+rampUpLater,LaPalma_FCUC_Weekly.gms,130,239,Inter-hour dispatch increase cannot exceed the source ramp-up amount [MW].
+rampDownLater,LaPalma_FCUC_Weekly.gms,131,244,Inter-hour dispatch decrease cannot exceed the source ramp-down amount [MW].
+onAgeCap,LaPalma_FCUC_Weekly.gms,133,250,On-age [h] is zero when off and bounded by ageM when on. ageM covers incoming ages plus this horizon; it is not the ML outage Big-M.
+offAgeCap,LaPalma_FCUC_Weekly.gms,134,255,Off-age [h] is zero when on and bounded by ageM when off.
+onFirstLower,LaPalma_FCUC_Weekly.gms,136,261,First-hour lower bound for continued on-age. Together with its upper bound it increments the incoming on-age exactly when on.
+onFirstUpper,LaPalma_FCUC_Weekly.gms,137,266,Matching upper bound for first-hour on-age [h]; commitment activates the age recurrence.
+offFirstLower,LaPalma_FCUC_Weekly.gms,138,271,First-hour lower bound for off-age [h]; the incoming off-age is incremented only while off.
+offFirstUpper,LaPalma_FCUC_Weekly.gms,139,276,Matching first-hour upper bound for off-age [h].
+onLaterLower,LaPalma_FCUC_Weekly.gms,141,282,On-age lower recurrence within the day. Off-state cap resets the clock; the subsequent startup produces age one.
+onLaterUpper,LaPalma_FCUC_Weekly.gms,142,287,On-age upper recurrence within the day; retains the exact original Big-M expression.
+offLaterLower,LaPalma_FCUC_Weekly.gms,143,292,Off-age lower recurrence within the day; clock measures consecutive completed off hours.
+offLaterUpper,LaPalma_FCUC_Weekly.gms,144,297,Off-age upper recurrence within the day; this history selects the next startup-cost category.
+startCategorySum,LaPalma_FCUC_Weekly.gms,146,303,"Exactly one startup category is active on startup, and no category is active otherwise."
+startFirstLower,LaPalma_FCUC_Weekly.gms,147,308,Incoming off-age must lie above the selected first-hour startup-category threshold [h].
+startFirstUpper,LaPalma_FCUC_Weekly.gms,148,313,Incoming off-age cannot exceed the selected category upper threshold; final category uses ageM.
+startLaterLower,LaPalma_FCUC_Weekly.gms,149,318,"Before a later startup, preceding-hour off-age must reach the chosen category lower bound [h]."
+startLaterUpper,LaPalma_FCUC_Weekly.gms,150,323,"Before a later startup, preceding-hour off-age cannot exceed the chosen category upper bound [h]."
+powerBalance,LaPalma_FCUC_Weekly.gms,152,329,Aggregate energy balance [MW]: thermal dispatch plus available wind minus curtailment equals demand. No transmission network or load-shedding variable is present.
+Hdef,LaPalma_FCUC_Weekly.gms,154,335,Post-outage kinetic-energy aggregate Hafter [MW s] excludes candidate i: sum H_j [s] * S_j [MW] * commitment. This is not an inertia constant in seconds.
+Gdef,LaPalma_FCUC_Weekly.gms,156,341,Post-outage aggregate governor gain Gafter [MW/Hz] excludes candidate i and divides source kg*mbase by nominal 50 Hz.
+Rdef,LaPalma_FCUC_Weekly.gms,158,347,"Post-outage headroom Rafter [MW] is the sum of surviving committed maximum output minus dispatch. The lost unit contributes neither inertia, gain nor reserve."
+rocof,LaPalma_FCUC_Weekly.gms,160,353,"For reserve/ML modes, initial RoCoF limit 2.5 Hz/s: 2*E*2.5/50 >= lost dispatch. The failed online unit loses its actual dispatch, not a fixed assumed MW."
+qss,LaPalma_FCUC_Weekly.gms,162,359,"Reserve sufficiency screen [MW]: surviving headroom >= lost dispatch. Despite its name, this is not a damped steady-state-frequency equation."
+mlSecurity,LaPalma_FCUC_Weekly.gms,164,365,Affine calibrated safety margin >= 0 for each online contingency. Big-M relaxes only an offline candidate. Coefficients encode threshold 46.5 Hz and remain frozen.
+totalCost,LaPalma_FCUC_Weekly_Recovery.gms,120,178,"Objective [kEUR]: no-load cost a*x, three dispatch blocks k*g_lin, category startup cost and wind curtailment. One-hour periods make MW numerically MWh. EUR output multiplies by 1000."
+statusFirst,LaPalma_FCUC_Weekly_Recovery.gms,122,186,Initial transition: commitment minus incoming state equals startup minus shutdown. Initial data come from the seasonal seed or accepted previous-day GDX.
+statusLater,LaPalma_FCUC_Weekly_Recovery.gms,123,191,Chronological binary transition for hours 2--24; never link one method or season to another.
+exclusiveSwitch,LaPalma_FCUC_Weekly_Recovery.gms,124,196,Forbid simultaneous startup and shutdown in the same hour.
+sumBlocks,LaPalma_FCUC_Weekly_Recovery.gms,126,202,Dispatch [MW] equals the sum of the three nonnegative generation-block outputs.
+minimumGeneration,LaPalma_FCUC_Weekly_Recovery.gms,127,207,"When committed, dispatch is at least minimum stable output [MW]; when off, block upper bounds force zero output."
+blockLimits,LaPalma_FCUC_Weekly_Recovery.gms,128,212,Each piecewise-linear cost block is bounded by its original MW capacity times commitment. No altered merit order or fitted costs are introduced.
+minimumUpTime,LaPalma_FCUC_Weekly_Recovery.gms,130,218,A startup in the preceding minimum-up-time window forces commitment. Residual initial obligations are imposed separately through x.fx.
+minimumDownTime,LaPalma_FCUC_Weekly_Recovery.gms,131,223,A shutdown in the preceding minimum-down-time window forces the unit off. The native indexing and initial-state treatment are retained.
+rampUpFirst,LaPalma_FCUC_Weekly_Recovery.gms,133,229,First-hour increase relative to incoming dispatch is bounded by the source ramp-up amount [MW per one-hour step]. No startup ramp relaxation is added.
+rampDownFirst,LaPalma_FCUC_Weekly_Recovery.gms,134,234,First-hour decrease relative to incoming dispatch is bounded by the source ramp-down amount [MW per one-hour step].
+rampUpLater,LaPalma_FCUC_Weekly_Recovery.gms,135,239,Inter-hour dispatch increase cannot exceed the source ramp-up amount [MW].
+rampDownLater,LaPalma_FCUC_Weekly_Recovery.gms,136,244,Inter-hour dispatch decrease cannot exceed the source ramp-down amount [MW].
+onAgeCap,LaPalma_FCUC_Weekly_Recovery.gms,138,250,On-age [h] is zero when off and bounded by ageM when on. ageM covers incoming ages plus this horizon; it is not the ML outage Big-M.
+offAgeCap,LaPalma_FCUC_Weekly_Recovery.gms,139,255,Off-age [h] is zero when on and bounded by ageM when off.
+onFirstLower,LaPalma_FCUC_Weekly_Recovery.gms,141,261,First-hour lower bound for continued on-age. Together with its upper bound it increments the incoming on-age exactly when on.
+onFirstUpper,LaPalma_FCUC_Weekly_Recovery.gms,142,266,Matching upper bound for first-hour on-age [h]; commitment activates the age recurrence.
+offFirstLower,LaPalma_FCUC_Weekly_Recovery.gms,143,271,First-hour lower bound for off-age [h]; the incoming off-age is incremented only while off.
+offFirstUpper,LaPalma_FCUC_Weekly_Recovery.gms,144,276,Matching first-hour upper bound for off-age [h].
+onLaterLower,LaPalma_FCUC_Weekly_Recovery.gms,146,282,On-age lower recurrence within the day. Off-state cap resets the clock; the subsequent startup produces age one.
+onLaterUpper,LaPalma_FCUC_Weekly_Recovery.gms,147,287,On-age upper recurrence within the day; retains the exact original Big-M expression.
+offLaterLower,LaPalma_FCUC_Weekly_Recovery.gms,148,292,Off-age lower recurrence within the day; clock measures consecutive completed off hours.
+offLaterUpper,LaPalma_FCUC_Weekly_Recovery.gms,149,297,Off-age upper recurrence within the day; this history selects the next startup-cost category.
+startCategorySum,LaPalma_FCUC_Weekly_Recovery.gms,151,303,"Exactly one startup category is active on startup, and no category is active otherwise."
+startFirstLower,LaPalma_FCUC_Weekly_Recovery.gms,152,308,Incoming off-age must lie above the selected first-hour startup-category threshold [h].
+startFirstUpper,LaPalma_FCUC_Weekly_Recovery.gms,153,313,Incoming off-age cannot exceed the selected category upper threshold; final category uses ageM.
+startLaterLower,LaPalma_FCUC_Weekly_Recovery.gms,154,318,"Before a later startup, preceding-hour off-age must reach the chosen category lower bound [h]."
+startLaterUpper,LaPalma_FCUC_Weekly_Recovery.gms,155,323,"Before a later startup, preceding-hour off-age cannot exceed the chosen category upper bound [h]."
+powerBalance,LaPalma_FCUC_Weekly_Recovery.gms,157,329,Aggregate energy balance [MW]: thermal dispatch plus available wind minus curtailment equals demand. No transmission network or load-shedding variable is present.
+Hdef,LaPalma_FCUC_Weekly_Recovery.gms,159,335,Post-outage kinetic-energy aggregate Hafter [MW s] excludes candidate i: sum H_j [s] * S_j [MW] * commitment. This is not an inertia constant in seconds.
+Gdef,LaPalma_FCUC_Weekly_Recovery.gms,161,341,Post-outage aggregate governor gain Gafter [MW/Hz] excludes candidate i and divides source kg*mbase by nominal 50 Hz.
+Rdef,LaPalma_FCUC_Weekly_Recovery.gms,163,347,"Post-outage headroom Rafter [MW] is the sum of surviving committed maximum output minus dispatch. The lost unit contributes neither inertia, gain nor reserve."
+rocof,LaPalma_FCUC_Weekly_Recovery.gms,165,353,"For reserve/ML modes, initial RoCoF limit 2.5 Hz/s: 2*E*2.5/50 >= lost dispatch. The failed online unit loses its actual dispatch, not a fixed assumed MW."
+qss,LaPalma_FCUC_Weekly_Recovery.gms,167,359,"Reserve sufficiency screen [MW]: surviving headroom >= lost dispatch. Despite its name, this is not a damped steady-state-frequency equation."
+mlSecurity,LaPalma_FCUC_Weekly_Recovery.gms,169,365,Affine calibrated safety margin >= 0 for each online contingency. Big-M relaxes only an offline candidate. Coefficients encode threshold 46.5 Hz and remain frozen.

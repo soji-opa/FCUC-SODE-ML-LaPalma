@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "uploaded_working_sha256": "654fc6b6186c7f7a35bba5da0cfe39a7bad82f0d7f2084ecc9654e7f265fc741",
+  "pre_run_expected_sha256": "27f70c8b1c1106fd0b8e053c33d59b93aa880f7f065894b2b4a5c81d8ab5963f",
+  "matching_line_endings": [
+    "LF",
+    "LF-final"
+  ],
+  "only_default_changes": {
+    "SEARCH_GAP": [
+      "0.0125",
+      "0.005"
+    ],
+    "POLISH_SECONDS": [
+      "600",
+      "300"
+    ]
+  },
+  "option_file_sha256": "1870d937c9693b90820800aa90711770a6f87332d37124d739da5cbf731121a5",
+  "option_file_contents": "threads 4\n",
+  "native_execution": "NOT RUN"
+}

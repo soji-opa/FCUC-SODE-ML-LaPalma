@@ -1,0 +1,226 @@
+[
+  {
+    "file": "LP35_Calibrated.inc",
+    "original_sha256": "00b3a917599f39a97ce1a2238ff24ba608863c174d958c25dbc78bc156454418",
+    "frozen_expected_sha256": "00b3a917599f39a97ce1a2238ff24ba608863c174d958c25dbc78bc156454418",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "LP35_Jobs.inc",
+    "original_sha256": "87f9f07604ca1dbd7c4e4405452427b4497a2ad8adec3a10a3553670ccba1e1c",
+    "frozen_expected_sha256": "87f9f07604ca1dbd7c4e4405452427b4497a2ad8adec3a10a3553670ccba1e1c",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "LP_SP_Raja_Data.inc",
+    "original_sha256": "bc26b0da49cb4e64724af4a983eded7d38b3b48688e8ca40a0b4b919824fc504",
+    "frozen_expected_sha256": "bc26b0da49cb4e64724af4a983eded7d38b3b48688e8ca40a0b4b919824fc504",
+    "raw_hash_status": "PASS",
+    "public_included": false,
+    "note": "Third-party-derived historical SP include withheld pending permission."
+  },
+  {
+    "file": "LP_SP_Raja_Equations.inc",
+    "original_sha256": "d0204daffac2d4599d49db8de557bb748342e547335363c23ccb6f0e9c01df75",
+    "frozen_expected_sha256": "d0204daffac2d4599d49db8de557bb748342e547335363c23ccb6f0e9c01df75",
+    "raw_hash_status": "PASS",
+    "public_included": false,
+    "note": "Third-party-derived historical SP include withheld pending permission."
+  },
+  {
+    "file": "LaPalma_Calibrated.inc",
+    "original_sha256": "7ef2d52e5e78d299bfe881023c556d839e7f15fda142ef273b4b4b89d98ddef1",
+    "frozen_expected_sha256": "7ef2d52e5e78d299bfe881023c556d839e7f15fda142ef273b4b4b89d98ddef1",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "LaPalma_Jobs.inc",
+    "original_sha256": "04fa9080ebc00c14df1c57ee35751a02dc7999a02f600372b98236269bcf6507",
+    "frozen_expected_sha256": "04fa9080ebc00c14df1c57ee35751a02dc7999a02f600372b98236269bcf6507",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "RES_seasons.inc",
+    "original_sha256": "c1142e26de232b92bed7366b7a58474cb5d7c8ca8c550a974fa72835e4ff5040",
+    "frozen_expected_sha256": "c1142e26de232b92bed7366b7a58474cb5d7c8ca8c550a974fa72835e4ff5040",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux10.inc",
+    "original_sha256": "8c22ab76fbb329684df2e5a913f9677da637af0e4e1b9d462204ae78d55678c4",
+    "frozen_expected_sha256": "8c22ab76fbb329684df2e5a913f9677da637af0e4e1b9d462204ae78d55678c4",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux11.inc",
+    "original_sha256": "2b465dac77dc984af5860848ae7918380df73236e8186064b2797fa5c1c316da",
+    "frozen_expected_sha256": "2b465dac77dc984af5860848ae7918380df73236e8186064b2797fa5c1c316da",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux12.inc",
+    "original_sha256": "ae6808d2af5bafe2b3f9e8f613af2dca114430b56be00f1b81b29e2247dfcccd",
+    "frozen_expected_sha256": "ae6808d2af5bafe2b3f9e8f613af2dca114430b56be00f1b81b29e2247dfcccd",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux2.inc",
+    "original_sha256": "d0477c9d7da842038ea171bb859e9aa2a5fa63b6159f23817efbe6fdbdf83106",
+    "frozen_expected_sha256": "d0477c9d7da842038ea171bb859e9aa2a5fa63b6159f23817efbe6fdbdf83106",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux3.inc",
+    "original_sha256": "48446fd25496b2786b2b9aec1bace18cdbd147a53be65a39d101c90e0f351080",
+    "frozen_expected_sha256": "48446fd25496b2786b2b9aec1bace18cdbd147a53be65a39d101c90e0f351080",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux4.inc",
+    "original_sha256": "ddf51508ce1b8964d0e7b32dca12c071b149151f921dec2a945e90c35796c34e",
+    "frozen_expected_sha256": "ddf51508ce1b8964d0e7b32dca12c071b149151f921dec2a945e90c35796c34e",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux5.inc",
+    "original_sha256": "b9af6689d8e822ec3ef1c17929aaeb987eb4c4bc55e39e07cc181abef533be8c",
+    "frozen_expected_sha256": "b9af6689d8e822ec3ef1c17929aaeb987eb4c4bc55e39e07cc181abef533be8c",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux6.inc",
+    "original_sha256": "644c802a2ab6c81c310d6d16027865a3a8754b4a70accb29c77e85318ca6624d",
+    "frozen_expected_sha256": "644c802a2ab6c81c310d6d16027865a3a8754b4a70accb29c77e85318ca6624d",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux7.inc",
+    "original_sha256": "8a70cbc8a31f67a709713fa594b9f36804aa71989f4094ab8863ad7bd13e748d",
+    "frozen_expected_sha256": "8a70cbc8a31f67a709713fa594b9f36804aa71989f4094ab8863ad7bd13e748d",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux8.inc",
+    "original_sha256": "7dd3d5dc94ae299fcad42dceb57fd7a8db481bffd81b6bf95c07ec1c6dfe0d80",
+    "frozen_expected_sha256": "7dd3d5dc94ae299fcad42dceb57fd7a8db481bffd81b6bf95c07ec1c6dfe0d80",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "aux9.inc",
+    "original_sha256": "804975af2749009c64a711eed349806dbd221f7b9754e5f93a491a2636e7d5c3",
+    "frozen_expected_sha256": "804975af2749009c64a711eed349806dbd221f7b9754e5f93a491a2636e7d5c3",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "auxinertia.inc",
+    "original_sha256": "32148263f5173d0764144dd1ab7bac6dc9ff9064d40d9ad95afbaab46d9e25bb",
+    "frozen_expected_sha256": "32148263f5173d0764144dd1ab7bac6dc9ff9064d40d9ad95afbaab46d9e25bb",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "auxk.inc",
+    "original_sha256": "0add2be3cf551b3a4c182578eb6f8e83a1a555496e9cca767f268546ff8bf339",
+    "frozen_expected_sha256": "0add2be3cf551b3a4c182578eb6f8e83a1a555496e9cca767f268546ff8bf339",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "auxmbase.inc",
+    "original_sha256": "82da066d5a484980802ed70c61860a035aca531ddc0e1bf43884b562f471c707",
+    "frozen_expected_sha256": "82da066d5a484980802ed70c61860a035aca531ddc0e1bf43884b562f471c707",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "block_max.inc",
+    "original_sha256": "9126deaf5be2af52edd4c671c5290a64ce8b828f84782e36c09069314528feb7",
+    "frozen_expected_sha256": "9126deaf5be2af52edd4c671c5290a64ce8b828f84782e36c09069314528feb7",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "cost_coefs.inc",
+    "original_sha256": "ddcd953f246875f747a1c9c498ce72054ef3dfd29ee4049c5a309476a4e13ae8",
+    "frozen_expected_sha256": "ddcd953f246875f747a1c9c498ce72054ef3dfd29ee4049c5a309476a4e13ae8",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "d_seasons.inc",
+    "original_sha256": "8a0da2ca24e1a44946cf534f45098734aeb2174d312e6face0812c55083365ee",
+    "frozen_expected_sha256": "8a0da2ca24e1a44946cf534f45098734aeb2174d312e6face0812c55083365ee",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "k.inc",
+    "original_sha256": "d90a876ffc16a9531c37059a91dad46633885c73794d0a13b1d12007dbb4d895",
+    "frozen_expected_sha256": "d90a876ffc16a9531c37059a91dad46633885c73794d0a13b1d12007dbb4d895",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "line_map.inc",
+    "original_sha256": "2f620887e02c9a539205988fea6da3c1a8bba5089d3302703a1792b5a7424ed8",
+    "frozen_expected_sha256": "2f620887e02c9a539205988fea6da3c1a8bba5089d3302703a1792b5a7424ed8",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "start_up_sl.inc",
+    "original_sha256": "b6d9f48ef3fdd0e965a873838ec9c6143fec65a510cc501169b94ccf104b85c8",
+    "frozen_expected_sha256": "b6d9f48ef3fdd0e965a873838ec9c6143fec65a510cc501169b94ccf104b85c8",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  },
+  {
+    "file": "start_up_sw.inc",
+    "original_sha256": "391c54b86261992e685850da469fb6fa455269eeac58dce358b40a185c610054",
+    "frozen_expected_sha256": "391c54b86261992e685850da469fb6fa455269eeac58dce358b40a185c610054",
+    "raw_hash_status": "PASS",
+    "public_included": true,
+    "note": ""
+  }
+]

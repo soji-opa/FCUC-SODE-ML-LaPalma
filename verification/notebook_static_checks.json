@@ -1,0 +1,656 @@
+[
+  {
+    "path": "Notebooks_LaPalma/01_LP35_Prepare_Labels.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from copy import copy as copy_style",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, hashlib, os, time",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "Notebooks_LaPalma/02_LP35_Train_and_Export.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from copy import copy as copy_style",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.base import clone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.pipeline import Pipeline",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.preprocessing import StandardScaler",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.model_selection import StratifiedGroupKFold, GroupShuffleSplit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.linear_model import LogisticRegression, SGDClassifier, PassiveAggressiveClassifier",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.svm import SVC",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import logit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.discriminant_analysis import LinearDiscriminantAnalysis",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.metrics import confusion_matrix, average_precision_score, roc_auc_score, brier_score_loss",
+        "status": "PASS"
+      },
+      {
+        "statement": "import joblib, warnings",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.model_selection import StratifiedKFold",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import brentq",
+        "status": "PASS"
+      },
+      {
+        "statement": "import sklearn, scipy, platform",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.metrics import precision_recall_curve",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "Notebooks_LaPalma/03_LP35_Process_and_Plot.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from copy import copy as copy_style",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.stats import gaussian_kde",
+        "status": "PASS"
+      },
+      {
+        "statement": "import difflib",
+        "status": "PASS"
+      },
+      {
+        "statement": "import hashlib",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json",
+        "status": "PASS"
+      },
+      {
+        "statement": "import re",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path, PurePosixPath",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "import difflib",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path, PurePosixPath",
+        "status": "PASS"
+      },
+      {
+        "statement": "import hashlib, json",
+        "status": "PASS"
+      },
+      {
+        "statement": "from matplotlib.backends.backend_pdf import PdfPages",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import hashlib, json, pandas as pd, numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.stats import gaussian_kde",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json",
+        "status": "PASS"
+      },
+      {
+        "statement": "import shutil",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "historical_3Hz/Notebooks_LaPalma/01_LP_Run_Guide_and_Audit.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from joblib import Parallel, delayed",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "historical_3Hz/Notebooks_LaPalma/02_LP_Dynamics_and_Labels.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from joblib import Parallel, delayed",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, hashlib, os, time",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "historical_3Hz/Notebooks_LaPalma/04_LP_Seasonal_Weekly_Results.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "from datetime import datetime, timezone",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile, ZIP_DEFLATED",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      },
+      {
+        "statement": "import csv, hashlib, json, math, os, re, shutil, sys, time, tempfile",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from joblib import Parallel, delayed",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.stats import gaussian_kde",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.metrics import precision_recall_curve",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "notebooks/00_Quick_Start.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, hashlib, re",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "notebooks/01_Frozen_Cuts_and_Export.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, hashlib, re",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "import math",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.special import expit",
+        "status": "PASS"
+      },
+      {
+        "statement": "from sklearn.model_selection import StratifiedKFold",
+        "status": "PASS"
+      },
+      {
+        "statement": "from types import SimpleNamespace",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "notebooks/02_SODE_Equation_Checks.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, math",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.integrate import solve_ivp",
+        "status": "PASS"
+      },
+      {
+        "statement": "from scipy.optimize import minimize_scalar",
+        "status": "PASS"
+      },
+      {
+        "statement": "import matplotlib.pyplot as plt",
+        "status": "PASS"
+      }
+    ]
+  },
+  {
+    "path": "notebooks/03_Read_and_Audit_Native_Results.ipynb",
+    "structure": "PASS",
+    "python_syntax": "PASS",
+    "imports": [
+      {
+        "statement": "from pathlib import Path",
+        "status": "PASS"
+      },
+      {
+        "statement": "import json, hashlib, re",
+        "status": "PASS"
+      },
+      {
+        "statement": "import numpy as np",
+        "status": "PASS"
+      },
+      {
+        "statement": "import pandas as pd",
+        "status": "PASS"
+      },
+      {
+        "statement": "import math",
+        "status": "PASS"
+      },
+      {
+        "statement": "from zipfile import ZipFile",
+        "status": "PASS"
+      },
+      {
+        "statement": "from xml.etree import ElementTree as ET",
+        "status": "PASS"
+      }
+    ]
+  }
+]

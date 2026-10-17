@@ -1,0 +1,44 @@
+{
+  "notebook_completed": true,
+  "native_workbook_audit": "NOT RUN",
+  "native_days_audited": 0,
+  "reader_number_checks": "PASS",
+  "days": [
+    {
+      "day": 1,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 2,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 3,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 4,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 5,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 6,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    },
+    {
+      "day": 7,
+      "status": "NOT RUN",
+      "reason": "No native workbook supplied/generated."
+    }
+  ],
+  "sode_assessment": "NOT RUN"
+}
