@@ -1,6 +1,6 @@
 # Frequency-constrained unit commitment using machine learning surrogates
 
-## La Palma — frozen-coefficient research software
+## La Palma — SODE-ML FCUC repository using La Palma
 
 Software companion to manuscript **SEGAN-D-26-02403**, *Frequency-constrained unit commitment using machine learning surrogates*.
 
