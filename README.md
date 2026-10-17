@@ -29,9 +29,8 @@ See [RUN_LAPALMA.md](RUN_LAPALMA.md) for the exact DAY/WEEK/ALL choices and outp
 | Native implementation | Aggregate island MILP in GAMS 24.9, solved with CPLEX; no Pyomo solver substitution |
 | Uploaded working solver settings | Search target 0.5%, search cap 1,200 s; fixed-commitment polish cap 300 s; 4 threads |
 
-The archived `LP35_Deployment.json` records an earlier 1.25% / 600 s plan. It is preserved, not silently edited. The uploaded working GAMS defaults, the exact supplied `cplex.opt`, and the embedded prior review record support the separate working configuration above. See [solver provenance](docs/Solver_Provenance.md).
 
-The primary full roster contains **336 ML daily solves**. The reported 56 reused BC/RESERVE days and 28 historical analytical SP schedules are separate evidence; they are not additional LP35 ML jobs. Historical 3-Hz source is segregated under `historical_3Hz/` and is not the default executable branch.
+The primary full roster contains **336 ML daily solves**. The reported 56 reused BC/RESERVE days and 28 analytical SP schedules are separate evidence; they are not additional LP35 ML jobs. Historical 3-Hz source is segregated under `historical_3Hz/` and is not the default executable branch.
 
 ### Repository map
 
@@ -52,7 +51,6 @@ Data_LaPalma/      Reserved for genuine full-research archive; not needed by nat
 
 **Executed in the builder:** the four lightweight notebooks, including actual-fleet Big-M/export tests, artificial SODE equation checks, input checks and result-reader setup. The result-reader reports NOT RUN when there are no native workbooks.
 
-**Not claimed:** native GAMS/CPLEX execution in the builder, exact reproduction of the entire manuscript evidence archive, or regeneration of the original labels/training from this small download. Full research replay requires the genuine `LP_Case.json`, `LP35_Protocol.json`, and matching parent/label/fitted-model/cache/native archives. These are not fabricated or replaced by the deployment manifest. Artificial teaching fixtures are never treated as accepted study outcomes.
 
 ### Read the formulation
 
@@ -64,7 +62,7 @@ The GAMS files follow an explicit data → variables → equations → solve →
 
 Use `CITATION.cff` as the software metadata record; replace the collective project author entry with the author-approved list and add a DOI only when one exists. No manuscript acceptance/publication DOI is invented.
 
-`LICENSING_PENDING.md` deliberately does not grant an unauthorized license. The authors must select the public reuse terms. Rajabdorri's supplied reference package and its historical SP include pair are not redistributed. His examples informed the requested teaching style. The [RPG Lab LRC_SCUC repository](https://github.com/rpglab/LRC_SCUC) and its [resource page](https://rpglab.github.io/resources/LRC-SCUC_Python/) informed the simple file/data/run-guide organization only; none of its scientific code, data, license or locational constraints was copied into this model.
+
 
 ### Limitations
 
